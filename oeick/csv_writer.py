@@ -10,7 +10,7 @@ reader = csv.DictReader(open('../probieren.csv',
 simple_dict = [{f: r[f] for f in r} for r in reader]
 print(simple_dict)
 
-field_names = list(simple_dict[0].keys())
+field_names = simple_dict[0].keys()
 print(field_names)
 
 writer = csv.DictWriter(open('output.csv',
@@ -18,7 +18,7 @@ writer = csv.DictWriter(open('output.csv',
                              newline='',
                              encoding='utf-8'),
                         field_names,
-                        delimiter=';')
+                        delimiter=',')
 writer.writeheader()
 for r in simple_dict:
     writer.writerow(r)
