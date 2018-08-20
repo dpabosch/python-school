@@ -1,7 +1,7 @@
-seperator = ','
+seperator = ';'
 csv = []
 
-with open("../beispiel.csv") as file:
+with open("../probieren.csv") as file:
     columns = file.readline().strip().split(seperator)
     # print(columns)
     for line in file.readlines():
