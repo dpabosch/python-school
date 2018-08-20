@@ -9,9 +9,9 @@ def import_csv(filename):
     return list_of_entrys
 
 
-def write_csv(filename, fieldnames, listOfEntrys):
+def write_csv(filename, listOfEntrys):
     csvfile = open(filename, "w", encoding='utf-8', newline='')
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=',')
+    writer = csv.DictWriter(csvfile, fieldnames=listOfEntrys[0].keys(), delimiter=',')
     writer.writeheader()
 
     for row in listOfEntrys:
@@ -19,4 +19,4 @@ def write_csv(filename, fieldnames, listOfEntrys):
 
 
 list_of_entrys = import_csv('../probieren.csv')
-write_csv("output.csv", list_of_entrys[0].keys(), list_of_entrys)
+write_csv("output.csv", list_of_entrys)
