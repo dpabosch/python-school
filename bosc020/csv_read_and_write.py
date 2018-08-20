@@ -14,7 +14,7 @@ def write_csv(filename, fieldnames, listOfEntrys):
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=',')
     writer.writeheader()
 
-    for row in list_of_entrys:
+    for row in listOfEntrys:
         writer.writerow(row)
 
 
