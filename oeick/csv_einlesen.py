@@ -3,7 +3,7 @@
 import csv
 
 reader = csv.DictReader(
-         open('../probieren.csv', 'r'),
+         open('../probieren.csv', 'r', encoding='utf-8'),
          delimiter=';')
 
 for row in reader:
