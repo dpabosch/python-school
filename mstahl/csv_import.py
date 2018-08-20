@@ -1,17 +1,9 @@
 # coding: utf-8
+import csv
 
-seperator = ';'
-csv = []
+inputFile = "../probieren.csv"
+outputFile = "probieren_mit_id.csv"
 
-with open("../probieren.csv",encoding="utf-8") as file:
-    columns = file.readline().strip().split(seperator)
-    # print(columns)
-    for line in file.readlines():
-        values = line.strip().split(seperator)
-        row = {}
-        for i in range(len(values)):
-            row[columns[i]] = values[i]
-        csv.append(row)
+csv_file = csv.csv_import(inputFile)
 
-for line in csv:
-    print(line)
+csv.csv_export(outputFile,csv_file)
