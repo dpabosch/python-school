@@ -3,8 +3,8 @@
 import csv
 
 reader = csv.DictReader(
-         open('../probieren.csv', 'r', encoding='utf-8'),
-         delimiter=';')
+           open('../probieren.csv', 'r', encoding='utf-8'),
+           delimiter=';')
 
 simple_dict = [{f: r[f] for f in r} for r in reader]
 print(simple_dict)
