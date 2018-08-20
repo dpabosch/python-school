@@ -12,6 +12,9 @@ writer.writeheader()
 for row in csvReader:
     print(row)
     list_of_entrys.append(row)
+
+for row in list_of_entrys:
     writer.writerow(row)
+
 
 
