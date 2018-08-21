@@ -1,10 +1,10 @@
 import csv
 
 
-def read_csv(filename, path='./', encoding='UTF-8', delimiter=';'):
+def read_csv(filename, encoding='UTF-8', delimiter=';'):
     contentList = []
     try:
-        with open(path+filename, encoding=encoding) as csvfile:
+        with open(filename, encoding=encoding) as csvfile:
             csvData = csv.DictReader(csvfile, delimiter=delimiter)
             for row in csvData:
                 contentList.append(row)
@@ -23,5 +23,5 @@ def write_csv(filename, listOfEntrys, delimiter=';'):
 
 
 if __name__ == '__main__':
-    list_of_dicts_from_file = read_csv('probieren.csv', '../')
+    list_of_dicts_from_file = read_csv('../probieren.csv')
     write_csv('output_function.csv', list_of_dicts_from_file, delimiter=';')
