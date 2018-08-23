@@ -1,0 +1,9 @@
+API
+https://www.digitalocean.com/community/tutorials/how-to-use-web-apis-in-python-3
+https://resttesttest.com/
+
+MODULTESTS
+https://www.python-kurs.eu/python3_tests.php
+https://www.sealights.io/test-metrics/python-code-coverage/
+
+
