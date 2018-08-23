@@ -1,0 +1,1001 @@
+Nr. ;Datum; Anrede  ;  Titel  ;  Vorname  ;  Nachname  ;  Geburtsdatum  ;  Straße  ;  PLZ  ;  Stadt  ;  Telefon  ;  Mobil  ;  Telefax  ;  E-Mail ;  Newsletter
+1;09.07.2016; Frau ; Prof. ; Pauline ; Oberländer ; 17.7.1980 ; Oberschlesier Str. 24 ;55546; Biebelsheim ; 06701 / 52368165 ; 0165 / 5518460 ; 06701 / 11809568 ; pauline.oberlaender@mail.xyz ; ja
+2;18.09.2016; Frau ; Dr. ; Alissa ; Tillmann ; 18.4.1977 ; Norbertstr. 109 ;96242; Sonnefeld ; 09562 / 13093069 ; 0165 / 9607659 ; 09562 / 15596418 ; a.tillmann@mail.xyz ; ja
+3;28.09.2016; Frau ; Dr. ; Marta ; Armbruster ; 5.11.1946 ; Düsseldorfer Str. 31 ;14167; Lichterfelde ; 030 / 86584611 ; 0160 / 4521301 ; 030 / 23845953 ; marta.armbruster@mail.xyz ; ja
+4;29.10.2016; Frau ; Dr. ; Julie ; Marktschreier ; 13.2.1998 ; Kösliner Str. 18 ;97511; Lülsfeld ; 09382 / 58247254 ; 0171 / 2130807 ; 09382 / 56818688 ; j.marktschreier@mail.xyz ; ja
+5;04.05.2016; Herr ; Dr. ; Mats ; Eberhardt ; 7.3.1927 ; Jägerstr. A 189 ;85253; Erdweg ; 08138 / 18127275 ; 0175 / 7393344 ; 08138 / 59542383 ; m.eberhardt@mail.xyz ; ja
+6;23.10.2016; Frau ; Dr. ; Alena ; Harper ; 22.7.1943 ; Rottkamp 35 ;24937; Flensburg ; 0461 / 69587109 ; 0165 / 9305365 ; 0461 / 89196050 ; alena.harper@mail.xyz ; ja
+7;03.09.2016; Frau ; Dr. ; Ayleen ; Böttner ; 17.5.1966 ; Schmeddingstr. 77a ;67280; Quirnheim ; 06359 / 77049142 ; 0170 / 9453378 ; 06359 / 27275587 ; a.boettner@mail.xyz ; ja
+8;20.07.2016; Herr ; Dr. ; Lennart ; Hage ; 23.3.1950 ; Wollinstr. 141 ;93495; Weiding ; 09977 / 69629484 ; 0164 / 5262209 ; 09977 / 3397443 ; lennart.hage@mail.xyz ; ja
+9;22.02.2016; Frau ; Dr. ; Hildegard ; Reitmeier ; 13.10.1982 ; Lassallestr. 93 ;24392; Ekenis ; 04641 / 75410654 ; 0157 / 4682470 ; 04641 / 15172320 ; h.reitmeier@mail.xyz ; ja
+10;14.07.2016; Frau ; Prof. ; Marta ; Schätzle ; 14.11.1966 ; Parkallee 30 ;99097; Erfurt ; 0361 / 26848345 ; 0157 / 3101938 ; 0361 / 8040848 ; m.schaetzle@mail.xyz ; ja
+11;18.06.2016; Herr ; Dr. ; Nils ; Lehr ; 25.9.1966 ; Holunderweg 84 ;47443; Moers ; 02841 / 69105027 ; 0166 / 5493710 ; 02841 / 49125626 ; nils.lehr@mail.xyz ; ja
+12;13.03.2016; Frau ; Dr. ; Maren ; Pätzold ; 19.9.1935 ; Meckmannweg 90 ;28870; Ottersberg ; 04205 / 98161149 ; 0165 / 7567717 ; 04205 / 8032272 ; maren.paetzold@mail.xyz ; ja
+13;18.12.2016; Frau ; Dr. ; Lilian ; Behr ; 9.6.1975 ; Düsseldorfer Str. 149 ;56348; Weisel ; 06774 / 84097147 ; 0175 / 6719999 ; 06774 / 21323007 ; lilian.behr@mail.xyz ; ja
+14;07.09.2016; Herr ; Dr. ; Rudolph ; Kara ; 22.8.1945 ; An Lyskirchen 149 ;36145; Hofbieber ; 06657 / 34977153 ; 0175 / 2875513 ; 06657 / 35829710 ; r.kara@mail.xyz ; ja
+15;16.01.2016; Frau ; Dr. ; Sarah ; Wilhelmi ; 9.11.1954 ; Zur Wiese 155 ;27308; Kirchlinteln ; 04236 / 14744773 ; 0166 / 6676915 ; 04236 / 88653030 ; s.wilhelmi@mail.xyz ; ja
+16;23.03.2016; Frau ; Dr. ; Marianne ; Ballard ; 18.10.1921 ; Heroldstr. 148 ;56244; Wölferlingen ; 02626 / 1974325 ; 0155 / 8951364 ; 02626 / 8098180 ; marianne.ballard@mail.xyz ; ja
+17;23.05.2016; Frau ; Dr. ; Lea ; Siemon ; 4.6.1983 ; Simon-Meister-Str. 132 ;63928; Eichenbühl ; 09371 / 86624894 ; 0175 / 4018099 ; 09371 / 7968966 ; l.siemon@mail.xyz ; ja
+18;15.09.2016; Frau ; Prof. ; Leoni ; Hetzel ; 19.4.1960 ; Osthuesheide 153 ;66113; Saarbrücken ; 0681 / 54998474 ; 0167 / 4147842 ; 0681 / 90143883 ; l.hetzel@mail.xyz ; ja
+19;29.09.2016; Herr ; Dr. ; Anthony ; Muller ; 15.6.1940 ; Rennbahnstr. 64 ;74867; Neunkirchen ; 06262 / 97528456 ; 0161 / 3361271 ; 06262 / 35771621 ; anthony.muller@mail.xyz ; ja
+20;25.06.2016; Herr ; Dr. ; Malte ; Ostrowski ; 17.1.1972 ; Mondstr. 38 ;27333; Warpe ; 04251 / 6347895 ; 0155 / 9734287 ; 04251 / 40754197 ; malte.ostrowski@mail.xyz ; ja
+21;14.10.2016; Frau ; Dr. ; Laila ; Michels ; 3.5.1982 ; Steinfurter Str. 123 ;78269; Volkertshausen ; 07774 / 24734765 ; 0156 / 2897457 ; 07774 / 94823023 ; laila.michels@mail.xyz ; ja
+22;06.07.2016; Herr ; Dr. ; Klaas ; Ebeling ; 17.1.1970 ; Holunderweg 90 ;23911; Salem ; 04547 / 5933306 ; 0175 / 2281687 ; 04547 / 84349695 ; klaas.ebeling@mail.xyz ; ja
+23;19.09.2016; Herr ; Prof. ; Malte ; Lloyd ; 28.4.1936 ; Am Getterbach 35 ;76887; Bad Bergzabern ; 06343 / 42411938 ; 0163 / 9038153 ; 06343 / 5614682 ; m.lloyd@mail.xyz ; ja
+24;04.01.2016; Herr ; Dr. ; Milan ; Hinrichsen ; 17.8.1925 ; Hermann-Treff-Weg 187 ;82276; Adelshofen ; 08146 / 68517511 ; 0157 / 4925703 ; 08146 / 68108129 ; m.hinrichsen@mail.xyz ; ja
+25;22.09.2016; Frau ; Dr. ; Jenny ; Balke ; 18.7.1990 ; Am Hörsterfriedhof 166 ;83122; Samerberg ; 08032 / 13813186 ; 0172 / 5605757 ; 08032 / 96384609 ; jenny.balke@mail.xyz ; ja
+26;19.01.2016; Herr ; Dr. ; Tore ; Richardson ; 14.1.2000 ; Lassallestr. 57 ;37077; Göttingen ; 0551 / 40027646 ; 0173 / 4991510 ; 0551 / 36061052 ; t.richardson@mail.xyz ; ja
+27;19.03.2016; Frau ; Dr. ; Louise ; Wiese ; 22.9.1962 ; An den Weiden 173 ;99986; Kammerforst ; 03601 / 11939155 ; 0165 / 3583595 ; 03601 / 60115883 ; l.wiese@mail.xyz ; ja
+28;16.01.2016; Herr ; Dr. ; Gert ; Sieben ; 7.11.1924 ; Kreuzstr. 12 ;55126; Mainz am Rhein ; 06131 / 73195266 ; 0166 / 3152540 ; 06131 / 97752933 ; gert.sieben@mail.xyz ; ja
+29;07.02.2016; Frau ; Dr. ; Stina ; Schweigert ; 10.3.1935 ; Fresnostr. 127 ;56479; Neunkirchen ; 02664 / 94646204 ; 0163 / 6367040 ; 02664 / 88750212 ; s.schweigert@mail.xyz ; ja
+30;29.10.2016; Herr ; Dr. ; Heiko ; Doyle ; 19.5.1936 ; Rottkamp 58 ;56479; Neustadt ; 02664 / 24861569 ; 0178 / 2679185 ; 02664 / 12288335 ; h.doyle@mail.xyz ; ja
+31;29.11.2016; Herr ; Dr. ; Aaron ; Nass ; 15.5.1977 ; Am Grauen Stein 120 ;24881; Nübel ; 04622 / 54192435 ; 0152 / 6608659 ; 04622 / 18997294 ; a.nass@mail.xyz ; ja
+32;28.06.2016; Herr ; Dr. ; Jeremy ; Lamers ; 10.1.1947 ; Memmertweg 104 ;91614; Mönchsroth ; 09853 / 6580579 ; 0171 / 6122705 ; 09853 / 84997518 ; jeremy.lamers@mail.xyz ; ja
+33;15.12.2016; Herr ; Dr. ; Damian ; Küppers ; 21.10.1993 ; Schwalbenweg 19 ;39120; Magdeburg ; 0391 / 8291342 ; 0155 / 4661005 ; 0391 / 24211264 ; damian.kueppers@mail.xyz ; ja
+34;13.06.2016; Frau ; Dr. ; Janne ; Furt ; 21.3.1948 ; Janningsweg 170 ;17217; Mallin ; 03962 / 19594463 ; 0161 / 3822065 ; 03962 / 18744174 ; janne.furt@mail.xyz ; ja
+35;11.08.2016; Frau ; Dr. ; Jessica ; Reinke ; 10.2.1938 ; Hogenbergstr. 19 ;65558; Isselbach ; 06432 / 59611174 ; 0175 / 3399167 ; 06432 / 92555028 ; j.reinke@mail.xyz ; ja
+36;24.05.2016; Herr ; Prof. ; Marcus ; Herrera ; 22.11.1967 ; Pötterhoek 180 ;47647; Kerken ; 02833 / 94606318 ; 0168 / 2531835 ; 02833 / 2508243 ; m.herrera@mail.xyz ; ja
+37;04.09.2016; Herr ; Dr. ; Manuel ; Saalmann ; 27.6.1920 ; Düsseldorfer Str. 140 ;66851; Bann ; 06372 / 88939044 ; 0169 / 4806867 ; 06372 / 79800012 ; manuel.saalmann@mail.xyz ; ja
+38;01.03.2016; Herr ; Dr. ; Jeremy ; Herter ; 8.7.1996 ; Maximilianstr. 72 ;55413; Trechtingshausen ; 06721 / 41179800 ; 0152 / 6266442 ; 06721 / 54788805 ; jeremy.herter@mail.xyz ; ja
+39;07.01.2016; Herr ; Dr. ; Dario ; Stewart ; 23.8.1978 ; Immelmannstr. 154 ;27337; Blender ; 04233 / 60337812 ; 0158 / 1236208 ; 04233 / 39222656 ; d.stewart@mail.xyz ; ja
+40;13.04.2016; Frau ; Dr. ; Marianne ; Fahl ; 26.11.1942 ; Ossenkampstiege 188 ;97834; Birkenfeld ; 09398 / 78155378 ; 0178 / 4800107 ; 09398 / 54013705 ; m.fahl@mail.xyz ; ja
+41;28.04.2016; Herr ; Dr. ; Erich ; Schaper ; 3.3.1982 ; Im Stemmen 159 ;24796; Krummwisch ; 04340 / 17714487 ; 0174 / 8961028 ; 04340 / 44651435 ; erich.schaper@mail.xyz ; ja
+42;24.07.2016; Frau ; Prof. ; Kerstin ; Pfaff ; 26.9.1920 ; Langestr. 13 ;23554; Lübeck ; 0451 / 92744765 ; 0157 / 7595790 ; 0451 / 98353162 ; kerstin.pfaff@mail.xyz ; ja
+43;20.11.2016; Herr ; Prof. ; Noah ; Romero ; 4.1.1938 ; Elsa-Brändström-Weg 181a ;95346; Stadtsteinach ; 09225 / 86832476 ; 0151 / 8001259 ; 09225 / 55598423 ; noah.romero@mail.xyz ; ja
+44;02.03.2016; Herr ; Dr. ; Noel ; Schober ; 10.12.1920 ; Dreizehnerstr. 161 ;79777; Ühlingen-Birkendorf ; 07743 / 40550055 ; 0175 / 9454790 ; 07743 / 78532512 ; noel.schober@mail.xyz ; ja
+45;10.04.2016; Frau ; Dr. ; Christine ; Hubbard ; 28.9.1991 ; Liboristr. 11 ;88319; Aitrach ; 07565 / 78873566 ; 0169 / 2789218 ; 07565 / 92125764 ; christine.hubbard@mail.xyz ; ja
+46;03.09.2016; Frau ; Dr. ; Sandra ; Lindemann ; 18.12.1961 ; Mondstr. 25 ;31241; Ilsede ; 05172 / 31217426 ; 0151 / 1137055 ; 05172 / 77604796 ; sandra.lindemann@mail.xyz ; ja
+47;15.05.2016; Herr ; Dr. ; Marcel ; Fricke ; 9.1.1951 ; Zum Burgschemm 150 ;54518; Minderlittgen ; 06571 / 2692607 ; 0150 / 2840007 ; 06571 / 83123151 ; m.fricke@mail.xyz ; ja
+48;04.11.2016; Herr ; Prof. ; Hermann ; Neidhardt ; 26.4.1998 ; Am Oedingteich 95 ;12529; Schönefeld ; 030 / 25842105 ; 0177 / 1847361 ; 030 / 50976393 ; h.neidhardt@mail.xyz ; ja
+49;13.04.2016; Frau ; Dr. ; Christine ; Lüth ; 1.8.1986 ; Mondstr. 77 ;98693; Roda ; 03677 / 91042316 ; 0170 / 4165247 ; 03677 / 37289553 ; c.lueth@mail.xyz ; ja
+50;26.09.2016; Herr ; Dr. ; Michael ; Kappler ; 27.11.1970 ; Zum Guten Hirten 46 ;55481; Womrath ; 06763 / 60517958 ; 0165 / 1403664 ; 06763 / 66819210 ; m.kappler@mail.xyz ; ja
+51;13.03.2016; Herr ; Dr. ; Carl ; Schwalm ; 6.6.1947 ; Maximilianstr. 190 ;54317; Osburg ; 0651 / 25659985 ; 0176 / 5868139 ; 0651 / 83263800 ; carl.schwalm@mail.xyz ; ja
+52;27.03.2016; Herr ; Dr. ; Karlo ; Bäcker ; 15.2.1941 ; Guntherstr. 43 ;87527; Ofterschwang ; 08321 / 14050181 ; 0154 / 4280743 ; 08321 / 40752044 ; karlo.baecker@mail.xyz ; ja
+53;28.01.2016; Herr ; Dr. ; Heinz ; Schaffer ; 21.4.1966 ; Mecklenbecker Str. 109 ;56291; Mühlpfad ; 06747 / 98861217 ; 0162 / 3819472 ; 06747 / 93895608 ; h.schaffer@mail.xyz ; ja
+54;19.02.2016; Herr ; Dr. ; Yannik ; Schäfers ; 5.12.1954 ; Rückertstr. 23 ;86703; Rögling ; 09094 / 23293429 ; 0166 / 7578531 ; 09094 / 78823678 ; yannik.schaefers@mail.xyz ; ja
+55;13.03.2016; Frau ; Dr. ; Margarete ; Weinmann ; 28.7.1964 ; Skagerrakstr. 174 ;7389; Bucha ; 03663 / 11820868 ; 0173 / 5724364 ; 03663 / 40773605 ; m.weinmann@mail.xyz ; ja
+56;26.09.2016; Herr ; Dr. ; Laurenz ; Bertram ; 18.9.1983 ; Dorotheenstr. 189 ;61250; Usingen ; 06081 / 31756823 ; 0178 / 7979889 ; 06081 / 25715569 ; l.bertram@mail.xyz ; ja
+57;02.08.2016; Frau ; Dr. ; Kaya ; Silva ; 9.3.1990 ; Templerweg 20 ;25554; Landrecht ; 04823 / 14543857 ; 0175 / 6536595 ; 04823 / 82976285 ; kaya.silva@mail.xyz ; ja
+58;18.07.2016; Herr ; Dr. ; Chris ; Stock ; 18.8.1986 ; Dreizehnerstr. 5 ;95336; Mainleus ; 09229 / 59464212 ; 0169 / 3759052 ; 09229 / 81768691 ; chris.stock@mail.xyz ; ja
+59;23.03.2016; Herr ; Dr. ; Justus ; Harvey ; 2.6.1930 ; Heinrichstr. 84 ;21354; Bleckede ; 05852 / 35226770 ; 0160 / 3706318 ; 05852 / 46752020 ; j.harvey@mail.xyz ; ja
+60;20.04.2016; Herr ; Dr. ; Erwin ; Zoellner ; 9.7.1983 ; Görlitzer Str. 121 ;74523; Schwäbisch Hall ; 0791 / 16656916 ; 0150 / 9447037 ; 0791 / 4112799 ; e.zoellner@mail.xyz ; ja
+61;10.04.2016; Herr ; Dr. ; Mathias ; Rank ; 25.1.1929 ; Flaßkuhl 127 ;93092; Barbing ; 09401 / 76702800 ; 0179 / 7616499 ; 09401 / 95465023 ; m.rank@mail.xyz ; ja
+62;06.03.2016; Herr ; Dr. ; Mert ; Bröker ; 27.3.1985 ; Sternstr. 199 ;21682; Stade ; 04141 / 79604464 ; 0179 / 8820247 ; 04141 / 87611943 ; m.broeker@mail.xyz ; ja
+63;03.12.2016; Herr ; Dr. ; Mika ; Hackbarth ; 19.10.1979 ; Am Nubbenberg 50 ;25767; Osterrade ; 04835 / 50567001 ; 0153 / 6159639 ; 04835 / 15738258 ; m.hackbarth@mail.xyz ; ja
+64;17.04.2016; Frau ; Dr. ; Ayleen ; Jacoby ; 28.11.1966 ; Rinscheweg 77a ;20088; Hamburg ; 040 / 4983738 ; 0176 / 2189229 ; 040 / 87994736 ; ayleen.jacoby@mail.xyz ; ja
+65;27.09.2016; Herr ; Dr. ; Falk ; Teske ; 13.7.1944 ; Nieland 184 ;56829; Kail ; 02672 / 81755200 ; 0151 / 2113260 ; 02672 / 33925296 ; f.teske@mail.xyz ; ja
+66;06.01.2016; Herr ; Prof. ; Emil ; Haberland ; 5.3.1986 ; Sporckweg 16 ;65329; Hohenstein ; 06120 / 95313508 ; 0179 / 5324093 ; 06120 / 71781104 ; e.haberland@mail.xyz ; ja
+67;05.11.2016; Herr ; Dr. ; Siegfried ; Reinsch ; 16.3.1998 ; Piusstr. 52 ;29416; Siedenlangenbeck ; 03901 / 32798467 ; 0172 / 3626344 ; 03901 / 99224688 ; siegfried.reinsch@mail.xyz ; ja
+68;04.06.2016; Herr ; Dr. ; Constantin ; Michaelis ; 28.7.1964 ; Zülpicher Str. 174 ;94051; Hauzenberg ; 08586 / 18902154 ; 0155 / 2294079 ; 08586 / 72955312 ; c.michaelis@mail.xyz ; ja
+69;17.09.2016; Herr ; Dr. ; Joachim ; Dammann ; 8.7.1998 ; Steinfurter Str. 89 ;31188; Holle ; 05062 / 38621206 ; 0155 / 6098177 ; 05062 / 39617407 ; j.dammann@mail.xyz ; ja
+70;20.02.2016; Frau ; Prof. ; Philine ; Mayr ; 13.5.1933 ; Ulmenweg 198 ;59302; Oelde ; 02522 / 78073051 ; 0176 / 4723753 ; 02522 / 15105971 ; p.mayr@mail.xyz ; ja
+71;04.10.2016; Frau ; Dr. ; Marta ; Ladwig ; 9.8.1980 ; Hillscheider Weg 134 ;96257; Marktgraitz ; 09574 / 86489120 ; 0150 / 9299035 ; 09574 / 77354567 ; m.ladwig@mail.xyz ; ja
+72;13.05.2016; Herr ; Dr. ; Maxim ; Falkenberg ; 12.6.1949 ; Memmertweg 41 ;55288; Armsheim ; 06732 / 10595176 ; 0164 / 9769483 ; 06732 / 61735281 ; m.falkenberg@mail.xyz ; ja
+73;31.12.2016; Herr ; Dr. ; Oscar ; Clarke ; 26.1.1994 ; Morthorststr. 179 ;38381; Jerxheim ; 05354 / 25216056 ; 0168 / 3780590 ; 05354 / 42868548 ; o.clarke@mail.xyz ; ja
+74;01.04.2016; Herr ; Dr. ; Johann ; Norton ; 27.3.1924 ; Mierendorffstr. 64 ;96274; Itzgrund ; 09533 / 67060561 ; 0166 / 5506622 ; 09533 / 90518514 ; j.norton@mail.xyz ; ja
+75;11.11.2016; Herr ; Prof. ; Cedrik ; Gutsche ; 8.9.1958 ; Südstr. 118 ;9395; Hormersdorf ; 03721 / 72751920 ; 0154 / 5243848 ; 03721 / 56000748 ; c.gutsche@mail.xyz ; ja
+76;22.02.2016; Frau ; Dr. ; Aylin ; Schwarze ; 19.8.1920 ; Rohrkampstr. 84 ;75387; Neubulach ; 07053 / 22911193 ; 0155 / 2326656 ; 07053 / 6077329 ; aylin.schwarze@mail.xyz ; ja
+77;07.01.2016; Herr ; Prof. ; Justin ; Drescher ; 22.3.1997 ; Möserweg 88 ;91757; Treuchtlingen ; 09142 / 64411867 ; 0177 / 5469984 ; 09142 / 31422332 ; j.drescher@mail.xyz ; ja
+78;07.06.2016; Frau ; Prof. ; Lea ; Homann ; 3.9.1924 ; Münsterstr. 156 ;99084; Erfurt ; 0361 / 75870380 ; 0155 / 2110763 ; 0361 / 1069134 ; lea.homann@mail.xyz ; ja
+79;11.11.2016; Herr ; Dr. ; Luc ; Sass ; 25.12.1927 ; Ölbergstr. 144 ;56244; Freilingen ; 02666 / 41786621 ; 0172 / 1181115 ; 02666 / 87895980 ; luc.sass@mail.xyz ; ja
+80;04.06.2016; Frau ; Dr. ; Paula ; Herwig ; 1.12.1966 ; Langestr. 75 ;55442; Daxweiler ; 06724 / 4058223 ; 0169 / 6877582 ; 06724 / 50642101 ; p.herwig@mail.xyz ; ja
+81;22.03.2016; Frau ; Dr. ; Mathilda ; Bischof ; 11.10.1934 ; Ostlandstr. 109 ;46535; Dinslaken ; 02064 / 47231955 ; 0164 / 9605084 ; 02064 / 93786706 ; m.bischof@mail.xyz ; ja
+82;29.07.2016; Herr ; Dr. ; Olaf ; Zimmermann ; 11.12.1983 ; Am Hörsterfriedhof 4 ;95199; Thierstein ; 09235 / 63371592 ; 0166 / 6368957 ; 09235 / 66427139 ; olaf.zimmermann@mail.xyz ; ja
+83;28.08.2016; Frau ; Dr. ; Amely ; Garner ; 14.7.1986 ; Wormser Str. 195 ;4316; Mölkau ; 0341 / 90160942 ; 0176 / 7044144 ; 0341 / 86786007 ; amely.garner@mail.xyz ; ja
+84;26.05.2016; Herr ; Dr. ; Till ; Kampe ; 12.12.1987 ; Möserweg 137 ;6774; Mühlbeck ; 03493 / 49850680 ; 0158 / 1687133 ; 03493 / 2826059 ; t.kampe@mail.xyz ; ja
+85;04.06.2016; Herr ; Dr. ; Bernd ; Edinger ; 12.12.1987 ; Steinfurter Str. 50 ;67159; Friedelsheim ; 06322 / 78961169 ; 0179 / 3243277 ; 06322 / 84096877 ; bernd.edinger@mail.xyz ; ja
+86;26.01.2016; Herr ; Prof. ; Yannik ; Bell ; 10.4.1949 ; Speestr. - 102 ;72293; Glatten ; 07443 / 67670485 ; 0165 / 7966410 ; 07443 / 82824740 ; yannik.bell@mail.xyz ; ja
+87;09.12.2016; Herr ; Dr. ; Kay ; Gray ; 12.1.1958 ; Hüfferstr. 115 ;25597; Westermoor ; 04828 / 18976459 ; 0159 / 8857522 ; 04828 / 45366524 ; kay.gray@mail.xyz ; ja
+88;06.10.2016; Herr ; Prof. ; Harald ; Simpson ; 10.8.1922 ; Heroldstr. 166 ;55566; Rehbach ; 06751 / 70832962 ; 0151 / 7402617 ; 06751 / 26584603 ; harald.simpson@mail.xyz ; ja
+89;17.04.2016; Frau ; Prof. ; Gudrun ; Ziegler ; 26.2.1941 ; Rincklakeweg 100 ;9577; Niederwiesa ; 03726 / 72821731 ; 0167 / 5286978 ; 03726 / 32668106 ; gudrun.ziegler@mail.xyz ; ja
+90;15.04.2016; Frau ; Dr. ; Joy ; Weigand ; 24.9.1959 ; Weißenburgstr. 60 ;2681; Wilthen ; 03592 / 5685136 ; 0163 / 3690097 ; 03592 / 98701415 ; joy.weigand@mail.xyz ; ja
+91;29.11.2016; Frau ; Prof. ; Irmgart ; Saalmann ; 6.3.1957 ; Piusallee 172 ;14167; Lichterfelde ; 030 / 57934471 ; 0171 / 7349564 ; 030 / 94619850 ; irmgart.saalmann@mail.xyz ; ja
+92;02.08.2016; Frau ; Dr. ; Diana ; Birnenmost ; 18.5.1989 ; Gescherweg 111 ;56307; Dürrholz ; 02684 / 85957029 ; 0167 / 3885095 ; 02684 / 28862927 ; diana.birnenmost@mail.xyz ; ja
+93;18.09.2016; Herr ; Dr. ; Nik ; Hess ; 18.12.1974 ; Heroldstr. 132 ;86554; Pöttmes ; 08253 / 90240375 ; 0153 / 8370542 ; 08253 / 61431307 ; n.hess@mail.xyz ; ja
+94;28.07.2016; Herr ; Dr. ; Joshua ; Robbins ; 21.2.1951 ; Norbertstr. 49 ;65552; Limburg an der Lahn ; 06431 / 38596240 ; 0177 / 4203770 ; 06431 / 58817183 ; j.robbins@mail.xyz ; ja
+95;09.06.2016; Herr ; Dr. ; Oliver ; Buchholz ; 19.6.1952 ; Von-Holte-Str. 138 ;55234; Monzernheim ; 06244 / 50795290 ; 0175 / 7235056 ; 06244 / 59878803 ; o.buchholz@mail.xyz ; ja
+96;06.11.2016; Herr ; Dr. ; Benedict ; Barrenbrügge ; 20.12.1959 ; Kurneystr. 68 ;2625; Bautzen ; 03591 / 87210959 ; 0172 / 8817806 ; 03591 / 93916576 ; benedict.barrenbruegge@mail.xyz ; ja
+97;03.11.2016; Frau ; Dr. ; Käthe ; Ferguson ; 11.3.1951 ; Agrippastr. 129 ;96152; Burghaslach ; 09552 / 61782392 ; 0162 / 4744753 ; 09552 / 92462245 ; kaethe.ferguson@mail.xyz ; ja
+98;24.12.2016; Frau ; Dr. ; Mareike ; Haake ; 22.3.1993 ; Raesfeldstr. 12 ;67746; Merzweiler ; 06382 / 2289044 ; 0176 / 5382266 ; 06382 / 85524654 ; mareike.haake@mail.xyz ; ja
+99;29.11.2016; Frau ; Dr. ; Sandra ; Tietz ; 8.4.1962 ; Altenhofer Weg 144 ;7389; Seisla ; 03647 / 21094671 ; 0160 / 5621710 ; 03647 / 97884825 ; sandra.tietz@mail.xyz ; ja
+100;27.05.2016; Herr ; Dr. ; Carlo ; Meurer ; 19.6.1931 ; Carossastr. 120 ;21037; Hamburg ; 040 / 1196159 ; 0165 / 2848710 ; 040 / 75182680 ; carlo.meurer@mail.xyz ; ja
+101;09.06.2016; Frau ; Dr. ; Cornelia ; Hermann ; 24.6.1944 ; Von-der-Tinnen-Str. 54 ;99947; Hörselberg-Hainich ; 03622 / 21547924 ; 0159 / 3782882 ; 03622 / 56806250 ; c.hermann@mail.xyz ; ja
+102;30.06.2016; Herr ; Dr. ; Johann ; De Vries ; 7.5.1927 ; Kappenberger Damm 34a ;27755; Delmenhorst ; 04221 / 39857169 ; 0173 / 2300961 ; 04221 / 63281604 ; j.de vries@mail.xyz ; ja
+103;05.08.2016; Herr ; Prof. ; Benedict ; Heuser ; 23.5.1999 ; Hensenstr. 93 ;56357; Ruppertshofen ; 06772 / 14708170 ; 0153 / 6122202 ; 06772 / 85169073 ; benedict.heuser@mail.xyz ; ja
+104;17.08.2016; Herr ; Dr. ; Günther ; Mack ; 14.7.1939 ; Wörthstr. 85 ;70174; Stuttgart ; 0711 / 9662959 ; 0177 / 6931653 ; 0711 / 53520394 ; guenther.mack@mail.xyz ; ja
+105;01.12.2016; Herr ; Dr. ; Tomas ; Langenbach ; 22.11.1975 ; Franz-Peter-Kürten-Weg 73 ;64569; Nauheim ; 06152 / 24296387 ; 0159 / 9668006 ; 06152 / 48800315 ; t.langenbach@mail.xyz ; ja
+106;04.07.2016; Herr ; Dr. ; Piet ; Ritter ; 6.7.1927 ; Rosenplatz 119 ;56599; Leutesdorf ; 02631 / 63421669 ; 0173 / 3224361 ; 02631 / 48533445 ; piet.ritter@mail.xyz ; ja
+107;03.04.2016; Herr ; Dr. ; Bernd ; Walker ; 4.6.1920 ; Liboristr. 187 ;18573; Altefähr ; 03838 / 19421116 ; 0155 / 8038235 ; 03838 / 75009986 ; bernd.walker@mail.xyz ; ja
+108;27.11.2016; Herr ; Prof. ; Tobias ; Breidenbach ; 8.10.1921 ; Schwalbenweg 103 ;37127; Dransfeld ; 05502 / 49669613 ; 0173 / 8189442 ; 05502 / 39410942 ; t.breidenbach@mail.xyz ; ja
+109;06.03.2016; Herr ; Dr. ; Claus ; Brill ; 4.3.1938 ; Zur Wiese 174 ;84431; Heldenstein ; 08636 / 69568002 ; 0162 / 9166053 ; 08636 / 3024693 ; claus.brill@mail.xyz ; ja
+110;29.08.2016; Frau ; Prof. ; Karina ; Kraft ; 27.4.1959 ; Schwalbenweg 184 ;56244; Rückeroth ; 02626 / 2751041 ; 0162 / 6817231 ; 02626 / 42855670 ; karina.kraft@mail.xyz ; ja
+111;08.07.2016; Frau ; Dr. ; Joy ; Neumann ; 6.10.1992 ; Gleueler Str. 36 ;93342; Saal an der Donau ; 09441 / 5001415 ; 0170 / 3028213 ; 09441 / 81660745 ; j.neumann@mail.xyz ; ja
+112;04.01.2016; Herr ; Dr. ; Benedikt ; Brenner ; 14.6.1945 ; Wiedehagen 87 ;86447; Todtenweis ; 08237 / 84530268 ; 0177 / 9745543 ; 08237 / 79940694 ; benedikt.brenner@mail.xyz ; ja
+113;18.04.2016; Herr ; Dr. ; Philipp ; Riedl ; 5.10.1997 ; Methweg 132 ;57638; Neitersen ; 02681 / 73034955 ; 0172 / 6307175 ; 02681 / 10380240 ; philipp.riedl@mail.xyz ; ja
+114;03.04.2016; Herr ; Dr. ; Viktor ; Schick ; 2.5.1945 ; Münzstr. 45 ;78713; Schramberg ; 07422 / 76596116 ; 0168 / 2116079 ; 07422 / 97893684 ; viktor.schick@mail.xyz ; ja
+115;28.01.2016; Frau ; Prof. ; Sonja ; Scherer ; 10.5.1955 ; Sophienstr. 37 ;53925; Kall ; 02441 / 4400134 ; 0174 / 5127358 ; 02441 / 56056230 ; sonja.scherer@mail.xyz ; ja
+116;29.06.2016; Herr ; Dr. ; Jannik ; Kretschmar ; 13.3.1964 ; Simon-Meister-Str. 41 ;31311; Uetze ; 05173 / 1993790 ; 0160 / 1153775 ; 05173 / 49852964 ; j.kretschmar@mail.xyz ; ja
+117;20.03.2016; Herr ; Dr. ; Lion ; Berthold ; 12.10.1975 ; Liboristr. 150 ;48527; Nordhorn ; 05921 / 78495274 ; 0168 / 9370394 ; 05921 / 47338241 ; l.berthold@mail.xyz ; ja
+118;31.05.2016; Frau ; Dr. ; Kirsten ; Ziemer ; 12.3.1968 ; Alte Apotheke 122 ;6116; Halle ; 0345 / 22569465 ; 0165 / 3420176 ; 0345 / 53685854 ; k.ziemer@mail.xyz ; ja
+119;10.06.2016; Herr ; Dr. ; René ; Rentschler ; 20.7.1942 ; Im Stemmen 170 ;67434; Neustadt an der Weinstraße ; 06321 / 64926089 ; 0161 / 6357327 ; 06321 / 64760547 ; rene.rentschler@mail.xyz ; ja
+120;25.08.2016; Herr ; Dr. ; Ali ; Murphy ; 21.1.1921 ; Liboristr. 161 ;24235; Stein ; 04344 / 91453541 ; 0173 / 2003591 ; 04344 / 97000760 ; a.murphy@mail.xyz ; ja
+121;27.10.2016; Herr ; Dr. ; Ingo ; Kampmann ; 8.2.1989 ; Rohrkampstr. 178 ;67699; Schneckenhausen ; 06301 / 23018826 ; 0172 / 4971569 ; 06301 / 66942216 ; ingo.kampmann@mail.xyz ; ja
+122;11.07.2016; Frau ; Dr. ; Marieke ; Bär ; 19.8.1932 ; Hansaring 126 ;24972; Steinbergkirche ; 04632 / 91026657 ; 0176 / 4906944 ; 04632 / 3945147 ; marieke.baer@mail.xyz ; ja
+123;12.12.2016; Herr ; Dr. ; Thies ; Görtz ; 3.8.1929 ; Am Römerhof 125 ;72131; Ofterdingen ; 07473 / 57994181 ; 0169 / 2612370 ; 07473 / 48637453 ; t.goertz@mail.xyz ; ja
+124;18.04.2016; Frau ; Dr. ; Cathrin ; Stephan ; 6.11.1932 ; Eibenweg 74 ;56244; Krümmel ; 02626 / 30993493 ; 0171 / 7618733 ; 02626 / 10187814 ; c.stephan@mail.xyz ; ja
+125;11.01.2016; Herr ; Dr. ; Maximilian ; Resch ; 20.9.1995 ; Kapellenstr. 32 ;55566; Meddersheim ; 06751 / 14937014 ; 0156 / 3123703 ; 06751 / 96758544 ; maximilian.resch@mail.xyz ; ja
+126;10.12.2016; Frau ; Dr. ; Kristina ; Finkenzeller ; 4.2.1985 ; Telgenweg 104 ;64832; Babenhausen ; 06073 / 62929940 ; 0172 / 3738332 ; 06073 / 78810750 ; kristina.finkenzeller@mail.xyz ; ja
+127;04.10.2016; Herr ; Prof. ; Til ; Schuster ; 23.7.1990 ; Zum Burgschemm 128 ;94568; Sankt Oswald-Riedlhütte ; 08552 / 77925812 ; 0164 / 1148859 ; 08552 / 95219911 ; til.schuster@mail.xyz ; ja
+128;18.07.2016; Herr ; Dr. ; Jannick ; Häcker ; 25.11.1922 ; Schwalbenweg 26 ;49497; Mettingen ; 05452 / 59358672 ; 0165 / 5247826 ; 05452 / 30964685 ; jannick.haecker@mail.xyz ; ja
+129;22.07.2016; Frau ; Dr. ; Maren ; Herrera ; 12.5.1950 ; Sentmaringer Weg 107 ;26203; Wardenburg ; 04407 / 82106518 ; 0179 / 7030374 ; 04407 / 33608234 ; maren.herrera@mail.xyz ; ja
+130;14.07.2016; Frau ; Dr. ; Carlotta ; Heller ; 8.1.1993 ; Soetenkamp 9 ;92287; Schmidmühlen ; 09474 / 91242149 ; 0170 / 1179853 ; 09474 / 37848653 ; c.heller@mail.xyz ; ja
+131;25.03.2016; Herr ; Dr. ; Willi ; Geib ; 5.4.1970 ; Heroldstr. 113 ;54518; Hupperath ; 06571 / 41824282 ; 0171 / 6150810 ; 06571 / 78984412 ; willi.geib@mail.xyz ; ja
+132;15.02.2016; Frau ; Dr. ; Jill ; Evers ; 11.8.1972 ; Drachterstr. 83 ;70378; Stuttgart ; 0711 / 29853829 ; 0162 / 4230537 ; 0711 / 82275396 ; j.evers@mail.xyz ; ja
+133;01.05.2016; Herr ; Dr. ; Filip ; Siegmann ; 8.9.1993 ; Enschedeweg 128 ;53175; Bonn ; 0228 / 46562334 ; 0173 / 7307911 ; 0228 / 51968180 ; f.siegmann@mail.xyz ; ja
+134;19.02.2016; Herr ; Prof. ; Daniel ; Kelley ; 2.3.1965 ; Kappenberger Damm 160 ;73563; Mögglingen ; 07174 / 91725366 ; 0151 / 1428996 ; 07174 / 44898002 ; d.kelley@mail.xyz ; ja
+135;24.11.2016; Frau ; Prof. ; Jasmin ; Arndt ; 16.12.1921 ; Wolbecker Str. 191 ;21775; Ihlienworth ; 04755 / 23429644 ; 0173 / 3491232 ; 04755 / 56931696 ; jasmin.arndt@mail.xyz ; ja
+136;01.02.2016; Frau ; Prof. ; Karina ; Glover ; 15.3.1936 ; Wiedehagen 184 ;73770; Denkendorf ; 0711 / 58606633 ; 0170 / 9298307 ; 0711 / 94686722 ; k.glover@mail.xyz ; ja
+137;10.09.2016; Herr ; Dr. ; Lennox ; Baldwin ; 15.5.1941 ; Speestr. - 136 ;25764; Wesselburenerkoog ; 04823 / 65551323 ; 0168 / 7487138 ; 04823 / 10299817 ; lennox.baldwin@mail.xyz ; ja
+138;24.02.2016; Herr ; Dr. ; Axel ; Farmer ; 2.12.1932 ; Angelstr. 162 ;88422; Alleshausen ; 07582 / 24392404 ; 0173 / 7159138 ; 07582 / 98685326 ; a.farmer@mail.xyz ; ja
+139;29.04.2016; Frau ; Dr. ; Dagmar ; Hillmann ; 7.8.1998 ; Dammstr. 78 ;99099; Erfurt ; 0361 / 45379402 ; 0168 / 9817834 ; 0361 / 67836741 ; dagmar.hillmann@mail.xyz ; ja
+140;16.04.2016; Frau ; Dr. ; Marlene ; Fahr ; 26.4.1972 ; Magdalenenstr. 161 ;91052; Erlangen ; 09131 / 31261587 ; 0172 / 8990803 ; 09131 / 84041162 ; marlene.fahr@mail.xyz ; ja
+141;18.09.2016; Herr ; Dr. ; Joshua ; Gaiser ; 7.1.1920 ; Am Brook 199a ;55624; Schwerbach ; 06544 / 99717164 ; 0160 / 5502911 ; 06544 / 57360532 ; j.gaiser@mail.xyz ; ja
+142;18.11.2016; Frau ; Prof. ; Catarina ; Jonas ; 8.1.1975 ; Sophienstr. 1 ;57635; Forstmehren ; 02681 / 11507979 ; 0163 / 9663034 ; 02681 / 93106109 ; catarina.jonas@mail.xyz ; ja
+143;04.12.2016; Frau ; Dr. ; Klaudia ; Bogenschütze ; 2.3.1985 ; Heinrichstr. 52 ;27404; Elsdorf ; 02274 / 34891791 ; 0161 / 6135760 ; 02274 / 62025477 ; k.bogenschuetze@mail.xyz ; ja
+144;25.12.2016; Herr ; Dr. ; Jörn ; Wetzel ; 22.3.1996 ; Oberschlesier Str. 127 ;55595; Spabrücken ; 0671 / 24804265 ; 0152 / 7413394 ; 0671 / 82146855 ; j.wetzel@mail.xyz ; ja
+145;10.09.2016; Herr ; Dr. ; Bennet ; Classen ; 1.2.1944 ; Von-Holte-Str. 6 ;54579; Üxheim ; 02696 / 98668531 ; 0158 / 6037721 ; 02696 / 68368155 ; b.classen@mail.xyz ; ja
+146;29.06.2016; Herr ; Dr. ; Joel ; Ray ; 24.2.1955 ; Florentine-Eichler-Str. 16 ;57632; Eichen ; 02685 / 4828409 ; 0154 / 1288216 ; 02685 / 29178261 ; j.ray@mail.xyz ; ja
+147;18.04.2016; Frau ; Dr. ; Neele ; Herold ; 7.9.1926 ; Papenbusch 14 ;54492; Lösnich ; 06531 / 1274153 ; 0172 / 2187058 ; 06531 / 28344333 ; n.herold@mail.xyz ; ja
+148;12.07.2016; Frau ; Dr. ; Mona ; Wittmann ; 12.10.1997 ; Deutz-Kalker Str. 75 ;37691; Derental ; 05271 / 20036936 ; 0163 / 2180668 ; 05271 / 77662181 ; mona.wittmann@mail.xyz ; ja
+149;01.02.2016; Herr ; Dr. ; Julian ; Obermüller ; 21.12.1948 ; Willingrott 56 ;68804; Altlußheim ; 06205 / 92667502 ; 0165 / 6673809 ; 06205 / 49423847 ; julian.obermueller@mail.xyz ; ja
+150;16.01.2016; Frau ; Dr. ; Janne ; Willis ; 22.8.1990 ; Hirseweg 36 ;55116; Mainz am Rhein ; 06131 / 72836355 ; 0158 / 2479999 ; 06131 / 96179710 ; j.willis@mail.xyz ; ja
+151;13.09.2016; Herr ; Dr. ; Mohammed ; Herzberg ; 28.3.1942 ; Elsa-Brändström-Weg 112 ;67280; Quirnheim ; 06359 / 23169101 ; 0170 / 9366342 ; 06359 / 22346655 ; mohammed.herzberg@mail.xyz ; ja
+152;06.08.2016; Frau ; Dr. ; Joana ; Moll ; 10.12.1924 ; Maximilianstr. 65 ;83313; Siegsdorf ; 08662 / 14828015 ; 0161 / 9870945 ; 08662 / 48670348 ; j.moll@mail.xyz ; ja
+153;05.03.2016; Frau ; Dr. ; Hertha ; Seite ; 8.9.1923 ; Dortmunder Str. 161 ;25551; Schlotfeld ; 04826 / 53984363 ; 0155 / 3834599 ; 04826 / 13943940 ; h.seite@mail.xyz ; ja
+154;31.10.2016; Herr ; Dr. ; Bjarne ; Williams ; 2.7.1929 ; Bohlweg 45 ;66989; Nünschweiler ; 06334 / 92367733 ; 0161 / 9330640 ; 06334 / 94818280 ; b.williams@mail.xyz ; ja
+155;20.05.2016; Frau ; Dr. ; Anneke ; Bad ; 27.10.1997 ; Piusstr. 149 ;75031; Sulzfeld ; 07269 / 1857343 ; 0161 / 6998966 ; 07269 / 44410124 ; anneke.bad@mail.xyz ; ja
+156;07.07.2016; Herr ; Dr. ; Lorenz ; Wille ; 19.1.1992 ; Dorotheenstr. 82 ;92442; Wackersdorf ; 09431 / 29915404 ; 0150 / 6282251 ; 09431 / 33685382 ; l.wille@mail.xyz ; ja
+157;22.02.2016; Frau ; Dr. ; Juliana ; Breit ; 27.7.1923 ; Schwalbenweg 90 ;55296; Gau-Bischofsheim ; 06135 / 54038722 ; 0166 / 1030999 ; 06135 / 5955786 ; juliana.breit@mail.xyz ; ja
+158;14.02.2016; Herr ; Dr. ; Helmuth ; Hubbard ; 15.8.1933 ; Merheimer Str. 12 ;54340; Riol ; 06502 / 28350483 ; 0175 / 7931959 ; 06502 / 35687216 ; h.hubbard@mail.xyz ; ja
+159;11.03.2016; Herr ; Dr. ; Miguel ; Kastner ; 26.6.1953 ; Beuelsweg 81 ;40213; Düsseldorf ; 0211 / 47960896 ; 0174 / 3137679 ; 0211 / 32629910 ; miguel.kastner@mail.xyz ; ja
+160;01.04.2016; Frau ; Dr. ; Tabea ; Hessel ; 19.11.1943 ; Memmertweg 174 ;37627; Stadtoldendorf ; 05532 / 51935484 ; 0175 / 3712425 ; 05532 / 46232925 ; tabea.hessel@mail.xyz ; ja
+161;06.02.2016; Herr ; Dr. ; Leonardo ; Seliger ; 18.11.1995 ; Düesbergweg 8a ;67823; Unkenbach ; 06362 / 45731804 ; 0152 / 6478917 ; 06362 / 15427082 ; l.seliger@mail.xyz ; ja
+162;06.09.2016; Frau ; Dr. ; Marie ; Hieber ; 6.7.1966 ; Zum Guten Hirten 35 ;69518; Ober-Abtsteinach ; 06207 / 52293048 ; 0173 / 9297483 ; 06207 / 84420197 ; marie.hieber@mail.xyz ; ja
+163;13.10.2016; Herr ; Dr. ; Raphael ; Engelhardt ; 8.8.1944 ; Mindener Str. 122 ;54552; Sarmersbach ; 06592 / 49554830 ; 0153 / 4264533 ; 06592 / 7489089 ; r.engelhardt@mail.xyz ; ja
+164;03.11.2016; Frau ; Dr. ; Andrea ; Bartels ; 8.1.1965 ; Josef-Suwelack-Weg 40a ;29456; Hitzacker ; 05826 / 32170027 ; 0159 / 9840489 ; 05826 / 48247771 ; a.bartels@mail.xyz ; ja
+165;04.09.2016; Frau ; Dr. ; Käte ; Roos ; 26.7.1937 ; Emdener Str. 110 ;88348; Bad Saulgau ; 07581 / 52668211 ; 0157 / 9971844 ; 07581 / 66444853 ; kaete.roos@mail.xyz ; ja
+166;04.03.2016; Frau ; Dr. ; Antonia ; Kallweit ; 6.9.1961 ; Am Pulverschuppen 9 ;51371; Leverkusen ; 0214 / 72807635 ; 0175 / 2745946 ; 0214 / 62686897 ; antonia.kallweit@mail.xyz ; ja
+167;17.11.2016; Herr ; Dr. ; Riccardo ; Schaal ; 13.5.1930 ; Frauenstr. 1 ;78253; Eigeltingen ; 07774 / 74013317 ; 0164 / 5246334 ; 07774 / 90704384 ; r.schaal@mail.xyz ; ja
+168;29.11.2016; Herr ; Dr. ; Dario ; Rodriguez ; 18.9.1974 ; Röttgensweg 23 ;24972; Steinbergkirche ; 04632 / 50186953 ; 0171 / 5287864 ; 04632 / 62438148 ; dario.rodriguez@mail.xyz ; ja
+169;22.10.2016; Frau ; Dr. ; Inge ; Hirth ; 13.6.1974 ; Dachsleite 107 ;86833; Ettringen ; 08249 / 64364487 ; 0168 / 5841607 ; 08249 / 24829002 ; inge.hirth@mail.xyz ; ja
+170;24.01.2016; Herr ; Dr. ; Lucas ; Ludwig ; 26.10.1986 ; Rinscheweg 126 ;82418; Seehausen am Staffelsee ; 08841 / 84396801 ; 0159 / 5233158 ; 08841 / 38609302 ; lucas.ludwig@mail.xyz ; ja
+171;25.05.2016; Herr ; Dr. ; Raphael ; Boyd ; 24.5.1974 ; Oberschlesier Str. 147 ;96123; Melkendorf ; 09505 / 16666277 ; 0152 / 3916940 ; 09505 / 55164948 ; raphael.boyd@mail.xyz ; ja
+172;17.06.2016; Herr ; Dr. ; Roman ; Breit ; 10.8.1956 ; Eifelstr. 19 ;26474; Spiekeroog ; 04976 / 84959588 ; 0155 / 2683844 ; 04976 / 28558766 ; r.breit@mail.xyz ; ja
+173;27.06.2016; Herr ; Prof. ; Torben ; Arlt ; 1.3.1928 ; Stolbergstr. 35 ;39579; Uenglingen ; 03931 / 10966880 ; 0161 / 6353567 ; 03931 / 4379116 ; t.arlt@mail.xyz ; ja
+174;22.01.2016; Frau ; Dr. ; Hannelore ; Hofbauer ; 16.12.1974 ; Am Pulverschuppen 132 ;65604; Elz ; 06431 / 66559658 ; 0168 / 4063731 ; 06431 / 26380736 ; hannelore.hofbauer@mail.xyz ; ja
+175;07.06.2016; Frau ; Dr. ; Sina ; Burmeister ; 5.11.1981 ; Langeworth 157 ;68519; Viernheim ; 06204 / 54748009 ; 0164 / 1036205 ; 06204 / 21973343 ; s.burmeister@mail.xyz ; ja
+176;07.05.2016; Frau ; Prof. ; Kerstin ; Metz ; 9.5.1992 ; Von-der-Tinnen-Str. 161 ;4209; Leipzig ; 0341 / 89964284 ; 0153 / 7524502 ; 0341 / 28131841 ; k.metz@mail.xyz ; ja
+177;20.02.2016; Frau ; Prof. ; Annica ; Lambert ; 24.1.1948 ; Landoisstr. 83 ;6618; Gieckau ; 03445 / 12417128 ; 0176 / 6793470 ; 03445 / 17219210 ; annica.lambert@mail.xyz ; ja
+178;05.10.2016; Frau ; Dr. ; Laila ; Drescher ; 5.7.1987 ; Geiststr. 44 ;57612; Volkerzen ; 02681 / 17616735 ; 0155 / 5658980 ; 02681 / 15192633 ; l.drescher@mail.xyz ; ja
+179;24.11.2016; Frau ; Prof. ; Silvia ; Kreuz ; 7.10.1963 ; Ostlandstr. 112 ;56858; Peterswald-Löffelscheid ; 06542 / 67243048 ; 0156 / 6366014 ; 06542 / 87342498 ; silvia.kreuz@mail.xyz ; ja
+180;01.02.2016; Herr ; Dr. ; Magnus ; Riley ; 9.8.1940 ; Mierendorffstr. 81 ;79686; Hasel ; 07762 / 97619924 ; 0155 / 4360481 ; 07762 / 92388918 ; m.riley@mail.xyz ; ja
+181;21.05.2016; Herr ; Dr. ; Thorben ; Heckmann ; 3.3.1999 ; Buldernweg 16 ;82237; Wörthsee ; 08153 / 90176833 ; 0159 / 3125540 ; 08153 / 72454913 ; t.heckmann@mail.xyz ; ja
+182;26.02.2016; Frau ; Dr. ; Anna ; Kreuz ; 8.12.1969 ; Am Krausen Baum 69 ;91341; Röttenbach ; 09195 / 53713818 ; 0159 / 2611787 ; 09195 / 39027886 ; a.kreuz@mail.xyz ; ja
+183;22.06.2016; Herr ; Dr. ; Roman ; Mohr ; 13.4.1958 ; Hülsebrockstr. 14 ;30459; Hannover ; 0511 / 13360531 ; 0168 / 7215464 ; 0511 / 6687706 ; roman.mohr@mail.xyz ; ja
+184;03.06.2016; Frau ; Dr. ; Martina ; Michels ; 17.10.1939 ; Gottesweg 58 ;97499; Donnersdorf ; 09528 / 4009932 ; 0151 / 8430623 ; 09528 / 58728047 ; m.michels@mail.xyz ; ja
+185;19.02.2016; Herr ; Dr. ; Enrico ; Kelley ; 16.7.1945 ; Sporckweg 91 ;25524; Oelixdorf ; 04828 / 10467123 ; 0157 / 4690771 ; 04828 / 48830716 ; enrico.kelley@mail.xyz ; ja
+186;04.09.2016; Frau ; Dr. ; Sandra ; Sachs ; 25.11.1945 ; Schmittingheide 162 ;6917; Jessen ; 03537 / 66888065 ; 0167 / 8216605 ; 03537 / 52828061 ; s.sachs@mail.xyz ; ja
+187;23.02.2016; Frau ; Dr. ; Kristin ; Cremer ; 8.4.1999 ; Florentine-Eichler-Str. 140 ;21423; Drage ; 04177 / 41997194 ; 0159 / 1006757 ; 04177 / 23202837 ; k.cremer@mail.xyz ; ja
+188;12.10.2016; Frau ; Dr. ; Janina ; Land ; 7.8.1926 ; Dorbaumstr. 151 ;53547; Breitscheid ; 02638 / 34671408 ; 0152 / 9497419 ; 02638 / 22196064 ; j.land@mail.xyz ; ja
+189;30.11.2016; Herr ; Dr. ; Ralph ; Loos ; 14.10.1934 ; Maximilianstr. 22 ;55627; Martinstein ; 06754 / 1795356 ; 0173 / 3789080 ; 06754 / 11417535 ; ralph.loos@mail.xyz ; ja
+190;01.06.2016; Herr ; Dr. ; Benjamin ; Nelson ; 2.6.1933 ; Zur Gräfte 191 ;31787; Hameln ; 05151 / 24771032 ; 0164 / 1103437 ; 05151 / 10450354 ; b.nelson@mail.xyz ; ja
+191;13.06.2016; Herr ; Dr. ; Kilian ; Lawson ; 17.6.1934 ; Beuelsweg 125 ;87527; Ofterschwang ; 08321 / 42912409 ; 0152 / 3336888 ; 08321 / 84515524 ; kilian.lawson@mail.xyz ; ja
+192;20.03.2016; Frau ; Dr. ; Dilara ; Wink ; 17.7.2000 ; Unter Kahlenhausen 113 ;24852; Langstedt ; 04609 / 17693378 ; 0163 / 9192080 ; 04609 / 54134101 ; dilara.wink@mail.xyz ; ja
+193;22.06.2016; Herr ; Dr. ; Lennard ; Ellis ; 4.11.1942 ; Lammerbach 15 ;65199; Wiesbaden ; 0611 / 70910238 ; 0150 / 8270193 ; 0611 / 85008500 ; l.ellis@mail.xyz ; ja
+194;20.06.2016; Frau ; Prof. ; Neele ; Schwarzer ; 3.3.1961 ; Rinkerodeweg 168 ;49638; Nortrup ; 05436 / 5610537 ; 0165 / 4152420 ; 05436 / 32122568 ; n.schwarzer@mail.xyz ; ja
+195;31.01.2016; Frau ; Dr. ; Katrin ; Rau ; 10.10.1954 ; Hensenstr. 35 ;63897; Miltenberg ; 09371 / 91381745 ; 0166 / 4217707 ; 09371 / 96617854 ; katrin.rau@mail.xyz ; ja
+196;03.06.2016; Frau ; Dr. ; Marlies ; Brückner ; 8.2.1977 ; Möserweg 61 ;65558; Kaltenholzhausen ; 06430 / 89327890 ; 0167 / 2911272 ; 06430 / 28128326 ; marlies.brueckner@mail.xyz ; ja
+197;24.01.2016; Frau ; Dr. ; Kira ; Gebhard ; 6.2.1941 ; Landoisstr. 165 ;6217; Geusa ; 03461 / 72919702 ; 0165 / 2944973 ; 03461 / 56843682 ; kira.gebhard@mail.xyz ; ja
+198;12.11.2016; Frau ; Dr. ; Hanna ; Mertens ; 15.10.1928 ; Neißestr. 50 ;54533; Gransdorf ; 06563 / 5315282 ; 0170 / 3488269 ; 06563 / 98931342 ; h.mertens@mail.xyz ; ja
+199;06.05.2016; Frau ; Dr. ; Carlotta ; Jefferson ; 16.3.1947 ; Uhuweg 16 ;27446; Deinstedt ; 04284 / 31825987 ; 0150 / 5075266 ; 04284 / 85356750 ; c.jefferson@mail.xyz ; ja
+200;11.10.2016; Frau ; Dr. ; Alexa ; Gebauer ; 20.2.1924 ; Widdeshover Weg 150 ;89165; Dietenheim ; 07347 / 42531223 ; 0172 / 5157072 ; 07347 / 75489174 ; alexa.gebauer@mail.xyz ; ja
+201;31.01.2016; Herr ; Dr. ; Klaas ; Rode ; 20.8.1967 ; Oberschlesier Str. 11 ;25797; Ketelsbüttel ; 04839 / 37854996 ; 0165 / 1354635 ; 04839 / 24952627 ; klaas.rode@mail.xyz ; ja
+202;19.02.2016; Herr ; Dr. ; Chris ; Holt ; 20.5.1938 ; Cheruskerstr. 126 ;93152; Nittendorf ; 09404 / 37165159 ; 0176 / 6076974 ; 09404 / 64888124 ; chris.holt@mail.xyz ; ja
+203;16.04.2016; Herr ; Prof. ; Phillipp ; Morris ; 7.12.1970 ; Straßburger Weg 132 ;25524; Kollmoor ; 04828 / 48880409 ; 0153 / 7437445 ; 04828 / 30976423 ; phillipp.morris@mail.xyz ; ja
+204;08.01.2016; Frau ; Prof. ; Annabel ; Küppers ; 7.10.1965 ; Unter Kahlenhausen 86 ;90765; Fürth ; 0911 / 68622441 ; 0165 / 5458770 ; 0911 / 14363791 ; a.kueppers@mail.xyz ; ja
+205;17.12.2016; Herr ; Dr. ; Oliver ; Strobel ; 25.1.1920 ; Hillscheider Weg 174 ;25488; Holm ; 04103 / 79019478 ; 0166 / 2916739 ; 04103 / 42312835 ; oliver.strobel@mail.xyz ; ja
+206;21.06.2016; Herr ; Dr. ; Dirk ; Renate ; 11.1.1993 ; Am Brook 125 ;74749; Rosenberg ; 06295 / 47982525 ; 0175 / 2673907 ; 06295 / 72688400 ; d.renate@mail.xyz ; ja
+207;09.04.2016; Herr ; Prof. ; Lothar ; Peschke ; 14.8.1953 ; Ringelnatzstr. 197 ;54675; Kruchten ; 06564 / 32358537 ; 0168 / 3667824 ; 06564 / 8008300 ; lothar.peschke@mail.xyz ; ja
+208;20.03.2016; Frau ; Dr. ; Elisabeth ; Peschke ; 2.9.1982 ; Zur Wiese 60 ;85296; Rohrbach ; 08442 / 73374906 ; 0154 / 6360964 ; 08442 / 55007087 ; e.peschke@mail.xyz ; ja
+209;10.06.2016; Frau ; Dr. ; Lana ; Hansen ; 18.6.1999 ; Raesfeldstr. 83 ;86934; Reichling ; 08194 / 95475848 ; 0159 / 6936832 ; 08194 / 93248943 ; lana.hansen@mail.xyz ; ja
+210;03.05.2016; Frau ; Dr. ; Renate ; Schrader ; 15.10.1986 ; Catharina-Müller-Str. 148 ;27619; Schiffdorf ; 04706 / 17119859 ; 0155 / 2129228 ; 04706 / 43401487 ; r.schrader@mail.xyz ; ja
+211;20.03.2016; Frau ; Dr. ; Helga ; Gerling ; 16.1.1930 ; Enschedeweg 17 ;6120; Halle ; 0345 / 95790184 ; 0179 / 8527979 ; 0345 / 9795016 ; helga.gerling@mail.xyz ; ja
+212;26.07.2016; Herr ; Prof. ; Bernt ; Waibel ; 12.7.1984 ; Hogenbergstr. 30 ;56761; Masburg ; 02653 / 95531101 ; 0174 / 1398079 ; 02653 / 9594727 ; bernt.waibel@mail.xyz ; ja
+213;21.06.2016; Frau ; Dr. ; Mina ; Hille ; 22.6.1969 ; Mondstr. 62 ;17217; Klein Lukow ; 03962 / 72396082 ; 0152 / 4194616 ; 03962 / 21003856 ; m.hille@mail.xyz ; ja
+214;31.05.2016; Frau ; Dr. ; Astrid ; Kreuzer ; 23.1.1926 ; Birkenweg 191 ;92360; Mühlhausen ; 09185 / 45056707 ; 0162 / 8646104 ; 09185 / 59271553 ; a.kreuzer@mail.xyz ; ja
+215;20.07.2016; Frau ; Dr. ; Kirsten ; Hesse ; 19.12.1973 ; Unter Kahlenhausen 56 ;24878; Jagel ; 04624 / 72573654 ; 0157 / 1583303 ; 04624 / 66664535 ; k.hesse@mail.xyz ; ja
+216;10.10.2016; Herr ; Dr. ; Markus ; Fricke ; 20.4.1922 ; Hahnenstr. 148 ;21403; Wendisch Evern ; 04131 / 23116993 ; 0166 / 5196809 ; 04131 / 5575745 ; markus.fricke@mail.xyz ; ja
+217;28.02.2016; Herr ; Dr. ; Mats ; Neuhaus ; 10.11.1948 ; Marsweg 188 ;25797; Neuenwisch ; 04839 / 52010704 ; 0152 / 8762457 ; 04839 / 46701702 ; m.neuhaus@mail.xyz ; ja
+218;12.04.2016; Frau ; Dr. ; Klara ; Hockney ; 7.2.1963 ; Am Pulverschuppen 103 ;39638; Wannefeld ; 03907 / 56265070 ; 0163 / 7248336 ; 03907 / 73656187 ; klara.hockney@mail.xyz ; ja
+219;23.02.2016; Frau ; Dr. ; Gertrud ; Schüler ; 3.2.1960 ; Am Krausen Baum 145 ;93133; Burglengenfeld ; 09471 / 43621622 ; 0168 / 3414367 ; 09471 / 22131279 ; gertrud.schueler@mail.xyz ; ja
+220;01.12.2016; Herr ; Dr. ; Luis ; Morris ; 13.2.1941 ; Am Ziegelofen 163 ;78592; Egesheim ; 07429 / 30314649 ; 0152 / 6785998 ; 07429 / 38184062 ; l.morris@mail.xyz ; ja
+221;02.07.2016; Frau ; Dr. ; Ilse ; Ganser ; 12.9.1948 ; Telgenweg 7 ;59581; Warstein ; 02902 / 76458632 ; 0178 / 7667034 ; 02902 / 35043020 ; ilse.ganser@mail.xyz ; ja
+222;29.05.2016; Frau ; Dr. ; Mareike ; Karst ; 13.8.1983 ; Emdener Str. 152 ;25585; Tackesdorf ; 04872 / 40433869 ; 0154 / 6820429 ; 04872 / 53533479 ; mareike.karst@mail.xyz ; ja
+223;23.06.2016; Herr ; Dr. ; Jörg ; Krohn ; 17.5.1959 ; Kurneystr. 158 ;49626; Bippen ; 05435 / 30817383 ; 0151 / 7732283 ; 05435 / 25943812 ; joerg.krohn@mail.xyz ; ja
+224;26.09.2016; Frau ; Prof. ; Sylvia ; Duncan ; 23.4.1923 ; Immelmannstr. 11 ;25563; Quarnstedt ; 04822 / 77962888 ; 0176 / 9481643 ; 04822 / 20143529 ; sylvia.duncan@mail.xyz ; ja
+225;24.07.2016; Herr ; Dr. ; Denis ; Greer ; 4.11.1979 ; Buldernweg 173 ;24321; Hohwacht ; 04381 / 82102491 ; 0176 / 3827662 ; 04381 / 55197049 ; d.greer@mail.xyz ; ja
+226;01.03.2016; Herr ; Dr. ; Filip ; Hunter ; 9.3.1952 ; Am Dornbusch 40 ;48161; Münster ; 0251 / 91939594 ; 0176 / 3681251 ; 0251 / 70478529 ; f.hunter@mail.xyz ; ja
+227;29.04.2016; Herr ; Dr. ; Gerhard ; Westphal ; 21.6.1962 ; Gremmendorfer Weg 153 ;76689; Karlsdorf-Neuthard ; 07251 / 73057835 ; 0153 / 3085312 ; 07251 / 31581143 ; gerhard.westphal@mail.xyz ; ja
+228;30.07.2016; Herr ; Dr. ; Julien ; Octomedia ; 17.3.1979 ; Kreuzstr. 144 ;23909; Mechow ; 04541 / 37338970 ; 0173 / 7594899 ; 04541 / 11345432 ; julien.octomedia@mail.xyz ; ja
+229;02.12.2016; Frau ; Dr. ; Victoria ; Ternes ; 22.8.1955 ; Zülpicher Str. 59 ;38368; Querenhorst ; 05357 / 99055851 ; 0172 / 7375527 ; 05357 / 78067629 ; v.ternes@mail.xyz ; ja
+230;22.11.2016; Frau ; Dr. ; Monica ; Tillmann ; 23.4.1989 ; Bernhard-Poether-Str. 173 ;93348; Kirchdorf ; 09444 / 47542348 ; 0174 / 1555951 ; 09444 / 72670014 ; monica.tillmann@mail.xyz ; ja
+231;27.05.2016; Frau ; Dr. ; Karlotta ; Berger ; 17.6.1938 ; Soetenkamp 104 ;37115; Duderstadt ; 05527 / 49643922 ; 0158 / 2679853 ; 05527 / 78322069 ; karlotta.berger@mail.xyz ; ja
+232;14.09.2016; Frau ; Dr. ; Isabel ; Krüger ; 24.1.1959 ; Idenbrockplatz 198 ;96178; Pommersfelden ; 09548 / 880984 ; 0161 / 4986543 ; 09548 / 44902199 ; isabel.krueger@mail.xyz ; ja
+233;08.08.2016; Herr ; Dr. ; Matthis ; Buchner ; 7.3.1945 ; Simon-Meister-Str. 172 ;50769; Köln ; 0221 / 99505727 ; 0178 / 9894473 ; 0221 / 29298829 ; m.buchner@mail.xyz ; ja
+234;07.10.2016; Frau ; Dr. ; Karin ; Genz ; 25.11.1923 ; Baumberger Str. 115 ;37642; Holenberg ; 05532 / 34729649 ; 0151 / 5238886 ; 05532 / 24145290 ; k.genz@mail.xyz ; ja
+235;21.02.2016; Herr ; Prof. ; Christopher ; Tolksdorf ; 17.3.1946 ; Am Grauen Stein 30 ;71691; Freiberg am Neckar ; 07141 / 47037976 ; 0178 / 7844911 ; 07141 / 41930345 ; c.tolksdorf@mail.xyz ; ja
+236;03.06.2016; Frau ; Dr. ; Ronja ; Sims ; 4.11.1976 ; Bernhard-Poether-Str. 96 ;29451; Dannenberg ; 05861 / 54531673 ; 0154 / 7436618 ; 05861 / 78207728 ; r.sims@mail.xyz ; ja
+237;14.09.2016; Frau ; Dr. ; Hertha ; Kraft ; 12.11.1955 ; Nienkamp 173 ;78267; Aach ; 07774 / 3665633 ; 0159 / 4565149 ; 07774 / 7740920 ; hertha.kraft@mail.xyz ; ja
+238;30.11.2016; Frau ; Dr. ; Caja ; Mühlbaür ; 5.1.1962 ; Am Hörsterfriedhof 73 ;56271; Mündersbach ; 02680 / 66875599 ; 0179 / 2081956 ; 02680 / 20848061 ; caja.muehlbauer@mail.xyz ; ja
+239;26.01.2016; Frau ; Dr. ; Silke ; Evans ; 9.11.1922 ; Dammstr. 79 ;95517; Emtmannsberg ; 09209 / 67698896 ; 0160 / 8414564 ; 09209 / 80436051 ; silke.evans@mail.xyz ; ja
+240;21.01.2016; Herr ; Dr. ; Leander ; Mang ; 21.5.1980 ; Mindener Str. 136 ;97797; Wartmannsroth ; 09737 / 43372624 ; 0170 / 4549966 ; 09737 / 26871742 ; l.mang@mail.xyz ; ja
+241;12.07.2016; Frau ; Dr. ; Sabine ; Einecke ; 28.10.1951 ; Drachterstr. 46 ;86655; Harburg ; 09003 / 52447996 ; 0161 / 2141081 ; 09003 / 22077525 ; s.einecke@mail.xyz ; ja
+242;16.04.2016; Frau ; Dr. ; Sylvia ; Pittman ; 6.2.1994 ; Gremmendorfer Weg 178 ;25889; Uelvesbüll ; 04864 / 24640200 ; 0179 / 1647094 ; 04864 / 76652499 ; s.pittman@mail.xyz ; ja
+243;29.05.2016; Frau ; Dr. ; Mathilda ; Hawkins ; 25.8.1984 ; Weserstr. 89a ;56850; Hahn ; 06763 / 33924216 ; 0168 / 7597139 ; 06763 / 90906670 ; m.hawkins@mail.xyz ; ja
+244;24.08.2016; Herr ; Prof. ; Ulrich ; Luna ; 24.9.1971 ; Kreuzstr. 161 ;21075; Hausbruch ; 040 / 22576924 ; 0171 / 2065252 ; 040 / 11806376 ; ulrich.luna@mail.xyz ; ja
+245;20.10.2016; Frau ; Prof. ; Juliana ; Röder ; 8.9.1937 ; Hindenburgplatz 134 ;88677; Markdorf ; 07544 / 16635308 ; 0153 / 9532299 ; 07544 / 73598695 ; juliana.roeder@mail.xyz ; ja
+246;11.06.2016; Frau ; Prof. ; Chantall ; Gruber ; 4.5.1947 ; Pankokstr. 31 ;55124; Mainz am Rhein ; 06131 / 1254539 ; 0173 / 3362880 ; 06131 / 38968502 ; c.gruber@mail.xyz ; ja
+247;06.05.2016; Herr ; Prof. ; Arne ; Higgins ; 1.10.1962 ; Am Hörsterfriedhof 200 ;24376; Rabel ; 04643 / 28014279 ; 0157 / 4527183 ; 04643 / 60483254 ; arne.higgins@mail.xyz ; ja
+248;25.01.2016; Frau ; Dr. ; Janin ; Vetter ; 6.5.1954 ; Heroldstr. 65 ;2906; Niesky ; 03588 / 71804376 ; 0155 / 7601520 ; 03588 / 12632068 ; janin.vetter@mail.xyz ; ja
+249;25.06.2016; Frau ; Dr. ; Kristina ; Tönnies ; 8.6.1933 ; Drachterstr. 157 ;6507; Timmenrode ; 03947 / 64865312 ; 0162 / 2511649 ; 03947 / 45282137 ; kristina.toennies@mail.xyz ; ja
+250;04.11.2016; Herr ; Dr. ; Helmut ; Lambertz ; 17.9.1952 ; Franz-Peter-Kürten-Weg 61 ;17091; Altenhagen ; 03960 / 20881961 ; 0171 / 1328994 ; 03960 / 60687216 ; helmut.lambertz@mail.xyz ; ja
+251;22.08.2016; Herr ; Dr. ; Matti ; Wilkens ; 26.11.1966 ; Rennbahnstr. 120 ;32584; Löhne ; 05732 / 36976453 ; 0151 / 7922466 ; 05732 / 32114350 ; matti.wilkens@mail.xyz ; ja
+252;14.02.2016; Frau ; Dr. ; Tara ; Wagenknecht ; 6.11.1987 ; Am Oedingteich 136 ;93055; Regensburg ; 0941 / 91137519 ; 0151 / 2528906 ; 0941 / 48517601 ; tara.wagenknecht@mail.xyz ; ja
+253;19.07.2016; Herr ; Dr. ; Lion ; Noll ; 17.5.1997 ; Janningsweg 85a ;39307; Genthin ; 03933 / 55636691 ; 0154 / 7129428 ; 03933 / 19635236 ; l.noll@mail.xyz ; ja
+254;15.02.2016; Herr ; Dr. ; Bernhard ; Zeitler ; 3.12.1929 ; Zur Wiese 144 ;74354; Besigheim ; 07143 / 51803499 ; 0171 / 2472329 ; 07143 / 62589093 ; bernhard.zeitler@mail.xyz ; ja
+255;21.12.2016; Herr ; Dr. ; Marten ; Rosenberger ; 28.9.1956 ; Am Dornbusch 2 ;79856; Hinterzarten ; 07652 / 80188336 ; 0175 / 5553466 ; 07652 / 4905258 ; m.rosenberger@mail.xyz ; ja
+256;11.03.2016; Frau ; Prof. ; Romy ; Kreuzer ; 10.2.1944 ; Liboristr. 32 ;97299; Zell am Main ; 0931 / 40780070 ; 0161 / 6640742 ; 0931 / 64792354 ; r.kreuzer@mail.xyz ; ja
+257;19.06.2016; Herr ; Prof. ; Jannik ; Brandstetter ; 26.7.1932 ; Am Filk 171 ;83361; Kienberg ; 08628 / 77495755 ; 0153 / 8156394 ; 08628 / 58584786 ; j.brandstetter@mail.xyz ; ja
+258;24.04.2016; Frau ; Dr. ; Elizabeth ; Summers ; 15.1.1974 ; Offenbergstr. 166 ;13581; Spandau ; 030 / 53036053 ; 0160 / 5720177 ; 030 / 55940054 ; e.summers@mail.xyz ; ja
+259;02.12.2016; Frau ; Dr. ; Heidi ; Wilk ; 6.1.1998 ; Am Grauen Stein 148 ;33102; Paderborn ; 05251 / 9290455 ; 0157 / 6250872 ; 05251 / 25696496 ; heidi.wilk@mail.xyz ; ja
+260;03.12.2016; Frau ; Dr. ; Heidi ; Henning ; 26.5.1964 ; Widdeshover Weg 107 ;66871; Reichweiler ; 06381 / 16191379 ; 0154 / 9194052 ; 06381 / 74071646 ; h.henning@mail.xyz ; ja
+261;26.08.2016; Herr ; Dr. ; Peter ; Vedes ; 5.2.1977 ; Nieland 72 ;27308; Kirchlinteln ; 04236 / 84788427 ; 0150 / 9824729 ; 04236 / 77009441 ; p.vedes@mail.xyz ; ja
+262;24.03.2016; Herr ; Dr. ; Leandro ; Roos ; 17.9.1985 ; Offerkämpe 197a ;65626; Birlenbach ; 06432 / 23959522 ; 0154 / 2853094 ; 06432 / 77983531 ; leandro.roos@mail.xyz ; ja
+263;21.05.2016; Frau ; Dr. ; Lena ; Pratt ; 24.4.1937 ; Am Burloh 176 ;37127; Dransfeld ; 05502 / 87306713 ; 0168 / 3003960 ; 05502 / 31637632 ; lena.pratt@mail.xyz ; ja
+264;16.07.2016; Frau ; Dr. ; Hanna ; Thomas ; 28.8.1988 ; Erpeler Str. 30 ;14129; Steglitz-Zehlendorf ; 030 / 47241155 ; 0159 / 9553154 ; 030 / 96130770 ; h.thomas@mail.xyz ; ja
+265;11.12.2016; Frau ; Prof. ; Juli ; Schober ; 12.1.1994 ; Im Stemmen 174 ;34596; Bad Zwesten ; 05626 / 9423020 ; 0155 / 1595692 ; 05626 / 38101166 ; j.schober@mail.xyz ; ja
+266;24.06.2016; Frau ; Dr. ; Nora ; Seliger ; 20.5.1987 ; Gescherweg 42 ;86853; Langerringen ; 08232 / 82683132 ; 0167 / 3433694 ; 08232 / 13996739 ; n.seliger@mail.xyz ; ja
+267;04.01.2016; Herr ; Dr. ; Kian ; Faulhaber ; 20.7.1930 ; Lammerbach 27 ;24582; Schönbek ; 04322 / 57824270 ; 0167 / 3021284 ; 04322 / 63871106 ; kian.faulhaber@mail.xyz ; ja
+268;19.08.2016; Frau ; Dr. ; Dilara ; Boone ; 22.9.1948 ; Herdingstr. 18 ;41468; Uedesheim ; 02131 / 75832023 ; 0151 / 1078572 ; 02131 / 87499475 ; dilara.boone@mail.xyz ; ja
+269;30.04.2016; Frau ; Dr. ; Stefanie ; Higgins ; 5.8.1940 ; Pötterhoek 160 ;3044; Cottbus ; 0355 / 61847324 ; 0172 / 3264241 ; 0355 / 25776264 ; stefanie.higgins@mail.xyz ; ja
+270;15.10.2016; Frau ; Dr. ; Alexa ; Thelen ; 3.11.1948 ; Pankokstr. 195 ;78609; Tuningen ; 07464 / 33515114 ; 0153 / 4532238 ; 07464 / 72781607 ; a.thelen@mail.xyz ; ja
+271;10.12.2016; Frau ; Dr. ; Alina ; Schuler ; 6.10.1960 ; Avendruper Str. 4 ;29593; Schwienau ; 05822 / 24959157 ; 0153 / 7401362 ; 05822 / 61304693 ; a.schuler@mail.xyz ; ja
+272;01.08.2016; Herr ; Dr. ; Ricardo ; Sigmund ; 17.2.1998 ; Am Grauen Stein 161 ;24568; Nützen ; 04191 / 63504613 ; 0171 / 4041358 ; 04191 / 99652164 ; ricardo.sigmund@mail.xyz ; ja
+273;29.07.2016; Herr ; Dr. ; Wilfried ; Both ; 24.10.1946 ; Berrischstr. 84 ;94491; Hengersberg ; 09901 / 21641928 ; 0179 / 9894272 ; 09901 / 97618186 ; w.both@mail.xyz ; ja
+274;28.09.2016; Herr ; Dr. ; Carlo ; Schwertfeger ; 3.4.1963 ; Theodor-Heuss-Ring 66 ;67722; Winnweiler ; 06302 / 62750726 ; 0179 / 3161830 ; 06302 / 7438348 ; carlo.schwertfeger@mail.xyz ; ja
+275;08.10.2016; Frau ; Dr. ; Rosemarie ; Haid ; 27.9.1947 ; Janningsweg 86 ;88263; Horgenzell ; 07504 / 93439693 ; 0150 / 4537203 ; 07504 / 62330519 ; rosemarie.haid@mail.xyz ; ja
+276;08.07.2016; Frau ; Dr. ; Jenny ; Bothe ; 13.6.1965 ; Unter Kahlenhausen 120 ;37216; Witzenhausen ; 05542 / 82362772 ; 0160 / 5647812 ; 05542 / 6802329 ; jenny.bothe@mail.xyz ; ja
+277;17.04.2016; Frau ; Prof. ; Lyn ; Burghardt ; 23.3.1957 ; Kochwiesenstr. 150 ;68723; Schwetzingen ; 06202 / 57310360 ; 0158 / 9354527 ; 06202 / 17925953 ; lyn.burghardt@mail.xyz ; ja
+278;04.01.2016; Herr ; Dr. ; Bjarne ; Burmeister ; 10.1.1959 ; Lassallestr. 90 ;74426; Bühlerzell ; 07974 / 33665510 ; 0172 / 8900454 ; 07974 / 35305156 ; b.burmeister@mail.xyz ; ja
+279;16.10.2016; Frau ; Dr. ; Petra ; Henseler ; 7.7.1963 ; Nerzweg 61 ;96364; Marktrodach ; 09261 / 7711211 ; 0156 / 4324464 ; 09261 / 24534771 ; petra.henseler@mail.xyz ; ja
+280;09.11.2016; Frau ; Dr. ; Annette ; Pecher ; 9.8.1951 ; Johann-Krane-Weg 68 ;86807; Buchloe ; 08241 / 97004818 ; 0171 / 4470057 ; 08241 / 95077367 ; annette.pecher@mail.xyz ; ja
+281;07.10.2016; Frau ; Prof. ; Jule ; Mang ; 21.10.1931 ; Mecklenbecker Str. 155 ;94557; Niederalteich ; 09901 / 23638665 ; 0169 / 8341703 ; 09901 / 5286164 ; jule.mang@mail.xyz ; ja
+282;02.05.2016; Frau ; Dr. ; Janin ; Hagemann ; 2.2.1951 ; Weißenburgstr. 110 ;13403; Reinickendorf ; 030 / 51370487 ; 0173 / 5310951 ; 030 / 12833979 ; j.hagemann@mail.xyz ; ja
+283;30.06.2016; Herr ; Dr. ; Dustin ; Wolters ; 15.5.1931 ; Dorbaumstr. 108 ;53539; Borler ; 02692 / 6209448 ; 0159 / 4580763 ; 02692 / 76744174 ; d.wolters@mail.xyz ; ja
+284;03.04.2016; Frau ; Dr. ; Fenja ; Wirth ; 12.3.1985 ; Von-Holte-Str. 43 ;83708; Kreuth ; 08029 / 69007608 ; 0174 / 2290712 ; 08029 / 21072600 ; f.wirth@mail.xyz ; ja
+285;26.12.2016; Herr ; Dr. ; Quentin ; Maxwell ; 6.9.1987 ; Erikahof 142 ;51381; Leverkusen ; 0214 / 48737118 ; 0166 / 9565504 ; 0214 / 23199698 ; quentin.maxwell@mail.xyz ; ja
+286;30.12.2016; Frau ; Dr. ; Astrid ; Kaufhold ; 15.4.1993 ; Cheruskerstr. 192 ;56479; Hüblingen ; 02664 / 50837828 ; 0152 / 3623571 ; 02664 / 28046960 ; a.kaufhold@mail.xyz ; ja
+287;31.05.2016; Frau ; Dr. ; Emmily ; Adkins ; 13.10.1984 ; Bünkamp 28 ;97258; Gollhofen ; 09339 / 15998216 ; 0167 / 7977406 ; 09339 / 90567437 ; e.adkins@mail.xyz ; ja
+288;04.09.2016; Herr ; Dr. ; Reinhard ; Zimmerer ; 14.10.1920 ; Geiststr. 93a ;82407; Wielenbach ; 0881 / 9385729 ; 0179 / 1452359 ; 0881 / 488201 ; reinhard.zimmerer@mail.xyz ; ja
+289;20.12.2016; Frau ; Dr. ; Victoria ; Schaper ; 14.1.1953 ; Rinscheweg 104 ;96170; Priesendorf ; 09549 / 21586621 ; 0170 / 5289056 ; 09549 / 54707447 ; v.schaper@mail.xyz ; ja
+290;17.06.2016; Herr ; Prof. ; Muhammed ; Hartung ; 9.3.1980 ; Rektoratsweg 14 ;52159; Roetgen ; 02471 / 86197657 ; 0153 / 3534418 ; 02471 / 38198727 ; m.hartung@mail.xyz ; ja
+291;24.04.2016; Frau ; Dr. ; Maike ; Uhlemann ; 10.9.1944 ; Oberschlesier Str. 101 ;19077; Rastow ; 03868 / 15119827 ; 0163 / 2488483 ; 03868 / 7478537 ; maike.uhlemann@mail.xyz ; ja
+292;02.11.2016; Herr ; Dr. ; Dennis ; Haug ; 23.8.1943 ; Hacklenburg 55 ;26427; Werdum ; 04971 / 12495290 ; 0168 / 4643492 ; 04971 / 21204490 ; d.haug@mail.xyz ; ja
+293;19.02.2016; Herr ; Dr. ; Jonah ; Mayer ; 21.9.1963 ; Weseler Str. 110 ;78576; Emmingen-Liptingen ; 07465 / 52548642 ; 0167 / 5740260 ; 07465 / 76472078 ; jonah.mayer@mail.xyz ; ja
+294;23.10.2016; Herr ; Dr. ; Enrico ; McCormick ; 20.5.1998 ; Am Dornbusch 189 ;38112; Braunschweig ; 0531 / 39169309 ; 0156 / 3525931 ; 0531 / 1783651 ; e.mccormick@mail.xyz ; ja
+295;09.08.2016; Herr ; Dr. ; Manuel ; Kaczmarek ; 27.3.1956 ; Kochwiesenstr. 127a ;57635; Oberirsen ; 02681 / 70429272 ; 0176 / 5134589 ; 02681 / 77324995 ; m.kaczmarek@mail.xyz ; ja
+296;03.03.2016; Herr ; Dr. ; Til ; Jones ; 28.1.1944 ; An Lyskirchen 126 ;89191; Nellingen ; 07337 / 2183757 ; 0169 / 7629323 ; 07337 / 60515719 ; t.jones@mail.xyz ; ja
+297;01.09.2016; Frau ; Dr. ; Jule ; Hellmann ; 6.1.1976 ; Unter Kahlenhausen 130 ;55128; Mainz am Rhein ; 06131 / 41169377 ; 0153 / 3217128 ; 06131 / 17366660 ; j.hellmann@mail.xyz ; ja
+298;31.07.2016; Herr ; Dr. ; Lars ; Tacke ; 12.6.1942 ; Mondstr. 43 ;53424; Remagen ; 02642 / 46725102 ; 0154 / 5994370 ; 02642 / 25444524 ; l.tacke@mail.xyz ; ja
+299;09.02.2016; Herr ; Dr. ; Piet ; Kiessling ; 3.8.2000 ; Augustastr. 6 ;80638; München ; 089 / 5894265 ; 0177 / 8284385 ; 089 / 76099619 ; p.kiessling@mail.xyz ; ja
+300;23.10.2016; Frau ; Dr. ; Chiara ; Daub ; 23.11.1930 ; Rüschhausweg 111 ;55442; Roth ; 06724 / 89532321 ; 0167 / 4241333 ; 06724 / 77773614 ; c.daub@mail.xyz ; ja
+301;02.11.2016; Frau ; Dr. ; Inga ; Ingram ; 6.9.1963 ; Am Burloh 58 ;66564; Ottweiler ; 06824 / 72173782 ; 0178 / 4778383 ; 06824 / 64191639 ; inga.ingram@mail.xyz ; ja
+302;18.03.2016; Herr ; Dr. ; Luca ; Rach ; 12.6.1947 ; Cheruskerstr. 74a ;34582; Borken ; 05682 / 88584886 ; 0153 / 3539040 ; 05682 / 41997786 ; l.rach@mail.xyz ; ja
+303;27.05.2016; Frau ; Dr. ; Kira ; Grube ; 17.11.1974 ; Am Filk 129 ;54655; Wilsecker ; 06563 / 53897735 ; 0153 / 1231333 ; 06563 / 85127164 ; kira.grube@mail.xyz ; ja
+304;04.06.2016; Herr ; Dr. ; Justus ; Gaida ; 12.10.1962 ; Immelmannstr. 75 ;87439; Kempten ; 0831 / 58456065 ; 0163 / 5062506 ; 0831 / 85120805 ; j.gaida@mail.xyz ; ja
+305;21.04.2016; Herr ; Prof. ; Richard ; Bauer ; 27.6.1945 ; Olpener Str. 98 ;25813; Husum ; 04841 / 2526774 ; 0162 / 3368087 ; 04841 / 13643162 ; richard.bauer@mail.xyz ; ja
+306;05.04.2016; Frau ; Dr. ; Dagmar ; Eckardt ; 19.11.1922 ; Münzstr. 51 ;54578; Berndorf ; 06593 / 15248394 ; 0155 / 3715194 ; 06593 / 19884091 ; d.eckardt@mail.xyz ; ja
+307;06.01.2016; Herr ; Dr. ; Matthies ; Merz ; 25.8.1989 ; Parkallee 174 ;56729; Hirten ; 02651 / 30576829 ; 0170 / 2011502 ; 02651 / 35335162 ; matthies.merz@mail.xyz ; ja
+308;12.06.2016; Herr ; Dr. ; Lennox ; Williamson ; 26.4.1952 ; Rosenplatz 43 ;58642; Iserlohn ; 02371 / 41083643 ; 0160 / 8624031 ; 02371 / 48891518 ; l.williamson@mail.xyz ; ja
+309;28.03.2016; Frau ; Dr. ; Laura ; Eder ; 1.2.1995 ; Am Filk 140 ;85072; Eichstätt ; 08421 / 66997589 ; 0170 / 4069750 ; 08421 / 41359653 ; laura.eder@mail.xyz ; ja
+310;20.05.2016; Frau ; Dr. ; Maya ; Karl ; 6.8.1989 ; Paul-Engelhard-Weg 47 ;23972; Metelsdorf ; 03841 / 42678199 ; 0176 / 8725822 ; 03841 / 51739989 ; maya.karl@mail.xyz ; ja
+311;07.08.2016; Herr ; Dr. ; Herbert ; Herbert ; 10.5.1991 ; Friesenring 63 ;19230; Bresegard ; 03883 / 11593646 ; 0178 / 2670132 ; 03883 / 20242059 ; herbert.herbert@mail.xyz ; ja
+312;09.10.2016; Herr ; Dr. ; Louis ; Nebel ; 19.5.1934 ; Im Stemmen 175 ;31691; Seggebruch ; 05722 / 16690801 ; 0176 / 2426473 ; 05722 / 21644929 ; louis.nebel@mail.xyz ; ja
+313;07.06.2016; Frau ; Dr. ; Kaya ; Wright ; 9.7.1951 ; Birkenweg 4 ;17309; Polzow ; 03973 / 60078829 ; 0160 / 9864206 ; 03973 / 93515014 ; kaya.wright@mail.xyz ; ja
+314;10.06.2016; Herr ; Dr. ; Mats ; Laumann ; 18.10.1936 ; Friedrich-Ebert-Str. 133 ;24407; Rabenkirchen-Faulück ; 04642 / 86405492 ; 0158 / 7680082 ; 04642 / 64614938 ; m.laumann@mail.xyz ; ja
+315;06.08.2016; Herr ; Dr. ; Niko ; Dudek ; 20.9.1964 ; Max-Winkelmann-Str. 21 ;58769; Nachrodt-Wiblingwerde ; 02352 / 68661447 ; 0150 / 3161779 ; 02352 / 42725180 ; n.dudek@mail.xyz ; ja
+316;16.08.2016; Herr ; Dr. ; Heinrich ; Padilla ; 18.8.1982 ; Kurze Str. 68 ;74749; Rosenberg ; 06295 / 7081353 ; 0163 / 1269156 ; 06295 / 231843 ; h.padilla@mail.xyz ; ja
+317;12.10.2016; Frau ; Dr. ; Isabel ; Hinkelmann ; 20.2.1964 ; Eulenbergstr. 15 ;29478; Höhbeck ; 05846 / 79199242 ; 0171 / 6154215 ; 05846 / 26626885 ; i.hinkelmann@mail.xyz ; ja
+318;28.10.2016; Frau ; Dr. ; Joelina ; Franklin ; 10.1.1935 ; Florentine-Eichler-Str. 173 ;73614; Schorndorf ; 07181 / 78684483 ; 0155 / 1395622 ; 07181 / 37207743 ; joelina.franklin@mail.xyz ; ja
+319;02.05.2016; Frau ; Dr. ; Birgit ; Kranz ; 22.12.1967 ; Kurneystr. 40 ;55546; Fürfeld ; 0671 / 20984343 ; 0155 / 6385190 ; 0671 / 82130900 ; b.kranz@mail.xyz ; ja
+320;31.03.2016; Frau ; Dr. ; Anette ; Ostrowski ; 9.5.1974 ; Wolbecker Str. 132 ;10827; Berlin ; 030 / 68999565 ; 0160 / 6136003 ; 030 / 97569098 ; anette.ostrowski@mail.xyz ; ja
+321;20.06.2016; Herr ; Prof. ; Erich ; Davis ; 1.7.1922 ; Willingrott 108 ;89561; Dischingen ; 07327 / 59587291 ; 0179 / 6168309 ; 07327 / 47642757 ; e.davis@mail.xyz ; ja
+322;11.02.2016; Frau ; Dr. ; Rebecca ; Salon ; 26.3.1976 ; Friesenring 122 ;88353; Kißlegg ; 07563 / 11930657 ; 0150 / 4694576 ; 07563 / 80980897 ; r.salon@mail.xyz ; ja
+323;19.04.2016; Frau ; Dr. ; Mira ; Agrar ; 3.5.1999 ; Hermann-Treff-Weg 144 ;25563; Föhrden-Barl ; 04192 / 52700262 ; 0151 / 5847115 ; 04192 / 39796867 ; mira.agrar@mail.xyz ; ja
+324;10.07.2016; Herr ; Prof. ; Werner ; Both ; 7.4.1984 ; Mondstr. 154 ;61389; Schmitten ; 06084 / 39394512 ; 0155 / 2805541 ; 06084 / 91614135 ; werner.both@mail.xyz ; ja
+325;25.05.2016; Frau ; Dr. ; Brigitte ; Demir ; 20.11.1940 ; Eibenweg 175 ;49577; Ankum ; 05462 / 80952825 ; 0165 / 3471110 ; 05462 / 95212555 ; brigitte.demir@mail.xyz ; ja
+326;17.12.2016; Frau ; Dr. ; Ella ; Malek ; 24.2.1936 ; Försterstr. 66 ;90616; Neuhof an der Zenn ; 09107 / 51750423 ; 0166 / 1829123 ; 09107 / 5170487 ; ella.malek@mail.xyz ; ja
+327;24.11.2016; Frau ; Dr. ; Finnja ; Jones ; 11.7.1927 ; Offerkämpe 30 ;67829; Callbach ; 06753 / 4745678 ; 0159 / 8819115 ; 06753 / 48369013 ; f.jones@mail.xyz ; ja
+328;23.06.2016; Frau ; Dr. ; Karina ; Struck ; 22.11.1945 ; Meesenstiege 179 ;74597; Appensee ; 07967 / 25976433 ; 0167 / 3315635 ; 07967 / 48853682 ; karina.struck@mail.xyz ; ja
+329;23.01.2016; Herr ; Prof. ; Enrico ; Kugler ; 15.4.1993 ; Mindener Str. 50 ;28876; Oyten ; 04207 / 1269601 ; 0155 / 3082277 ; 04207 / 50272242 ; e.kugler@mail.xyz ; ja
+330;05.10.2016; Herr ; Dr. ; Helmut ; Siemer ; 17.5.1984 ; Hogenbergstr. 35 ;86975; Bernbeuren ; 08860 / 84057683 ; 0159 / 6572062 ; 08860 / 31784068 ; h.siemer@mail.xyz ; ja
+331;08.05.2016; Herr ; Dr. ; Marcel ; Lohse ; 12.12.1963 ; Uhuweg 91 ;79279; Vörstetten ; 07666 / 73142077 ; 0166 / 5729774 ; 07666 / 34499397 ; m.lohse@mail.xyz ; ja
+332;01.03.2016; Herr ; Prof. ; Jeremie ; Schulte ; 24.2.1939 ; Kleiner Griechenmarkt 120 ;55608; Bergen ; 06752 / 44677423 ; 0158 / 8141554 ; 06752 / 73264669 ; jeremie.schulte@mail.xyz ; ja
+333;11.02.2016; Herr ; Dr. ; Thorsten ; Bergmann ; 23.10.1984 ; Templerweg 132 ;26129; Oldenburg ; 0441 / 22729075 ; 0162 / 7683291 ; 0441 / 36643733 ; t.bergmann@mail.xyz ; ja
+334;03.02.2016; Herr ; Dr. ; Jakob ; Hantke ; 7.11.1948 ; Uhuweg 172 ;46569; Hünxe ; 02858 / 65636716 ; 0150 / 8126621 ; 02858 / 98940733 ; j.hantke@mail.xyz ; ja
+335;27.10.2016; Herr ; Dr. ; Noel ; Schmit ; 19.5.1952 ; Baumberger Str. 109 ;21483; Wangelau ; 04153 / 71913934 ; 0163 / 7668141 ; 04153 / 21031639 ; n.schmit@mail.xyz ; ja
+336;20.05.2016; Frau ; Dr. ; Chantale ; Breitenbach ; 4.3.1936 ; Kriegerweg 117 ;88697; Bermatingen ; 07544 / 58545728 ; 0150 / 8520574 ; 07544 / 99763792 ; chantale.breitenbach@mail.xyz ; ja
+337;23.08.2016; Frau ; Dr. ; Kyra ; Siemon ; 18.1.1968 ; Kriegerweg 119 ;85053; Ingolstadt ; 0841 / 43016099 ; 0177 / 7179712 ; 0841 / 5080294 ; kyra.siemon@mail.xyz ; ja
+338;16.05.2016; Herr ; Dr. ; Fabian ; Marks ; 11.7.1997 ; Morthorststr. 78 ;67308; Biedesheim ; 06351 / 12779779 ; 0154 / 5975474 ; 06351 / 90176892 ; f.marks@mail.xyz ; ja
+339;01.11.2016; Frau ; Dr. ; Lilli ; Oswald ; 6.8.1997 ; Carossastr. 155 ;93105; Tegernheim ; 09403 / 15830309 ; 0166 / 4072073 ; 09403 / 9052783 ; l.oswald@mail.xyz ; ja
+340;06.10.2016; Frau ; Dr. ; Meike ; Mendoza ; 14.12.1993 ; Teutonenstr. 188a ;57645; Nister ; 02662 / 33878867 ; 0178 / 5292940 ; 02662 / 92173247 ; m.mendoza@mail.xyz ; ja
+341;15.04.2016; Herr ; Dr. ; Frederic ; Fehrenbach ; 14.11.1980 ; Mariendorfer Str. 109 ;79677; Aitern ; 07673 / 83277465 ; 0156 / 8503444 ; 07673 / 46449092 ; f.fehrenbach@mail.xyz ; ja
+342;07.05.2016; Frau ; Prof. ; Amely ; Kaya ; 14.9.1962 ; Marktstr. 73 ;18109; Rostock ; 0381 / 11575503 ; 0178 / 3496832 ; 0381 / 57570672 ; amely.kaya@mail.xyz ; ja
+343;16.11.2016; Frau ; Dr. ; Gerda ; Lynch ; 11.8.1995 ; Parkallee 9 ;85302; Gerolsbach ; 08445 / 62421046 ; 0153 / 8480567 ; 08445 / 71251721 ; g.lynch@mail.xyz ; ja
+344;16.03.2016; Herr ; Dr. ; Elias ; Jefferson ; 1.3.1997 ; Am Nubbenberg 111 ;91413; Neustadt an der Aisch ; 09161 / 66074518 ; 0153 / 3184797 ; 09161 / 94570323 ; e.jefferson@mail.xyz ; ja
+345;13.01.2016; Herr ; Dr. ; Dominik ; Hackbarth ; 20.6.1969 ; Weserstr. 11 ;71134; Aidlingen ; 07034 / 75640360 ; 0171 / 1778348 ; 07034 / 81865645 ; d.hackbarth@mail.xyz ; ja
+346;21.01.2016; Herr ; Dr. ; Jürgen ; Kaufmann ; 11.2.1994 ; Emdener Str. 59 ;29481; Karwitz ; 05861 / 41152310 ; 0179 / 4693227 ; 05861 / 26641652 ; juergen.kaufmann@mail.xyz ; ja
+347;01.02.2016; Herr ; Dr. ; Colin ; Pope ; 7.9.1934 ; Erpeler Str. 82 ;80801; München ; 089 / 30622246 ; 0154 / 5680537 ; 089 / 35294571 ; colin.pope@mail.xyz ; ja
+348;13.12.2016; Frau ; Prof. ; Paulina ; Schwarzer ; 12.5.1974 ; Ringelnatzstr. 38 ;23911; Ziethen ; 04541 / 95358536 ; 0179 / 7130000 ; 04541 / 93023036 ; paulina.schwarzer@mail.xyz ; ja
+349;08.05.2016; Frau ; Dr. ; Elena ; Katz ; 14.9.1935 ; Olpener Str. 125 ;57482; Wenden ; 02762 / 56915825 ; 0156 / 9356527 ; 02762 / 98615586 ; e.katz@mail.xyz ; ja
+350;31.07.2016; Frau ; Dr. ; Maria ; Kreutz ; 27.11.1961 ; Am Brook 106 ;83129; Höslwang ; 08055 / 27433113 ; 0162 / 1248502 ; 08055 / 37528216 ; maria.kreutz@mail.xyz ; ja
+351;18.10.2016; Herr ; Dr. ; Frank ; Tobias ; 5.1.1925 ; Liboristr. 115 ;24409; Stoltebüll ; 04642 / 47483764 ; 0154 / 8558671 ; 04642 / 48873612 ; frank.tobias@mail.xyz ; ja
+352;10.10.2016; Frau ; Dr. ; Jessika ; Ferstl ; 7.3.1969 ; Breul 179 ;35585; Wetzlar ; 06441 / 73998120 ; 0168 / 5181129 ; 06441 / 4996311 ; jessika.ferstl@mail.xyz ; ja
+353;22.07.2016; Frau ; Dr. ; Romy ; Grothe ; 1.8.1966 ; Grevener Str. 116 ;90547; Stein ; 0911 / 374753 ; 0162 / 3518704 ; 0911 / 99894684 ; r.grothe@mail.xyz ; ja
+354;25.05.2016; Frau ; Dr. ; Greta ; Rupprecht ; 5.1.1947 ; Heisstr. 200 ;55469; Schönborn ; 06761 / 48549160 ; 0169 / 1609663 ; 06761 / 7253879 ; g.rupprecht@mail.xyz ; ja
+355;10.11.2016; Herr ; Dr. ; Kai ; Wood ; 11.10.1932 ; Dahlienweg 140 ;57635; Weyerbusch ; 02686 / 50146092 ; 0162 / 3454322 ; 02686 / 91193605 ; k.wood@mail.xyz ; ja
+356;24.10.2016; Frau ; Dr. ; Mina ; Neal ; 28.2.1956 ; Hensenstr. 164 ;24306; Rathjensdorf ; 04522 / 80262132 ; 0168 / 2655199 ; 04522 / 30724417 ; m.neal@mail.xyz ; ja
+357;02.10.2016; Herr ; Dr. ; Joerg ; Thelen ; 10.1.1975 ; Kempener Str. 156 ;78355; Hohenfels ; 07557 / 38067502 ; 0162 / 9671423 ; 07557 / 58413893 ; joerg.thelen@mail.xyz ; ja
+358;10.06.2016; Herr ; Prof. ; Günther ; Reim ; 9.3.1973 ; Im Draum 146 ;74838; Limbach ; 06287 / 32532475 ; 0166 / 2706284 ; 06287 / 55534114 ; g.reim@mail.xyz ; ja
+359;19.03.2016; Herr ; Dr. ; Muhammed ; Eckl ; 14.4.1971 ; Kapellenstr. 173 ;92702; Kohlberg ; 09608 / 41287514 ; 0162 / 6312236 ; 09608 / 68999742 ; muhammed.eckl@mail.xyz ; ja
+360;19.02.2016; Herr ; Dr. ; Mert ; Pech ; 11.11.1982 ; Osthuesheide 138 ;49434; Neuenkirchen-Vörden ; 05493 / 88259701 ; 0150 / 2848539 ; 05493 / 78459749 ; m.pech@mail.xyz ; ja
+361;02.04.2016; Frau ; Dr. ; Ella ; Wörner ; 10.11.1925 ; Eifelstr. 155 ;34599; Neuental ; 06693 / 60697289 ; 0177 / 5604760 ; 06693 / 26681076 ; e.woerner@mail.xyz ; ja
+362;02.01.2016; Herr ; Dr. ; Jürgen ; Mair ; 2.11.1947 ; Dorbaumstr. 159 ;6502; Thale ; 03947 / 59030290 ; 0171 / 8124188 ; 03947 / 19805956 ; j.mair@mail.xyz ; ja
+363;30.01.2016; Frau ; Prof. ; Céline ; Debus ; 18.8.2000 ; Dammstr. 135 ;54340; Thörnich ; 06502 / 4430536 ; 0177 / 2537548 ; 06502 / 52730339 ; c.debus@mail.xyz ; ja
+364;31.10.2016; Herr ; Dr. ; Lorenz ; Simon ; 27.5.1978 ; Hermann-Treff-Weg 108 ;54531; Wallscheid ; 06572 / 12868596 ; 0174 / 9568440 ; 06572 / 19163945 ; lorenz.simon@mail.xyz ; ja
+365;06.12.2016; Frau ; Dr. ; Tara ; Sauter ; 12.11.1935 ; Friedrich-Ebert-Str. 144a ;18055; Rostock ; 0381 / 65470880 ; 0164 / 4587327 ; 0381 / 5421084 ; t.sauter@mail.xyz ; ja
+366;27.04.2016; Frau ; Dr. ; Kaya ; Baumgarten ; 20.2.1956 ; Flaßkuhl 31 ;37075; Göttingen ; 0551 / 82584658 ; 0171 / 6258422 ; 0551 / 12899348 ; kaya.baumgarten@mail.xyz ; ja
+367;24.11.2016; Herr ; Dr. ; Philipp ; Eckl ; 10.1.1998 ; Mariendorfer Str. 117 ;48149; Münster ; 0251 / 86888644 ; 0154 / 3108927 ; 0251 / 81176270 ; p.eckl@mail.xyz ; ja
+368;10.07.2016; Herr ; Dr. ; Ulrich ; Siegert ; 16.10.1992 ; Memmertweg 185 ;56584; Rüscheid ; 02634 / 80566533 ; 0150 / 4744676 ; 02634 / 71680131 ; ulrich.siegert@mail.xyz ; ja
+369;26.02.2016; Frau ; Prof. ; Leona ; Gaul ; 15.3.1973 ; Bünkamp 90 ;93486; Runding ; 09971 / 57719907 ; 0175 / 8197629 ; 09971 / 88031338 ; leona.gaul@mail.xyz ; ja
+370;11.08.2016; Herr ; Dr. ; Mario ; Christensen ; 2.6.1987 ; Beuelsweg 11 ;96486; Lautertal ; 09561 / 95045241 ; 0166 / 4329121 ; 09561 / 30540547 ; mario.christensen@mail.xyz ; ja
+371;15.10.2016; Frau ; Dr. ; Ilse ; Stephens ; 15.2.1938 ; Am Wigbold 51 ;56462; Höhn ; 02663 / 82555491 ; 0159 / 3751230 ; 02663 / 97861154 ; ilse.stephens@mail.xyz ; ja
+372;03.06.2016; Herr ; Dr. ; Raphael ; Seeger ; 24.5.1925 ; Gartenstr. 106 ;24598; Heidmühlen ; 04320 / 13662462 ; 0168 / 9377276 ; 04320 / 32241539 ; r.seeger@mail.xyz ; ja
+373;13.05.2016; Frau ; Prof. ; Emmily ; Denzer ; 13.5.1970 ; Methweg 132 ;86720; Nördlingen ; 09081 / 72706294 ; 0166 / 7262767 ; 09081 / 50367667 ; e.denzer@mail.xyz ; ja
+374;23.10.2016; Frau ; Dr. ; Nelly ; Volk ; 21.7.1972 ; Carossastr. 60 ;37308; Glasehausen ; 03606 / 50598446 ; 0150 / 7304140 ; 03606 / 67797055 ; n.volk@mail.xyz ; ja
+375;16.05.2016; Herr ; Dr. ; Karlo ; Hopkins ; 26.11.1925 ; Am Oedingteich 141 ;70199; Stuttgart ; 0711 / 61301248 ; 0156 / 2975787 ; 0711 / 2836660 ; k.hopkins@mail.xyz ; ja
+376;16.06.2016; Herr ; Prof. ; Anton ; Radtke ; 5.12.1950 ; Weserstr. 145 ;67271; Mertesheim ; 06359 / 98612369 ; 0161 / 2017318 ; 06359 / 71855395 ; a.radtke@mail.xyz ; ja
+377;28.05.2016; Frau ; Dr. ; Sophie ; Clayton ; 14.5.1978 ; Försterstr. 136 ;96170; Lisberg ; 09549 / 13515829 ; 0161 / 6754453 ; 09549 / 38940340 ; sophie.clayton@mail.xyz ; ja
+378;15.02.2016; Frau ; Dr. ; Rosa ; Breunig ; 23.12.1982 ; Landoisstr. 184 ;56648; Saffig ; 02625 / 31425004 ; 0168 / 1695055 ; 02625 / 67969183 ; rosa.breunig@mail.xyz ; ja
+379;07.01.2016; Frau ; Dr. ; Eileen ; Bühler ; 2.3.1945 ; Papenbusch 13 ;66917; Biedershausen ; 06375 / 36242330 ; 0162 / 6816425 ; 06375 / 24883242 ; e.buehler@mail.xyz ; ja
+380;05.02.2016; Frau ; Dr. ; Julia ; Haas ; 11.1.1927 ; Innsbruckweg 198 ;33803; Steinhagen ; 05204 / 66221609 ; 0177 / 7797292 ; 05204 / 89361084 ; j.haas@mail.xyz ; ja
+381;01.05.2016; Frau ; Dr. ; Isabel ; Saalmann ; 20.5.1986 ; Friesenring 32 ;59846; Sundern ; 02933 / 75222607 ; 0162 / 7106312 ; 02933 / 28382681 ; i.saalmann@mail.xyz ; ja
+382;05.07.2016; Frau ; Dr. ; Kim ; Kromer ; 1.2.1924 ; Eifelstr. 183 ;23743; Grömitz ; 04562 / 56535632 ; 0167 / 5380341 ; 04562 / 79208956 ; kim.kromer@mail.xyz ; ja
+383;16.07.2016; Frau ; Dr. ; Lene ; Kunert ; 10.12.1959 ; Johanniterstr. 104 ;83556; Griesstätt ; 08039 / 53143690 ; 0176 / 7360825 ; 08039 / 36599204 ; lene.kunert@mail.xyz ; ja
+384;08.01.2016; Frau ; Prof. ; Matilda ; Heinemann ; 1.8.1924 ; Enschedeweg 57 ;57629; Malberg ; 02747 / 32880355 ; 0177 / 5404169 ; 02747 / 32158760 ; matilda.heinemann@mail.xyz ; ja
+385;23.07.2016; Herr ; Dr. ; Malte ; Stein ; 20.6.1939 ; Grevener Str. 84 ;25355; Heede ; 04123 / 4677669 ; 0163 / 5268071 ; 04123 / 76217523 ; m.stein@mail.xyz ; ja
+386;08.06.2016; Herr ; Prof. ; Johann ; Barber ; 17.4.1924 ; Bernhard-Poether-Str. 50a ;26802; Moormerland ; 04954 / 14976269 ; 0158 / 9082696 ; 04954 / 20629128 ; johann.barber@mail.xyz ; ja
+387;18.08.2016; Frau ; Dr. ; Linda ; Krone ; 3.12.1951 ; Salzmannstr. 128 ;74906; Bonfeld ; 07066 / 78756425 ; 0170 / 4658105 ; 07066 / 33505904 ; l.krone@mail.xyz ; ja
+388;31.08.2016; Herr ; Dr. ; Henry ; Adams ; 21.3.1941 ; Grevener Str. 120 ;44879; Bochum ; 0234 / 24191884 ; 0169 / 6806434 ; 0234 / 99378620 ; henry.adams@mail.xyz ; ja
+389;13.11.2016; Herr ; Dr. ; Mark ; Spiess ; 11.9.1928 ; Max-Winkelmann-Str. 60 ;24799; Meggerdorf ; 04883 / 24104997 ; 0157 / 5443906 ; 04883 / 60129705 ; mark.spiess@mail.xyz ; ja
+390;11.04.2016; Frau ; Prof. ; Xenia ; Walk ; 1.5.1964 ; Gremmendorfer Weg 179 ;56826; Wagenhausen ; 02676 / 39708466 ; 0161 / 9058192 ; 02676 / 89916348 ; xenia.walk@mail.xyz ; ja
+391;02.07.2016; Frau ; Dr. ; Christiane ; Sims ; 25.9.1921 ; Am Hörsterfriedhof 113 ;95460; Bad Berneck ; 09273 / 44248431 ; 0175 / 5803469 ; 09273 / 62144358 ; christiane.sims@mail.xyz ; ja
+392;27.03.2016; Herr ; Prof. ; Roman ; Elsner ; 19.5.1940 ; Hansaring 160 ;23909; Ratzeburg ; 04541 / 45899082 ; 0161 / 3877942 ; 04541 / 28980566 ; r.elsner@mail.xyz ; ja
+393;16.11.2016; Herr ; Dr. ; Matthis ; Nowak ; 26.6.1946 ; Nienkamp 133 ;74391; Erligheim ; 07143 / 87898813 ; 0171 / 8187966 ; 07143 / 82406241 ; matthis.nowak@mail.xyz ; ja
+394;01.11.2016; Herr ; Dr. ; Yannick ; Neuendorf ; 4.4.1923 ; Am Hörsterfriedhof 142 ;57612; Busenhausen ; 02681 / 76108613 ; 0158 / 1853533 ; 02681 / 36317441 ; y.neuendorf@mail.xyz ; ja
+395;05.04.2016; Herr ; Prof. ; Georg ; Lierzer ; 22.6.1967 ; Rüschhausweg 110 ;94244; Geiersthal ; 09923 / 50009756 ; 0168 / 5360027 ; 09923 / 46757868 ; georg.lierzer@mail.xyz ; ja
+396;16.11.2016; Herr ; Prof. ; Heinrich ; Künzel ; 26.7.1994 ; Hensenstr. 72a ;21706; Drochtersen ; 04143 / 87815751 ; 0165 / 1899998 ; 04143 / 59649066 ; heinrich.kuenzel@mail.xyz ; ja
+397;20.12.2016; Frau ; Dr. ; Elke ; Schauer ; 3.9.1958 ; Landoisstr. 2 ;18276; Mühl Rosin ; 03843 / 75114064 ; 0158 / 1723496 ; 03843 / 94490972 ; elke.schauer@mail.xyz ; ja
+398;19.04.2016; Herr ; Dr. ; Noel ; Krüger ; 24.9.1954 ; Werseblick 67 ;95365; Rugendorf ; 09223 / 68652853 ; 0173 / 6587073 ; 09223 / 69588809 ; n.krueger@mail.xyz ; ja
+399;18.01.2016; Frau ; Dr. ; Ann ; Guzman ; 11.4.1932 ; Mondstr. 9 ;56746; Spessart ; 02636 / 80649611 ; 0167 / 4093887 ; 02636 / 81311143 ; a.guzman@mail.xyz ; ja
+400;19.03.2016; Herr ; Dr. ; Piet ; Maassen ; 15.1.1925 ; Ossenkampstiege 22 ;25791; Barkenholm ; 04836 / 13667585 ; 0151 / 3139228 ; 04836 / 36376470 ; p.maassen@mail.xyz ; ja
+401;21.09.2016; Frau ; Dr. ; Karoline ; Kehl ; 7.1.1967 ; Teutonenstr. 53 ;63828; Kleinkahl ; 06024 / 37867464 ; 0151 / 1944000 ; 06024 / 31690196 ; karoline.kehl@mail.xyz ; ja
+402;28.08.2016; Herr ; Dr. ; Louis ; Moritz ; 21.1.1996 ; Piusallee 47 ;83700; Rottach-Egern ; 08022 / 62115714 ; 0166 / 7332273 ; 08022 / 292655 ; l.moritz@mail.xyz ; ja
+403;07.05.2016; Frau ; Dr. ; Nadine ; Murray ; 16.4.1989 ; Dauvemühle 55 ;69518; Abtsteinach ; 06207 / 20433863 ; 0154 / 3301686 ; 06207 / 59968160 ; n.murray@mail.xyz ; ja
+404;29.12.2016; Frau ; Dr. ; Marie ; Wassermann ; 7.6.1980 ; Salzmannstr. 93 ;74238; Krautheim ; 06294 / 58164210 ; 0150 / 2095626 ; 06294 / 65821789 ; m.wassermann@mail.xyz ; ja
+405;27.11.2016; Frau ; Dr. ; Karina ; Lindner ; 22.1.1998 ; Kempener Str. 27 ;36132; Eiterfeld ; 06672 / 41347449 ; 0169 / 5060739 ; 06672 / 56531079 ; karina.lindner@mail.xyz ; ja
+406;02.10.2016; Herr ; Prof. ; Moritz ; Kaminski ; 6.11.1929 ; An den Mühlen 87 ;82291; Mammendorf ; 08145 / 43873061 ; 0154 / 1381931 ; 08145 / 57923514 ; moritz.kaminski@mail.xyz ; ja
+407;21.09.2016; Frau ; Dr. ; Kaja ; Französisch ; 9.7.1951 ; Am Filk 88 ;7389; Peuschen ; 03647 / 7240459 ; 0174 / 5466418 ; 03647 / 54112928 ; kaja.franzoesisch@mail.xyz ; ja
+408;19.07.2016; Herr ; Dr. ; Erwin ; Wheeler ; 11.4.1995 ; Flaßkuhl 46 ;34292; Ahnatal ; 05609 / 2778883 ; 0173 / 9916406 ; 05609 / 23938555 ; e.wheeler@mail.xyz ; ja
+409;11.06.2016; Frau ; Dr. ; Carlotta ; Dick ; 10.5.1987 ; Morthorststr. 108 ;85114; Buxheim ; 08458 / 86774615 ; 0162 / 6311479 ; 08458 / 95427127 ; c.dick@mail.xyz ; ja
+410;27.02.2016; Frau ; Dr. ; Lynn ; Norton ; 16.5.1955 ; Gasselstiege 71 ;19288; Alt Krenzlin ; 03874 / 97674971 ; 0163 / 8233698 ; 03874 / 24763411 ; lynn.norton@mail.xyz ; ja
+411;18.12.2016; Herr ; Prof. ; Reinhard ; Burns ; 18.9.1997 ; Schützenstr. 154 ;79865; Grafenhausen ; 07748 / 97081896 ; 0173 / 6131701 ; 07748 / 14214396 ; r.burns@mail.xyz ; ja
+412;19.12.2016; Frau ; Dr. ; Stefanie ; Erpel ; 2.6.1979 ; Hirseweg 26 ;79804; Dogern ; 07751 / 39890302 ; 0161 / 4051460 ; 07751 / 97753300 ; stefanie.erpel@mail.xyz ; ja
+413;11.12.2016; Frau ; Dr. ; Mara ; Kohler ; 25.10.1979 ; Am Wigbold 56 ;80634; München ; 089 / 40896943 ; 0162 / 3314514 ; 089 / 77138005 ; mara.kohler@mail.xyz ; ja
+414;31.07.2016; Frau ; Dr. ; Sigrid ; Klotz ; 26.5.1973 ; Emdener Str. 60 ;57614; Oberwambach ; 02681 / 68180103 ; 0172 / 2533280 ; 02681 / 95341822 ; sigrid.klotz@mail.xyz ; ja
+415;23.06.2016; Herr ; Dr. ; Tomas ; Garza ; 17.3.1923 ; Sanddornweg 29 ;54675; Obergeckler ; 06564 / 51065917 ; 0151 / 6416886 ; 06564 / 81586224 ; t.garza@mail.xyz ; ja
+416;05.03.2016; Frau ; Dr. ; Karoline ; Kübler ; 26.5.1932 ; Am Brook 193 ;91161; Hilpoltstein ; 09174 / 28094641 ; 0155 / 7179719 ; 09174 / 36692991 ; k.kuebler@mail.xyz ; ja
+417;15.07.2016; Frau ; Dr. ; Sofia ; Koch ; 23.9.1938 ; Dammstr. 186 ;96271; Grub am Forst ; 09560 / 6903860 ; 0176 / 5505609 ; 09560 / 71507632 ; s.koch@mail.xyz ; ja
+418;28.09.2016; Herr ; Prof. ; Patrick ; Thiel ; 6.10.1959 ; Breslauer Str. 64 ;56281; Karbach ; 06747 / 52511984 ; 0154 / 9741841 ; 06747 / 56125830 ; p.thiel@mail.xyz ; ja
+419;29.07.2016; Herr ; Prof. ; Richard ; Reinartz ; 2.5.1989 ; Widdeshover Weg 51 ;25779; Kleve ; 04836 / 23433377 ; 0164 / 5039934 ; 04836 / 52973069 ; richard.reinartz@mail.xyz ; ja
+420;03.02.2016; Frau ; Dr. ; Mia ; Schöne ; 6.11.1987 ; An Lyskirchen 92a ;88690; Uhldingen-Mühlhofen ; 07556 / 85917452 ; 0175 / 8420454 ; 07556 / 5657448 ; m.schoene@mail.xyz ; ja
+421;28.01.2016; Herr ; Dr. ; Oliver ; Marx ; 26.2.1946 ; Nerzweg 170 ;88416; Ochsenhausen ; 07352 / 6626498 ; 0169 / 9573471 ; 07352 / 31961237 ; o.marx@mail.xyz ; ja
+422;28.10.2016; Herr ; Prof. ; Mattis ; Giese ; 17.2.1988 ; Münzstr. 183 ;24321; Hohwacht ; 04381 / 36194120 ; 0155 / 9478791 ; 04381 / 60335235 ; m.giese@mail.xyz ; ja
+423;21.02.2016; Frau ; Dr. ; Yasmin ; Langer ; 2.5.1932 ; Berrischstr. 162 ;93095; Hagelstadt ; 09453 / 69871809 ; 0158 / 1151444 ; 09453 / 40327388 ; y.langer@mail.xyz ; ja
+424;19.09.2016; Frau ; Dr. ; Mariella ; Bailey ; 11.5.1955 ; Zum Guten Hirten 108 ;35781; Weilburg ; 06471 / 93768589 ; 0172 / 3058171 ; 06471 / 42532991 ; mariella.bailey@mail.xyz ; ja
+425;02.05.2016; Herr ; Dr. ; Jörn ; Murray ; 27.1.1994 ; Kirchstr. 35 ;56355; Winterwerb ; 06772 / 26715506 ; 0170 / 8689206 ; 06772 / 81590190 ; joern.murray@mail.xyz ; ja
+426;02.07.2016; Herr ; Dr. ; Jakob ; Horn ; 24.1.1920 ; Widdeshover Weg 63a ;57632; Peterslahr ; 02685 / 64059425 ; 0150 / 6714696 ; 02685 / 45704833 ; j.horn@mail.xyz ; ja
+427;02.08.2016; Frau ; Prof. ; Daniela ; Knight ; 10.10.1996 ; Münsterstr. 125 ;66809; Nalbach ; 06838 / 1165135 ; 0167 / 5224144 ; 06838 / 78712552 ; daniela.knight@mail.xyz ; ja
+428;12.11.2016; Herr ; Dr. ; Martin ; Hogan ; 18.9.1974 ; Osthuesheide 53 ;82494; Krün ; 08825 / 88420987 ; 0167 / 3296872 ; 08825 / 884320 ; m.hogan@mail.xyz ; ja
+429;16.12.2016; Herr ; Dr. ; Piet ; Six ; 7.6.1950 ; Liboristr. 94 ;23795; Klein Gladebrügge ; 04551 / 56387352 ; 0157 / 2035760 ; 04551 / 53025961 ; piet.six@mail.xyz ; ja
+430;14.01.2016; Herr ; Dr. ; Reinhard ; Patton ; 2.6.1928 ; Im Haubenfeld 48 ;83308; Trostberg ; 08621 / 16404580 ; 0150 / 1618929 ; 08621 / 91603328 ; r.patton@mail.xyz ; ja
+431;14.02.2016; Frau ; Prof. ; Nike ; Schrader ; 23.12.1952 ; Osthuesheide 150 ;99718; Trebra ; 03636 / 67146005 ; 0165 / 1166158 ; 03636 / 42958988 ; nike.schrader@mail.xyz ; ja
+432;07.11.2016; Frau ; Dr. ; Julia ; Schädler ; 27.11.1996 ; Heinrichstr. 191 ;87660; Irsee ; 08341 / 77643896 ; 0157 / 3123512 ; 08341 / 58793744 ; j.schaedler@mail.xyz ; ja
+433;01.10.2016; Herr ; Dr. ; Noah ; Thornton ; 11.3.1935 ; Gartenstr. 150 ;24558; Henstedt-Ulzburg ; 04193 / 28243616 ; 0178 / 2071206 ; 04193 / 23205311 ; n.thornton@mail.xyz ; ja
+434;28.06.2016; Herr ; Prof. ; Andreas ; Hildebrandt ; 28.1.1956 ; Angelmodder Weg 180a ;31039; Rheden ; 05182 / 78098755 ; 0161 / 8754632 ; 05182 / 13434439 ; andreas.hildebrandt@mail.xyz ; ja
+435;28.12.2016; Herr ; Dr. ; Max ; Schaper ; 9.6.1969 ; Hindenburgplatz 3 ;85417; Marzling ; 08161 / 48909363 ; 0152 / 2102181 ; 08161 / 99948921 ; max.schaper@mail.xyz ; ja
+436;20.04.2016; Herr ; Prof. ; Dustin ; Brüggemann ; 26.5.1992 ; Simon-Meister-Str. 34 ;79777; Ühlingen-Birkendorf ; 07743 / 58554319 ; 0169 / 3573079 ; 07743 / 517405 ; dustin.brueggemann@mail.xyz ; ja
+437;31.03.2016; Herr ; Dr. ; Bernhardt ; Green ; 16.4.1999 ; Am Krausen Baum 50 ;59069; Hamm ; 02381 / 43693810 ; 0162 / 5759051 ; 02381 / 31151912 ; bernhardt.green@mail.xyz ; ja
+438;18.02.2016; Frau ; Dr. ; Lisa ; Gering ; 26.8.1957 ; Sophienstr. 151 ;13581; Spandau ; 030 / 47832157 ; 0161 / 3643113 ; 030 / 90275836 ; l.gering@mail.xyz ; ja
+439;03.11.2016; Herr ; Dr. ; Hannes ; Reinicke ; 6.7.1972 ; Kurneystr. 146 ;57612; Isert ; 02681 / 57554623 ; 0151 / 7908555 ; 02681 / 14528684 ; h.reinicke@mail.xyz ; ja
+440;24.11.2016; Herr ; Dr. ; Reiner ; Kranz ; 13.9.1992 ; Stolbergstr. 156 ;97289; Thüngen ; 09360 / 35950374 ; 0151 / 6413143 ; 09360 / 33171839 ; reiner.kranz@mail.xyz ; ja
+441;29.04.2016; Frau ; Dr. ; Meike ; Marks ; 12.7.1921 ; Dorotheenstr. 149 ;9117; Chemnitz ; 0371 / 86134132 ; 0175 / 8969707 ; 0371 / 52867666 ; m.marks@mail.xyz ; ja
+442;04.05.2016; Herr ; Prof. ; Alexander ; Brosch ; 9.11.1935 ; Arnheimweg 183 ;35708; Haiger ; 02773 / 40573633 ; 0171 / 4656415 ; 02773 / 67094225 ; alexander.brosch@mail.xyz ; ja
+443;28.09.2016; Frau ; Dr. ; Ina ; Langen ; 28.9.1931 ; Rektoratsweg 160 ;69242; Mühlhausen ; 06222 / 37040102 ; 0172 / 1768090 ; 06222 / 31243142 ; ina.langen@mail.xyz ; ja
+444;01.09.2016; Herr ; Dr. ; Luc ; Lauterbach ; 3.6.1980 ; Marsweg 70 ;57482; Wenden ; 02762 / 29213955 ; 0159 / 4115172 ; 02762 / 62530380 ; luc.lauterbach@mail.xyz ; ja
+445;04.01.2016; Frau ; Dr. ; Fiona ; Wiedmann ; 18.2.1946 ; Wormser Str. 77 ;24616; Willenscharen ; 04822 / 94629974 ; 0160 / 5530818 ; 04822 / 58420728 ; fiona.wiedmann@mail.xyz ; ja
+446;17.09.2016; Herr ; Dr. ; Helmuth ; Zacharias ; 21.11.1955 ; Am Römerhof 48 ;25376; Krempdorf ; 04124 / 69087088 ; 0174 / 2642518 ; 04124 / 98230211 ; helmuth.zacharias@mail.xyz ; ja
+447;15.04.2016; Frau ; Prof. ; Leah ; Jakobi ; 19.4.1957 ; Nieland 17a ;21444; Vierhöfen ; 04172 / 99690857 ; 0177 / 4980231 ; 04172 / 28141269 ; leah.jakobi@mail.xyz ; ja
+448;06.01.2016; Frau ; Prof. ; Krista ; Warneke ; 27.4.1952 ; Rennbahnstr. 22 ;38468; Ehra-Lessien ; 05377 / 41200022 ; 0155 / 7231578 ; 05377 / 66882981 ; k.warneke@mail.xyz ; ja
+449;21.03.2016; Frau ; Dr. ; Maren ; Galle ; 7.7.1941 ; Pankokstr. 107 ;31691; Seggebruch ; 05722 / 27195917 ; 0171 / 3786191 ; 05722 / 14032944 ; m.galle@mail.xyz ; ja
+450;24.04.2016; Frau ; Prof. ; Kristine ; Gonzales ; 14.6.1979 ; Agrippastr. 186 ;72664; Kohlberg ; 07025 / 82679765 ; 0167 / 3141575 ; 07025 / 27832685 ; kristine.gonzales@mail.xyz ; ja
+451;02.07.2016; Herr ; Dr. ; Jannik ; Jankowski ; 12.3.1922 ; Am Burloh 155 ;24601; Ruhwinkel ; 04326 / 6461629 ; 0163 / 5467115 ; 04326 / 55834534 ; jannik.jankowski@mail.xyz ; ja
+452;02.03.2016; Herr ; Dr. ; Jeremie ; Ramirez ; 6.6.1965 ; Angelstr. 55 ;46537; Dinslaken ; 02064 / 25074937 ; 0155 / 3501737 ; 02064 / 13197454 ; jeremie.ramirez@mail.xyz ; ja
+453;18.11.2016; Herr ; Prof. ; Falk ; Deppe ; 16.4.1973 ; Guntherstr. 1 ;93354; Biburg ; 09444 / 34131633 ; 0155 / 7435045 ; 09444 / 72032650 ; f.deppe@mail.xyz ; ja
+454;04.07.2016; Frau ; Dr. ; Svenja ; Bross ; 6.2.1972 ; Von-Holte-Str. 96 ;25569; Kremperheide ; 04824 / 9687936 ; 0173 / 2731203 ; 04824 / 19245434 ; svenja.bross@mail.xyz ; ja
+455;09.10.2016; Frau ; Dr. ; Stefanie ; Sorg ; 4.9.1934 ; Parkallee 61 ;41539; Dormagen ; 02133 / 87339533 ; 0154 / 1750007 ; 02133 / 53567762 ; s.sorg@mail.xyz ; ja
+456;15.06.2016; Frau ; Dr. ; Annabel ; Haas ; 19.12.1938 ; Starweg 64 ;56288; Spesenroth ; 06762 / 33272009 ; 0152 / 2621564 ; 06762 / 42841863 ; a.haas@mail.xyz ; ja
+457;02.08.2016; Frau ; Dr. ; Melanie ; Wolter ; 9.1.1928 ; Arnheimweg 122 ;24238; Selent ; 04384 / 68811198 ; 0156 / 7084804 ; 04384 / 59126440 ; melanie.wolter@mail.xyz ; ja
+458;12.09.2016; Herr ; Dr. ; Maximilian ; Padilla ; 22.11.1923 ; Deutz-Kalker Str. 48 ;55576; Zotzenheim ; 06701 / 13872441 ; 0172 / 6313820 ; 06701 / 79507481 ; maximilian.padilla@mail.xyz ; ja
+459;05.10.2016; Frau ; Dr. ; Helena ; Schell ; 20.5.1971 ; Gleueler Str. 8 ;56077; Koblenz am Rhein ; 0261 / 35831572 ; 0174 / 9993922 ; 0261 / 99680814 ; h.schell@mail.xyz ; ja
+460;01.12.2016; Frau ; Dr. ; Kira ; Lück ; 10.9.1952 ; Münzstr. 87 ;24817; Tetenhusen ; 04624 / 84419278 ; 0150 / 5836749 ; 04624 / 92505677 ; kira.lueck@mail.xyz ; ja
+461;06.12.2016; Herr ; Dr. ; Sascha ; Meissner ; 6.6.1966 ; Rinkerodeweg 103 ;72505; Krauchenwies ; 07576 / 37772478 ; 0172 / 6354680 ; 07576 / 78816389 ; sascha.meissner@mail.xyz ; ja
+462;20.06.2016; Herr ; Prof. ; Alfred ; Demmer ; 22.4.1926 ; Deutz-Kalker Str. 61a ;71720; Oberstenfeld ; 07062 / 26570739 ; 0161 / 9093310 ; 07062 / 57973605 ; alfred.demmer@mail.xyz ; ja
+463;17.04.2016; Frau ; Dr. ; Anne ; Cooper ; 21.9.1931 ; Gremmendorfer Weg 2 ;63839; Kleinwallstadt ; 06022 / 14199035 ; 0160 / 4707041 ; 06022 / 53126470 ; anne.cooper@mail.xyz ; ja
+464;08.12.2016; Herr ; Dr. ; Jonathan ; Schmied ; 9.1.1980 ; Am Filk 29 ;47447; Moers ; 02841 / 6861200 ; 0173 / 1271156 ; 02841 / 53804221 ; j.schmied@mail.xyz ; ja
+465;21.10.2016; Herr ; Prof. ; Berndt ; Manke ; 1.10.1950 ; Eifelstr. 132 ;97355; Wiesenbronn ; 09325 / 86304801 ; 0153 / 1567272 ; 09325 / 23905328 ; berndt.manke@mail.xyz ; ja
+466;30.05.2016; Frau ; Dr. ; Svenja ; Schreiner ; 19.9.1987 ; Erikahof 105 ;54486; Mülheim ; 06534 / 56394682 ; 0171 / 1177199 ; 06534 / 38821831 ; s.schreiner@mail.xyz ; ja
+467;06.04.2016; Frau ; Prof. ; Leona ; Petermann ; 18.6.1945 ; Im Sonnentau 73 ;1219; Dresden ; 0351 / 97099745 ; 0154 / 1337081 ; 0351 / 96925744 ; leona.petermann@mail.xyz ; ja
+468;04.06.2016; Frau ; Dr. ; Annika ; Gutierrez ; 12.11.1991 ; Mecklenbecker Str. 25 ;54552; Schönbach ; 06592 / 74827323 ; 0173 / 5808417 ; 06592 / 63290175 ; a.gutierrez@mail.xyz ; ja
+469;28.11.2016; Herr ; Dr. ; Reinhard ; Cummings ; 19.5.1967 ; Mecklenbecker Str. 33 ;63694; Limeshain ; 06047 / 54857337 ; 0150 / 7173341 ; 06047 / 4421688 ; reinhard.cummings@mail.xyz ; ja
+470;20.01.2016; Frau ; Dr. ; Waltraut ; Fleck ; 2.9.1956 ; Rinscheweg 187 ;28237; Bremen ; 0421 / 33357596 ; 0150 / 8422368 ; 0421 / 78973476 ; waltraut.fleck@mail.xyz ; ja
+471;24.01.2016; Frau ; Dr. ; Anna ; Reese ; 20.6.1921 ; Ringelnatzstr. 81 ;88605; Meßkirch ; 07575 / 63350780 ; 0178 / 5226801 ; 07575 / 59365911 ; anna.reese@mail.xyz ; ja
+472;26.02.2016; Herr ; Dr. ; Luis ; Nolte ; 8.9.1935 ; Breslauer Str. 188 ;86972; Altenstadt ; 08861 / 81890782 ; 0164 / 6708202 ; 08861 / 12085122 ; l.nolte@mail.xyz ; ja
+473;04.03.2016; Frau ; Dr. ; Marion ; Rösch ; 16.12.1981 ; Im Draum 145 ;97320; Buchbrunn ; 09321 / 11099611 ; 0175 / 7739902 ; 09321 / 17120743 ; m.roesch@mail.xyz ; ja
+474;08.09.2016; Frau ; Dr. ; Annica ; Radermacher ; 8.5.1938 ; Wildpfad 125 ;56414; Bilkheim ; 06435 / 24523602 ; 0159 / 2109118 ; 06435 / 75149285 ; annica.radermacher@mail.xyz ; ja
+475;26.04.2016; Herr ; Dr. ; Patrick ; Cordes ; 5.11.1955 ; Ulmenweg 188 ;97845; Neustadt am Main ; 09393 / 8544761 ; 0158 / 8955783 ; 09393 / 65131497 ; p.cordes@mail.xyz ; ja
+476;01.09.2016; Frau ; Dr. ; Lili ; Patrick ; 22.10.1984 ; Münsterstr. 32 ;55595; Gutenberg ; 0671 / 50805163 ; 0166 / 9930800 ; 0671 / 80884188 ; l.patrick@mail.xyz ; ja
+477;10.02.2016; Frau ; Dr. ; Anouk ; Graham ; 9.8.1957 ; Paul-Engelhard-Weg 126 ;50672; Köln ; 0221 / 28002401 ; 0169 / 7337031 ; 0221 / 91977635 ; a.graham@mail.xyz ; ja
+478;12.11.2016; Frau ; Dr. ; Sonja ; Wachsmuth ; 8.8.1923 ; Hacklenburg 173 ;24250; Löptin ; 0430 / 36992755 ; 0172 / 7846606 ; 0430 / 60278898 ; s.wachsmuth@mail.xyz ; ja
+479;09.02.2016; Frau ; Dr. ; Jessika ; Freeman ; 19.7.1989 ; Cheruskerstr. 121 ;56414; Meudt ; 06435 / 7189381 ; 0166 / 4226719 ; 06435 / 39379631 ; j.freeman@mail.xyz ; ja
+480;21.02.2016; Herr ; Dr. ; Klaus ; Wassermann ; 6.6.1922 ; Erpeler Str. 70 ;37520; Osterode am Harz ; 05522 / 32368395 ; 0162 / 7216386 ; 05522 / 40609559 ; klaus.wassermann@mail.xyz ; ja
+481;29.09.2016; Frau ; Dr. ; Carla ; Alberts ; 5.1.1970 ; Florentine-Eichler-Str. 44 ;76831; Heuchelheim-Klingen ; 06341 / 86957098 ; 0166 / 1394192 ; 06341 / 38031390 ; carla.alberts@mail.xyz ; ja
+482;20.02.2016; Herr ; Dr. ; Tobias ; Hagen ; 13.10.1973 ; Heisstr. 134 ;56767; Lirstal ; 02692 / 27263446 ; 0168 / 7979384 ; 02692 / 86358460 ; tobias.hagen@mail.xyz ; ja
+483;08.04.2016; Herr ; Dr. ; Simon ; Scholl ; 9.9.1975 ; Starweg 157 ;56357; Hainau ; 06772 / 14018886 ; 0167 / 3337042 ; 06772 / 23363985 ; simon.scholl@mail.xyz ; ja
+484;02.05.2016; Frau ; Dr. ; Louisa ; Riedel ; 25.2.1932 ; Am Getterbach 130 ;54316; Holzerath ; 0651 / 26437930 ; 0156 / 7287563 ; 0651 / 35482010 ; l.riedel@mail.xyz ; ja
+485;21.10.2016; Frau ; Dr. ; Ruth ; Herold ; 2.10.1965 ; Marktstr. 172 ;56379; Winden ; 02604 / 68126692 ; 0168 / 8416997 ; 02604 / 45898264 ; ruth.herold@mail.xyz ; ja
+486;14.03.2016; Herr ; Dr. ; Falk ; Schmidt ; 26.1.1929 ; Dodostr. 122 ;67752; Oberweiler-Tiefenbach ; 06304 / 2065683 ; 0175 / 7078693 ; 06304 / 61337113 ; f.schmidt@mail.xyz ; ja
+487;28.04.2016; Frau ; Dr. ; Monika ; Abel ; 17.9.1960 ; Kurze Str. 106 ;75339; Höfen an der Enz ; 07081 / 67707349 ; 0151 / 1790882 ; 07081 / 3969411 ; monika.abel@mail.xyz ; ja
+488;25.09.2016; Frau ; Dr. ; Malin ; Adam ; 11.6.1934 ; Sporckweg 30 ;67821; Alsenz ; 06362 / 40316282 ; 0164 / 7436076 ; 06362 / 64390988 ; malin.adam@mail.xyz ; ja
+489;07.11.2016; Frau ; Dr. ; Sofie ; Steinert ; 26.12.1986 ; Zülpicher Str. 56 ;38533; Vordorf ; 05304 / 35170710 ; 0156 / 5989032 ; 05304 / 64596438 ; s.steinert@mail.xyz ; ja
+490;20.10.2016; Herr ; Dr. ; Fabian ; Lechner ; 27.5.1989 ; Simon-Meister-Str. 13 ;92697; Georgenberg ; 09658 / 81787168 ; 0179 / 8438884 ; 09658 / 25197748 ; fabian.lechner@mail.xyz ; ja
+491;06.05.2016; Herr ; Dr. ; Klemens ; Buck ; 9.5.1994 ; Kapellenstr. 157 ;26689; Apen ; 04489 / 52221822 ; 0153 / 4347850 ; 04489 / 96067794 ; k.buck@mail.xyz ; ja
+492;15.05.2016; Frau ; Dr. ; Helga ; Bachmeier ; 14.4.1940 ; Weißenburgstr. 26 ;56479; Neustadt ; 02664 / 52772608 ; 0158 / 1702703 ; 02664 / 10657642 ; helga.bachmeier@mail.xyz ; ja
+493;22.11.2016; Frau ; Dr. ; Marie ; Romero ; 16.1.1948 ; Schmittingheide 138 ;49843; Wielen ; 05942 / 65097866 ; 0171 / 3179720 ; 05942 / 56265244 ; m.romero@mail.xyz ; ja
+494;25.08.2016; Herr ; Dr. ; Kilian ; Starke ; 24.4.1934 ; Holunderweg 102 ;65558; Eppenrod ; 06432 / 79885914 ; 0179 / 2053174 ; 06432 / 72690775 ; kilian.starke@mail.xyz ; ja
+495;28.10.2016; Frau ; Dr. ; Josefine ; Menzel ; 1.2.1966 ; Rinkerodeweg 194 ;29413; Flecken Diesdorf ; 03902 / 94895801 ; 0157 / 2533942 ; 03902 / 97054492 ; j.menzel@mail.xyz ; ja
+496;25.06.2016; Frau ; Dr. ; Lya ; Ballard ; 7.11.1980 ; Gartenstr. 13 ;34302; Guxhagen ; 05665 / 84013960 ; 0173 / 1442914 ; 05665 / 79958453 ; lya.ballard@mail.xyz ; ja
+497;23.07.2016; Frau ; Dr. ; Marlies ; Reisinger ; 21.7.1943 ; Raesfeldstr. 154 ;25899; Galmsbüll ; 04661 / 16478973 ; 0170 / 1255751 ; 04661 / 10482979 ; m.reisinger@mail.xyz ; ja
+498;31.08.2016; Frau ; Dr. ; Stefanie ; Debus ; 23.9.1967 ; Mecklenbecker Str. 17 ;56766; Horperath ; 02692 / 9725892 ; 0164 / 7607610 ; 02692 / 86992332 ; stefanie.debus@mail.xyz ; ja
+499;06.03.2016; Frau ; Dr. ; Marta ; Kehr ; 2.9.1995 ; Stettiner Str. 40 ;58762; Altena ; 02352 / 5779034 ; 0173 / 4802642 ; 02352 / 77385977 ; m.kehr@mail.xyz ; ja
+500;20.12.2016; Frau ; Dr. ; Layla ; Remondis ; 10.9.1962 ; Mersmannsstiege 192 ;54424; Lückenburg ; 06504 / 49490117 ; 0172 / 2462414 ; 06504 / 33219982 ; l.remondis@mail.xyz ; ja
+501;08.05.2016; Herr ; Prof. ; Alexander ; Fischer ; 8.1.1987 ; Langestr. 56 ;94345; Aholfing ; 09429 / 78176316 ; 0150 / 2384525 ; 09429 / 1629650 ; a.fischer@mail.xyz ; ja
+502;08.05.2016; Frau ; Dr. ; Margarethe ; Owen ; 2.5.1954 ; Christinastr. 139 ;22851; Norderstedt ; 040 / 64252353 ; 0178 / 7129954 ; 040 / 12156289 ; margarethe.owen@mail.xyz ; ja
+503;19.10.2016; Herr ; Dr. ; Hannes ; Pauly ; 2.8.1971 ; Goebenstr. 124 ;57612; Heupelzen ; 02681 / 25141456 ; 0172 / 6244049 ; 02681 / 38303020 ; h.pauly@mail.xyz ; ja
+504;21.06.2016; Frau ; Prof. ; Andrea ; Matthews ; 9.11.1961 ; Hindenburgplatz 23 ;23626; Ratekau ; 04504 / 15796158 ; 0169 / 8948288 ; 04504 / 61302660 ; andrea.matthews@mail.xyz ; ja
+505;25.02.2016; Frau ; Dr. ; Kimberly ; Seeger ; 9.1.1976 ; Gottesweg 116 ;74376; Gemmrigheim ; 07143 / 47139934 ; 0162 / 4574289 ; 07143 / 30707862 ; kimberly.seeger@mail.xyz ; ja
+506;26.02.2016; Frau ; Dr. ; Mila ; Brigitte ; 11.11.1937 ; Telgenweg 19 ;24395; Niesgrau ; 04632 / 36971589 ; 0154 / 3388536 ; 04632 / 72946520 ; mila.brigitte@mail.xyz ; ja
+507;28.03.2016; Herr ; Dr. ; Tomas ; Geiger ; 28.11.1956 ; Stolbergstr. 147 ;26487; Blomberg ; 04977 / 36229632 ; 0169 / 8130341 ; 04977 / 48144278 ; tomas.geiger@mail.xyz ; ja
+508;12.02.2016; Herr ; Dr. ; Jörg ; Howard ; 8.10.1946 ; Tondernstr. 111 ;38440; Wolfsburg ; 05361 / 31856509 ; 0150 / 7483159 ; 05361 / 40347046 ; j.howard@mail.xyz ; ja
+509;18.12.2016; Herr ; Dr. ; Henrik ; Rauch ; 18.9.1927 ; Innsbruckweg 158 ;24214; Lindau ; 04346 / 96473183 ; 0164 / 8407619 ; 04346 / 9930040 ; h.rauch@mail.xyz ; ja
+510;13.04.2016; Herr ; Dr. ; Florian ; Häusler ; 19.5.1988 ; Am Krausen Baum 95 ;85716; Unterschleißheim ; 089 / 81048831 ; 0175 / 7055001 ; 089 / 15257085 ; f.haeusler@mail.xyz ; ja
+511;03.12.2016; Frau ; Dr. ; Lorena ; Demuth ; 13.7.1952 ; Westenkamp 28 ;24211; Preetz ; 04342 / 8028159 ; 0159 / 6775973 ; 04342 / 27476383 ; l.demuth@mail.xyz ; ja
+512;13.01.2016; Herr ; Dr. ; Kristof ; Rademacher ; 1.7.1958 ; Stettiner Str. 42 ;78144; Tennenbronn ; 07729 / 10811595 ; 0152 / 4912543 ; 07729 / 6383526 ; kristof.rademacher@mail.xyz ; ja
+513;10.07.2016; Frau ; Dr. ; Nicole ; Küppers ; 23.9.1957 ; Speestr. - 92 ;24351; Thumby ; 04352 / 68894577 ; 0161 / 3137381 ; 04352 / 3303425 ; n.kueppers@mail.xyz ; ja
+514;17.05.2016; Frau ; Dr. ; Sarah ; Hackenberg ; 20.4.1929 ; Ostmarkstr. 10 ;45479; Mülheim an der Ruhr ; 0208 / 56999274 ; 0153 / 2188389 ; 0208 / 35974260 ; sarah.hackenberg@mail.xyz ; ja
+515;09.04.2016; Herr ; Dr. ; Gabriel ; Baumgart ; 21.2.1957 ; Berrischstr. 184 ;66292; Riegelsberg ; 06806 / 51701310 ; 0162 / 8749236 ; 06806 / 45173602 ; gabriel.baumgart@mail.xyz ; ja
+516;19.12.2016; Frau ; Dr. ; Joelina ; Marschner ; 12.8.1923 ; Josef-Suwelack-Weg 190 ;47799; Krefeld ; 02151 / 25892843 ; 0170 / 2695206 ; 02151 / 66307492 ; joelina.marschner@mail.xyz ; ja
+517;27.05.2016; Frau ; Dr. ; Ronja ; Lammert ; 11.7.1976 ; Paul-Engelhard-Weg 196 ;56379; Dienethal ; 02604 / 22069687 ; 0171 / 1142532 ; 02604 / 70397216 ; r.lammert@mail.xyz ; ja
+518;25.02.2016; Herr ; Dr. ; Luca ; Heilmann ; 20.12.1993 ; Bünkamp 70 ;76770; Hatzenbühl ; 07275 / 83347998 ; 0154 / 9078942 ; 07275 / 15735426 ; luca.heilmann@mail.xyz ; ja
+519;29.06.2016; Frau ; Dr. ; Silke ; Höfer ; 27.11.1994 ; Methweg 129 ;31603; Diepenau ; 05775 / 25203999 ; 0169 / 8966335 ; 05775 / 83329487 ; silke.hoefer@mail.xyz ; ja
+520;25.01.2016; Frau ; Dr. ; Pia ; Weck ; 19.11.1921 ; Am Blütenhain 78 ;38300; Wolfenbüttel ; 05331 / 69920201 ; 0168 / 7474075 ; 05331 / 41112193 ; p.weck@mail.xyz ; ja
+521;12.06.2016; Herr ; Dr. ; Detlev ; Wilken ; 8.1.1987 ; Hofstr. 159 ;54316; Pluwig ; 06588 / 94747981 ; 0170 / 7359019 ; 06588 / 75148728 ; detlev.wilken@mail.xyz ; ja
+522;02.02.2016; Frau ; Dr. ; Jessica ; Küster ; 14.2.1965 ; Kurze Str. 51 ;78087; Mönchweiler ; 07721 / 35106182 ; 0152 / 9865561 ; 07721 / 28131142 ; jessica.kuester@mail.xyz ; ja
+523;27.09.2016; Frau ; Dr. ; Marlis ; Kleine ; 14.11.1940 ; Neusser Str. 18 ;64839; Münster ; 06071 / 81171386 ; 0151 / 7845653 ; 06071 / 50784083 ; marlis.kleine@mail.xyz ; ja
+524;29.05.2016; Herr ; Dr. ; Bennett ; Henderson ; 21.6.1938 ; Skagerrakstr. 191 ;25587; Münsterdorf ; 04821 / 98035863 ; 0168 / 9039993 ; 04821 / 28917229 ; bennett.henderson@mail.xyz ; ja
+525;11.04.2016; Herr ; Dr. ; Leonard ; Howard ; 3.7.1989 ; Cheruskerstr. 122 ;59227; Ahlen ; 02382 / 63241667 ; 0151 / 8562744 ; 02382 / 66120641 ; l.howard@mail.xyz ; ja
+526;04.11.2016; Herr ; Dr. ; Frank ; Kluge ; 16.7.1985 ; Handorfer Str. 65 ;27798; Hude ; 0421 / 79456457 ; 0167 / 3419991 ; 0421 / 53018436 ; frank.kluge@mail.xyz ; ja
+527;14.09.2016; Herr ; Dr. ; Michel ; Eggers ; 26.12.1992 ; Hindenburgplatz 197 ;91740; Röckingen ; 09832 / 64680210 ; 0171 / 2057992 ; 09832 / 72696520 ; m.eggers@mail.xyz ; ja
+528;30.11.2016; Frau ; Dr. ; Waldtraut ; Bittner ; 7.4.1968 ; An Lyskirchen 166 ;41462; Neuss ; 02131 / 41051445 ; 0161 / 4736401 ; 02131 / 61528778 ; waldtraut.bittner@mail.xyz ; ja
+529;22.11.2016; Frau ; Dr. ; Britta ; Katrin ; 21.7.1981 ; Dachsleite 157 ;97268; Kirchheim ; 09366 / 30349366 ; 0165 / 7951483 ; 09366 / 62104208 ; britta.katrin@mail.xyz ; ja
+530;09.09.2016; Frau ; Dr. ; Britta ; Rühl ; 9.4.1952 ; Schmittingheide 101 ;38329; Wittmar ; 05337 / 3186958 ; 0165 / 6348704 ; 05337 / 21016223 ; britta.ruehl@mail.xyz ; ja
+531;11.01.2016; Herr ; Dr. ; Heinz ; Ford ; 3.5.1939 ; Gescherweg 85 ;57584; Scheuerfeld ; 02741 / 7543863 ; 0151 / 7220357 ; 02741 / 41352825 ; heinz.ford@mail.xyz ; ja
+532;09.06.2016; Frau ; Dr. ; Luise ; Neuberger ; 22.7.1924 ; Rückertstr. 159 ;55270; Engelstadt ; 06725 / 43031737 ; 0163 / 6505541 ; 06725 / 64123380 ; luise.neuberger@mail.xyz ; ja
+533;29.04.2016; Frau ; Dr. ; Larissa ; Hinrichsen ; 21.6.1997 ; Dahlweg 11 ;48465; Suddendorf ; 05923 / 8942937 ; 0161 / 4046272 ; 05923 / 86657769 ; l.hinrichsen@mail.xyz ; ja
+534;27.11.2016; Herr ; Dr. ; Hannes ; Sonne ; 9.4.1957 ; Stettiner Str. 20 ;67823; Sitters ; 06362 / 97856910 ; 0152 / 2763135 ; 06362 / 29409036 ; h.sonne@mail.xyz ; ja
+535;30.10.2016; Herr ; Dr. ; Manfred ; Schardt ; 18.6.1938 ; Rückertstr. 116 ;92690; Pressath ; 09644 / 45227738 ; 0162 / 9133072 ; 09644 / 1058289 ; manfred.schardt@mail.xyz ; ja
+536;22.07.2016; Frau ; Dr. ; Liv ; Hilbert ; 19.4.1959 ; Kirchstr. 70 ;95131; Schwarzenbach am Wald ; 09289 / 50118640 ; 0178 / 8611547 ; 09289 / 45911085 ; l.hilbert@mail.xyz ; ja
+537;30.10.2016; Frau ; Prof. ; Mila ; Brack ; 10.5.1956 ; Holunderweg 172 ;24896; Treia ; 04626 / 78785313 ; 0171 / 4400872 ; 04626 / 58430839 ; m.brack@mail.xyz ; ja
+538;22.06.2016; Frau ; Dr. ; Elisa ; Nachtigall ; 12.6.1966 ; Gottesweg 174 ;56237; Oberhaid ; 02623 / 52892966 ; 0160 / 5191962 ; 02623 / 37899592 ; e.nachtigall@mail.xyz ; ja
+539;27.12.2016; Herr ; Dr. ; Patrick ; Parker ; 14.10.1983 ; Ringelnatzstr. 45 ;96110; Scheßlitz ; 09542 / 15757136 ; 0157 / 5975741 ; 09542 / 56459739 ; p.parker@mail.xyz ; ja
+540;14.08.2016; Herr ; Dr. ; Fritz ; Pauly ; 3.6.1925 ; Handorfer Str. 95 ;24214; Neudorf-Bornstein ; 04346 / 52803853 ; 0168 / 2253278 ; 04346 / 4004092 ; f.pauly@mail.xyz ; ja
+541;14.02.2016; Frau ; Dr. ; Gudrun ; Manke ; 20.12.1924 ; Norbertstr. 109 ;92353; Postbauer-Heng ; 09188 / 64370499 ; 0154 / 1090650 ; 09188 / 3762846 ; g.manke@mail.xyz ; ja
+542;05.07.2016; Herr ; Dr. ; Werner ; Marschner ; 7.9.1980 ; Eulenbergstr. 98 ;23952; Wismar ; 03841 / 42062070 ; 0173 / 5967706 ; 03841 / 60864069 ; werner.marschner@mail.xyz ; ja
+543;24.07.2016; Herr ; Dr. ; Henri ; Orth ; 7.12.1939 ; Rosenplatz 114 ;34134; Kassel ; 0561 / 83767405 ; 0150 / 6887387 ; 0561 / 36123760 ; h.orth@mail.xyz ; ja
+544;03.02.2016; Herr ; Dr. ; Mathis ; Sharp ; 9.12.1944 ; Am Oedingteich 134 ;24247; Rodenbek ; 0431 / 95614573 ; 0179 / 6459779 ; 0431 / 99821555 ; mathis.sharp@mail.xyz ; ja
+545;17.06.2016; Herr ; Prof. ; Timo ; Steinberg ; 5.9.1945 ; Kösliner Str. 171 ;60549; Frankfurt am Main ; 069 / 35202717 ; 0166 / 8932581 ; 069 / 6443388 ; t.steinberg@mail.xyz ; ja
+546;10.10.2016; Frau ; Dr. ; Jette ; Böhm ; 20.4.1946 ; Meinertzstr. 172 ;7745; Jena ; 03641 / 39684886 ; 0154 / 4266314 ; 03641 / 69084622 ; jette.boehm@mail.xyz ; ja
+547;23.07.2016; Frau ; Dr. ; Jette ; Mair ; 11.9.1977 ; Marderweg 74 ;89186; Illerrieden ; 07346 / 60118293 ; 0150 / 2281690 ; 07346 / 38176871 ; j.mair@mail.xyz ; ja
+548;05.11.2016; Herr ; Dr. ; Yannick ; Wassermann ; 24.1.1960 ; Hogenbergstr. 48 ;55430; Perscheid ; 06744 / 87412637 ; 0151 / 7034147 ; 06744 / 26015086 ; yannick.wassermann@mail.xyz ; ja
+549;01.05.2016; Herr ; Dr. ; Janis ; Kriegel ; 28.8.1947 ; Westenkamp 57 ;23816; Neversdorf ; 04552 / 79568840 ; 0176 / 9243705 ; 04552 / 604589 ; j.kriegel@mail.xyz ; ja
+550;10.10.2016; Frau ; Dr. ; Anabel ; Eberl ; 20.5.1956 ; Friedrichstr. 83 ;71083; Herrenberg ; 07032 / 80906357 ; 0151 / 2045455 ; 07032 / 81557512 ; a.eberl@mail.xyz ; ja
+551;10.07.2016; Herr ; Dr. ; Paul ; Carr ; 27.8.1979 ; Schwalbenweg 160 ;54608; Großlangenfeld ; 06551 / 35551512 ; 0152 / 4764638 ; 06551 / 33174515 ; paul.carr@mail.xyz ; ja
+552;18.09.2016; Frau ; Dr. ; Ivonne ; Marquard ; 11.1.1980 ; Memmertweg 113 ;34130; Kassel ; 0561 / 18700720 ; 0178 / 5763485 ; 0561 / 95530731 ; i.marquard@mail.xyz ; ja
+553;23.09.2016; Frau ; Dr. ; Rosa ; Tag ; 2.9.1988 ; Idenbrockplatz 75 ;24857; Borgwedel ; 04621 / 51004789 ; 0156 / 4595440 ; 04621 / 96501527 ; r.tag@mail.xyz ; ja
+554;11.10.2016; Herr ; Dr. ; Leon ; Bormann ; 25.8.1944 ; Zum Burgschemm 135 ;47665; Sonsbeck ; 02838 / 65639769 ; 0163 / 7261249 ; 02838 / 66617459 ; leon.bormann@mail.xyz ; ja
+555;11.03.2016; Herr ; Dr. ; Jens ; Grau ; 3.5.1925 ; Memmertweg 16 ;63839; Kleinwallstadt ; 06022 / 39660516 ; 0177 / 9722198 ; 06022 / 66378298 ; j.grau@mail.xyz ; ja
+556;23.09.2016; Herr ; Dr. ; Florian ; Bertram ; 1.4.1931 ; Erpeler Str. 58 ;83101; Rohrdorf ; 08032 / 81121467 ; 0168 / 8012606 ; 08032 / 18708843 ; florian.bertram@mail.xyz ; ja
+557;06.01.2016; Herr ; Dr. ; Horst ; Apel ; 7.10.1979 ; Kirchstr. 188 ;31714; Lauenhagen ; 05721 / 68491234 ; 0177 / 2567237 ; 05721 / 31126661 ; horst.apel@mail.xyz ; ja
+558;19.09.2016; Frau ; Prof. ; Isabell ; Weber ; 6.4.1965 ; Röttgensweg 71 ;50677; Köln ; 0221 / 59612224 ; 0161 / 6358310 ; 0221 / 60181337 ; i.weber@mail.xyz ; ja
+559;22.08.2016; Herr ; Dr. ; Lennart ; Neumann ; 13.12.1936 ; Arnheimweg 67 ;80807; München ; 089 / 88013388 ; 0174 / 8989339 ; 089 / 47885260 ; l.neumann@mail.xyz ; ja
+560;29.01.2016; Herr ; Dr. ; Kristian ; Seibold ; 6.1.1940 ; Stolbergstr. 29 ;29229; Celle ; 05141 / 63311367 ; 0169 / 1249220 ; 05141 / 6069504 ; k.seibold@mail.xyz ; ja
+561;28.09.2016; Herr ; Dr. ; Magnus ; Velten ; 11.5.1923 ; Langeworth 145a ;89129; Setzingen ; 07345 / 15869017 ; 0178 / 5849357 ; 07345 / 33113889 ; m.velten@mail.xyz ; ja
+562;03.10.2016; Frau ; Prof. ; Laura ; Friedel ; 5.3.1989 ; Meckmannweg 178 ;27624; Flögeln ; 04745 / 97330986 ; 0150 / 8974674 ; 04745 / 95179256 ; l.friedel@mail.xyz ; ja
+563;07.03.2016; Frau ; Dr. ; Friederike ; Wedekind ; 27.8.1955 ; Nauheimer Str. 12 ;38122; Braunschweig ; 0531 / 83683426 ; 0156 / 4563063 ; 0531 / 37867849 ; friederike.wedekind@mail.xyz ; ja
+564;16.02.2016; Herr ; Dr. ; Finn ; Garcia ; 20.12.1924 ; Rennbahnstr. 129 ;89195; Staig ; 07346 / 42047038 ; 0165 / 2855366 ; 07346 / 49795830 ; finn.garcia@mail.xyz ; ja
+565;19.03.2016; Herr ; Dr. ; Ben ; Katrin ; 8.2.1992 ; Wollinstr. 115 ;32339; Espelkamp ; 05772 / 2164519 ; 0170 / 3535151 ; 05772 / 58847858 ; b.katrin@mail.xyz ; ja
+566;02.11.2016; Herr ; Dr. ; Horst ; Gaiser ; 10.2.1995 ; Hüfferstr. 169 ;25881; Tating ; 04862 / 12469311 ; 0168 / 5230047 ; 04862 / 54187863 ; h.gaiser@mail.xyz ; ja
+567;31.12.2016; Frau ; Dr. ; Sara ; Scholl ; 7.11.1935 ; Bielefelder Str. 26 ;54317; Osburg ; 0651 / 72945389 ; 0150 / 9595792 ; 0651 / 97139989 ; s.scholl@mail.xyz ; ja
+568;22.01.2016; Frau ; Dr. ; Kirsten ; Siems ; 12.6.1953 ; Heinrichstr. 102 ;91080; Uttenreuth ; 09131 / 25082924 ; 0160 / 9983367 ; 09131 / 80879692 ; kirsten.siems@mail.xyz ; ja
+569;05.04.2016; Herr ; Dr. ; Pascal ; Larson ; 9.6.1967 ; An Lyskirchen 1 ;54533; Oberscheidweiler ; 06572 / 53045817 ; 0166 / 6609412 ; 06572 / 22842812 ; p.larson@mail.xyz ; ja
+570;24.06.2016; Herr ; Dr. ; Kai ; Taubert ; 24.11.1930 ; Buldernweg 88 ;56379; Geilnau ; 06432 / 82616491 ; 0179 / 9272798 ; 06432 / 59812008 ; k.taubert@mail.xyz ; ja
+571;29.04.2016; Herr ; Dr. ; Fynn ; Reiter ; 27.7.1925 ; Kempener Str. 99 ;25715; Averlak ; 04855 / 25212371 ; 0152 / 9651208 ; 04855 / 39190817 ; fynn.reiter@mail.xyz ; ja
+572;09.07.2016; Herr ; Dr. ; Markus ; Salzmann ; 7.6.1957 ; Möserweg 72 ;89290; Buch ; 07343 / 886573 ; 0171 / 5093253 ; 07343 / 56000117 ; m.salzmann@mail.xyz ; ja
+573;06.09.2016; Frau ; Dr. ; Felicitas ; Carpenter ; 1.11.1960 ; Gescherweg 149 ;67829; Schmittweiler ; 06753 / 61294463 ; 0168 / 8164137 ; 06753 / 82781255 ; f.carpenter@mail.xyz ; ja
+574;30.05.2016; Frau ; Dr. ; Barbara ; Philipp ; 16.10.1980 ; Am Filk 17 ;99817; Eisenach ; 03691 / 67838387 ; 0174 / 6261732 ; 03691 / 50634379 ; barbara.philipp@mail.xyz ; ja
+575;17.11.2016; Frau ; Dr. ; Christin ; Octomedia ; 2.4.1985 ; Dammstr. 91 ;30159; Hannover ; 0511 / 86809593 ; 0165 / 8238796 ; 0511 / 9265307 ; c.octomedia@mail.xyz ; ja
+576;08.05.2016; Herr ; Dr. ; Karsten ; Schütze ; 18.7.1954 ; Liboristr. 36 ;52445; Titz ; 02463 / 79334181 ; 0176 / 7661297 ; 02463 / 48673144 ; k.schuetze@mail.xyz ; ja
+577;08.06.2016; Frau ; Dr. ; Ilse ; Glocke ; 3.5.1997 ; Flaßkuhl 115 ;56355; Bettendorf ; 06772 / 90284958 ; 0171 / 3180149 ; 06772 / 45621935 ; ilse.glocke@mail.xyz ; ja
+578;06.08.2016; Frau ; Dr. ; Ella ; Horn ; 22.4.1974 ; Friesenring 21 ;67822; Schiersfeld ; 06362 / 96155647 ; 0157 / 5372142 ; 06362 / 2726949 ; ella.horn@mail.xyz ; ja
+579;12.11.2016; Frau ; Dr. ; Astrid ; Westermann ; 12.11.1925 ; Immelmannstr. 25 ;25938; Wyk auf Föhr ; 04681 / 97345249 ; 0179 / 2813932 ; 04681 / 95637134 ; a.westermann@mail.xyz ; ja
+580;16.06.2016; Herr ; Dr. ; Niels ; Degner ; 21.2.1938 ; Im Stemmen 51 ;86673; Bergheim ; 08431 / 95595240 ; 0160 / 4867171 ; 08431 / 94044833 ; n.degner@mail.xyz ; ja
+581;18.06.2016; Frau ; Prof. ; Nina ; Bryan ; 1.8.1994 ; Dorotheenstr. 172 ;56291; Badenhard ; 06746 / 98119707 ; 0177 / 2380748 ; 06746 / 90489172 ; n.bryan@mail.xyz ; ja
+582;03.02.2016; Frau ; Prof. ; Annabel ; Bartl ; 1.1.1981 ; Nienkamp 125 ;36329; Romrod ; 06636 / 81442643 ; 0178 / 5227689 ; 06636 / 52365221 ; a.bartl@mail.xyz ; ja
+583;27.11.2016; Frau ; Dr. ; Nele ; Swanson ; 11.11.1951 ; Soetenkamp 194a ;45327; Essen ; 0201 / 45094495 ; 0153 / 7017451 ; 0201 / 65601054 ; nele.swanson@mail.xyz ; ja
+584;26.12.2016; Herr ; Prof. ; Henri ; Wassmann ; 13.11.1947 ; Olpener Str. 84 ;67377; Gommersheim ; 06327 / 30515706 ; 0160 / 7566221 ; 06327 / 25776623 ; henri.wassmann@mail.xyz ; ja
+585;26.11.2016; Frau ; Dr. ; Nelly ; Bailey ; 20.5.1968 ; Schmittingheide 85 ;82438; Eschenlohe ; 08824 / 81669651 ; 0177 / 4204320 ; 08824 / 80785846 ; nelly.bailey@mail.xyz ; ja
+586;17.06.2016; Frau ; Dr. ; Maja ; Brehmer ; 3.7.1952 ; Weseler Str. 98 ;39590; Heeren ; 03931 / 26926948 ; 0174 / 2678682 ; 03931 / 40570952 ; maja.brehmer@mail.xyz ; ja
+587;22.07.2016; Frau ; Dr. ; Zoé ; Kellner ; 8.6.1992 ; Tondernstr. 155 ;97239; Aub ; 09335 / 10736003 ; 0150 / 7556857 ; 09335 / 33015743 ; z.kellner@mail.xyz ; ja
+588;12.08.2016; Herr ; Dr. ; Peter ; Popp ; 7.4.1941 ; Jakobusstr. 82 ;78595; Hausen ob Verena ; 07424 / 70759013 ; 0164 / 6530999 ; 07424 / 32418549 ; peter.popp@mail.xyz ; ja
+589;15.06.2016; Frau ; Prof. ; Lucia ; Aberle ; 18.11.1940 ; Sentmaringer Weg 186 ;56858; Grenderich ; 06542 / 76043558 ; 0174 / 4304940 ; 06542 / 21661609 ; l.aberle@mail.xyz ; ja
+590;07.04.2016; Herr ; Prof. ; Niclas ; Jäckel ; 8.4.1998 ; Olpener Str. 74 ;25588; Oldendorf ; 04821 / 36724143 ; 0176 / 1906096 ; 04821 / 16881015 ; niclas.jaeckel@mail.xyz ; ja
+591;17.10.2016; Frau ; Prof. ; Mila ; Born ; 19.2.1949 ; Kurze Str. 153 ;17348; Petersdorf ; 03963 / 36705562 ; 0164 / 9057157 ; 03963 / 80358385 ; mila.born@mail.xyz ; ja
+592;28.11.2016; Herr ; Dr. ; Johann ; Seger ; 3.12.1932 ; Dreizehnerstr. 108 ;93476; Blaibach ; 09941 / 23049643 ; 0150 / 3183525 ; 09941 / 95178743 ; j.seger@mail.xyz ; ja
+593;10.09.2016; Frau ; Dr. ; Mira ; Brown ; 5.9.1956 ; Dachsleite 162 ;35457; Lollar ; 06406 / 58254252 ; 0161 / 5559909 ; 06406 / 75120023 ; mira.brown@mail.xyz ; ja
+594;06.05.2016; Frau ; Dr. ; Kathrin ; Kallenbach ; 18.7.1989 ; Landoisstr. 9 ;18055; Rostock ; 0381 / 36969338 ; 0165 / 4260366 ; 0381 / 86246256 ; kathrin.kallenbach@mail.xyz ; ja
+595;15.09.2016; Herr ; Dr. ; Ali ; Ray ; 27.10.1995 ; Am Oedingteich 183 ;97618; Wülfershausen an der Saale ; 09762 / 77474893 ; 0162 / 9949263 ; 09762 / 61695357 ; ali.ray@mail.xyz ; ja
+596;18.12.2016; Herr ; Dr. ; Riccardo ; Gering ; 9.11.1946 ; Hacklenburg 190 ;53547; Dattenberg ; 02644 / 93614726 ; 0150 / 6109816 ; 02644 / 40990229 ; riccardo.gering@mail.xyz ; ja
+597;24.11.2016; Herr ; Dr. ; Thorben ; Herrmann ; 26.12.1932 ; Dachsleite 64 ;76848; Spirkelbach ; 06392 / 4682574 ; 0154 / 7693564 ; 06392 / 86679747 ; t.herrmann@mail.xyz ; ja
+598;29.06.2016; Herr ; Dr. ; Simon ; Bott ; 3.1.1934 ; Hermann-Treff-Weg 169 ;84453; Mühldorf am Inn ; 08631 / 64877713 ; 0170 / 5928249 ; 08631 / 39762287 ; s.bott@mail.xyz ; ja
+599;21.04.2016; Frau ; Dr. ; Daniela ; Pilz ; 5.2.1987 ; Friesenring 153 ;95697; Nagel ; 09236 / 41626142 ; 0169 / 1787401 ; 09236 / 86466227 ; d.pilz@mail.xyz ; ja
+600;15.03.2016; Herr ; Prof. ; Swen ; Teske ; 17.8.1942 ; Langestr. 104 ;92431; Neunburg vorm Wald ; 09672 / 35993982 ; 0176 / 1662147 ; 09672 / 7307673 ; s.teske@mail.xyz ; ja
+601;06.05.2016; Frau ; Dr. ; Karolina ; Hutter ; 14.10.1927 ; Nienkamp 126 ;29574; Ebstorf ; 05822 / 27936453 ; 0159 / 7341920 ; 05822 / 14101843 ; karolina.hutter@mail.xyz ; ja
+602;17.05.2016; Frau ; Dr. ; Lara ; McLaughlin ; 5.11.1937 ; Hüfferstr. 26 ;4179; Leipzig ; 0341 / 91763025 ; 0164 / 5139865 ; 0341 / 81893573 ; l.mclaughlin@mail.xyz ; ja
+603;06.03.2016; Frau ; Dr. ; Fabienne ; Michels ; 4.8.1977 ; Am Blütenhain 140 ;42289; Wuppertal ; 0202 / 16057931 ; 0163 / 1558233 ; 0202 / 74905176 ; fabienne.michels@mail.xyz ; ja
+604;21.08.2016; Frau ; Dr. ; Marlene ; Vaupel ; 26.5.1995 ; Pötterhoek 85 ;24217; Höhndorf ; 04344 / 13181241 ; 0168 / 5596385 ; 04344 / 94881128 ; marlene.vaupel@mail.xyz ; ja
+605;14.02.2016; Herr ; Dr. ; Wilhelm ; Semmler ; 19.10.1975 ; Frauenstr. 128 ;6449; Groß Schierstedt ; 03473 / 17849379 ; 0160 / 6684362 ; 03473 / 35915333 ; wilhelm.semmler@mail.xyz ; ja
+606;28.01.2016; Herr ; Dr. ; Henry ; Hauck ; 14.9.1959 ; Telemannstr. 120 ;27419; Vierden ; 04282 / 84540736 ; 0170 / 5654117 ; 04282 / 75131816 ; henry.hauck@mail.xyz ; ja
+607;17.03.2016; Herr ; Dr. ; Simon ; Neuberger ; 7.7.1945 ; Zur Gräfte 36 ;24392; Norderbrarup ; 04641 / 11183375 ; 0157 / 2337256 ; 04641 / 5975072 ; simon.neuberger@mail.xyz ; ja
+608;08.03.2016; Herr ; Dr. ; Uwe ; Hopkins ; 18.4.1943 ; Steinfurter Str. 57 ;57642; Alpenrod ; 02662 / 67363401 ; 0153 / 5966064 ; 02662 / 39547618 ; uwe.hopkins@mail.xyz ; ja
+609;27.04.2016; Frau ; Dr. ; Marie ; Eck ; 19.2.1945 ; Telgenweg 152 ;25859; Hooge ; 04849 / 26088880 ; 0150 / 4726047 ; 04849 / 13431768 ; marie.eck@mail.xyz ; ja
+610;19.05.2016; Frau ; Prof. ; Waldtraut ; Breyer ; 8.4.1957 ; Handorfer Str. 188 ;71069; Sindelfingen ; 07031 / 61140061 ; 0165 / 6827446 ; 07031 / 17477910 ; w.breyer@mail.xyz ; ja
+611;18.10.2016; Herr ; Dr. ; Björn ; Hense ; 17.7.1929 ; Wiedehagen 128 ;76831; Billigheim-Ingenheim ; 06349 / 46634958 ; 0164 / 6305240 ; 06349 / 71929261 ; bjoern.hense@mail.xyz ; ja
+612;15.11.2016; Frau ; Dr. ; Sofia ; Holz ; 28.9.1981 ; Agrippastr. 106 ;44623; Herne ; 02323 / 3054193 ; 0162 / 2299438 ; 02323 / 10542731 ; sofia.holz@mail.xyz ; ja
+613;30.01.2016; Frau ; Dr. ; Hannelore ; Budde ; 21.12.1982 ; Am Hörsterfriedhof 138 ;56727; Sankt Johann ; 02651 / 88543010 ; 0163 / 5419860 ; 02651 / 88858703 ; hannelore.budde@mail.xyz ; ja
+614;05.05.2016; Frau ; Dr. ; Lorena ; Hardt ; 18.7.1968 ; Dahlweg 79 ;31787; Hameln ; 05151 / 42805744 ; 0159 / 4082644 ; 05151 / 38468353 ; l.hardt@mail.xyz ; ja
+615;26.11.2016; Herr ; Prof. ; Jürgen ; Berthold ; 14.1.1939 ; Hensenstr. 116 ;61239; Ober-Mörlen ; 06002 / 47060392 ; 0159 / 5965494 ; 06002 / 56896170 ; juergen.berthold@mail.xyz ; ja
+616;19.02.2016; Herr ; Dr. ; Mathias ; Weichert ; 19.2.1933 ; Johanniterstr. 3 ;54649; Niederpierscheid ; 06550 / 39077499 ; 0169 / 5183795 ; 06550 / 80806501 ; mathias.weichert@mail.xyz ; ja
+617;22.01.2016; Frau ; Prof. ; Ayleen ; Funke ; 15.12.1943 ; Altenhofer Weg 172 ;12685; Marzahn ; 030 / 3168892 ; 0164 / 8768537 ; 030 / 86715677 ; a.funke@mail.xyz ; ja
+618;15.08.2016; Herr ; Dr. ; Erich ; Daum ; 10.9.1987 ; Gasselstiege 12 ;35239; Steffenberg ; 06464 / 96948735 ; 0164 / 2530089 ; 06464 / 42911355 ; e.daum@mail.xyz ; ja
+619;12.10.2016; Frau ; Dr. ; Annalena ; Morgenroth ; 22.10.1969 ; Hogenbergstr. 195 ;75239; Eisingen ; 07232 / 74915532 ; 0167 / 8750544 ; 07232 / 48405185 ; a.morgenroth@mail.xyz ; ja
+620;10.11.2016; Frau ; Dr. ; Hannelore ; Ford ; 9.9.1983 ; Neusser Str. 7 ;86922; Eresing ; 08193 / 84378781 ; 0175 / 2779381 ; 08193 / 9756095 ; h.ford@mail.xyz ; ja
+621;18.12.2016; Herr ; Dr. ; Robin ; Sonntag ; 14.7.1996 ; Manfred-von-Richthofen-Str. 80 ;37139; Adelebsen ; 05506 / 67413018 ; 0168 / 9500616 ; 05506 / 99806710 ; robin.sonntag@mail.xyz ; ja
+622;30.01.2016; Herr ; Dr. ; Jonah ; Rapp ; 8.5.1958 ; Dingbängerweg 149 ;83224; Staudach-Egerndach ; 08641 / 95440485 ; 0151 / 4906335 ; 08641 / 64670628 ; j.rapp@mail.xyz ; ja
+623;17.06.2016; Frau ; Dr. ; Ida ; McKenzie ; 10.5.1966 ; Werseblick 86 ;36179; Bebra ; 06622 / 14445259 ; 0167 / 8268099 ; 06622 / 89675230 ; ida.mckenzie@mail.xyz ; ja
+624;06.03.2016; Frau ; Dr. ; Christina ; Schwabe ; 28.11.1989 ; Mersmannsstiege 170 ;27243; Harpstedt ; 04244 / 78152650 ; 0156 / 7017271 ; 04244 / 18894723 ; c.schwabe@mail.xyz ; ja
+625;30.03.2016; Herr ; Dr. ; Rolf ; Wegner ; 20.12.1987 ; Simon-Meister-Str. 7 ;70376; Stuttgart ; 0711 / 62457573 ; 0158 / 9497180 ; 0711 / 17983167 ; rolf.wegner@mail.xyz ; ja
+626;08.06.2016; Frau ; Dr. ; Bärbel ; Helbig ; 15.9.1931 ; Im Sonnentau 162 ;17091; Wildberg ; 03960 / 10750539 ; 0171 / 7215758 ; 03960 / 72132816 ; baerbel.helbig@mail.xyz ; ja
+627;18.03.2016; Herr ; Dr. ; Joshua ; Kretzschmar ; 22.5.1988 ; Salzmannstr. 16 ;92723; Gleiritsch ; 09655 / 2149251 ; 0155 / 2748095 ; 09655 / 4344556 ; j.kretzschmar@mail.xyz ; ja
+628;24.10.2016; Herr ; Dr. ; Vincent ; Harper ; 4.12.1993 ; Straßburger Weg 8 ;54311; Trierweiler ; 0651 / 80288869 ; 0165 / 5578838 ; 0651 / 42376438 ; vincent.harper@mail.xyz ; ja
+629;01.12.2016; Herr ; Dr. ; Adrian ; Krömer ; 22.8.1988 ; Hacklenburg 12 ;29643; Neuenkirchen ; 05195 / 99897384 ; 0157 / 4183952 ; 05195 / 4680628 ; adrian.kroemer@mail.xyz ; ja
+630;03.08.2016; Frau ; Dr. ; Waltraut ; Barnett ; 6.8.2000 ; Westenkamp 88 ;54538; Kinderbeuern ; 06541 / 25845528 ; 0167 / 9870324 ; 06541 / 80764920 ; waltraut.barnett@mail.xyz ; ja
+631;20.08.2016; Frau ; Dr. ; Elfriede ; Späth ; 4.5.1936 ; Sternstr. 56 ;73450; Neresheim ; 07326 / 61686645 ; 0156 / 3627968 ; 07326 / 74586112 ; elfriede.spaeth@mail.xyz ; ja
+632;13.01.2016; Herr ; Dr. ; Patrick ; Schön ; 19.4.1972 ; Osthuesheide 29 ;56291; Bickenbach ; 06747 / 75199134 ; 0165 / 1506870 ; 06747 / 99321010 ; patrick.schoen@mail.xyz ; ja
+633;15.12.2016; Frau ; Dr. ; Samira ; Birnenmost ; 20.7.1948 ; Am Berler Kamp 157 ;92284; Poppenricht ; 09621 / 57841687 ; 0169 / 3364448 ; 09621 / 27174758 ; s.birnenmost@mail.xyz ; ja
+634;17.12.2016; Frau ; Dr. ; Nelly ; Bohn ; 7.1.1929 ; Handorfer Str. 85 ;31618; Liebenau ; 05023 / 12623973 ; 0170 / 2969332 ; 05023 / 38696542 ; n.bohn@mail.xyz ; ja
+635;15.08.2016; Frau ; Dr. ; Carin ; Scheele ; 10.11.1948 ; Mecklenbecker Str. 133 ;89257; Illertissen ; 07303 / 20089140 ; 0158 / 2590261 ; 07303 / 58491459 ; c.scheele@mail.xyz ; ja
+636;07.11.2016; Frau ; Dr. ; Joelina ; Faulhaber ; 15.2.1974 ; Gustav-Tweer-Weg 175 ;58802; Balve ; 02375 / 13135645 ; 0172 / 8496547 ; 02375 / 67391621 ; joelina.faulhaber@mail.xyz ; ja
+637;15.10.2016; Herr ; Dr. ; Jesse ; Fricke ; 28.8.1968 ; Hillscheider Weg 175 ;14469; Potsdam ; 0331 / 99067738 ; 0173 / 2365840 ; 0331 / 70989718 ; j.fricke@mail.xyz ; ja
+638;02.02.2016; Herr ; Prof. ; Lars ; Schwarzer ; 6.2.1979 ; Sophienstr. 46 ;74199; Untergruppenbach ; 07132 / 95485262 ; 0178 / 4634107 ; 07132 / 84857735 ; l.schwarzer@mail.xyz ; ja
+639;15.06.2016; Herr ; Dr. ; Dieter ; Bach ; 10.3.1990 ; Böttcherstr. 83 ;33189; Schlangen ; 05252 / 67436509 ; 0163 / 2388597 ; 05252 / 54169174 ; dieter.bach@mail.xyz ; ja
+640;28.06.2016; Frau ; Dr. ; Dilara ; Wiesner ; 10.12.1930 ; Max-Winkelmann-Str. 55 ;72458; Ebingen ; 07431 / 22865898 ; 0174 / 2010468 ; 07431 / 96480430 ; dilara.wiesner@mail.xyz ; ja
+641;23.08.2016; Frau ; Prof. ; Joy ; Rothe ; 19.12.1984 ; Pötterhoek 28 ;92331; Lupburg ; 09492 / 66020286 ; 0170 / 2830275 ; 09492 / 72874972 ; j.rothe@mail.xyz ; ja
+642;28.03.2016; Herr ; Dr. ; Justus ; Jakob ; 6.9.1960 ; Bünkamp 164 ;92705; Leuchtenberg ; 09659 / 54835090 ; 0165 / 5402798 ; 09659 / 63703848 ; justus.jakob@mail.xyz ; ja
+643;24.04.2016; Herr ; Dr. ; Florian ; Scholz ; 18.6.1953 ; Goebenstr. 103 ;83125; Eggstätt ; 08056 / 7028885 ; 0168 / 8042930 ; 08056 / 73328220 ; florian.scholz@mail.xyz ; ja
+644;12.09.2016; Herr ; Dr. ; Henning ; Scherer ; 12.6.1927 ; Memmertweg 21 ;25923; Ellhöft ; 04663 / 29536540 ; 0176 / 9185407 ; 04663 / 63843634 ; h.scherer@mail.xyz ; ja
+645;08.01.2016; Herr ; Dr. ; Michel ; Jimenez ; 6.5.1921 ; Grevener Str. 89 ;41179; Mönchengladbach ; 02161 / 22861846 ; 0154 / 3504231 ; 02161 / 41919588 ; m.jimenez@mail.xyz ; ja
+646;23.04.2016; Herr ; Dr. ; Bernd ; Breuer ; 15.1.1925 ; Weseler Str. 101 ;58455; Witten ; 02302 / 8332101 ; 0176 / 3459038 ; 02302 / 67604050 ; b.breuer@mail.xyz ; ja
+647;11.10.2016; Frau ; Dr. ; Marieke ; Hopkins ; 9.8.1974 ; Breul 23 ;25715; Averlak ; 04855 / 65411003 ; 0153 / 5145727 ; 04855 / 42706164 ; marieke.hopkins@mail.xyz ; ja
+648;01.11.2016; Frau ; Dr. ; Hertha ; Saupe ; 3.4.1970 ; Mersmannsstiege 94 ;55270; Essenheim ; 06136 / 87736466 ; 0177 / 2532157 ; 06136 / 50638728 ; hertha.saupe@mail.xyz ; ja
+649;11.03.2016; Frau ; Dr. ; Annette ; Bacher ; 15.4.1984 ; Am Grauen Stein 141 ;76596; Forbach ; 07228 / 32051563 ; 0171 / 7956099 ; 07228 / 67538763 ; a.bacher@mail.xyz ; ja
+650;27.08.2016; Frau ; Prof. ; Katrin ; Veit ; 26.1.1960 ; Norbertstr. 72 ;79424; Auggen ; 07631 / 18028408 ; 0178 / 3674093 ; 07631 / 65851758 ; katrin.veit@mail.xyz ; ja
+651;17.05.2016; Frau ; Prof. ; Rebecca ; Dahms ; 24.5.1974 ; Starweg 65 ;32545; Bad Oeynhausen ; 05731 / 13346390 ; 0177 / 9997443 ; 05731 / 113696 ; r.dahms@mail.xyz ; ja
+652;22.05.2016; Frau ; Dr. ; Layla ; Steinke ; 19.2.1931 ; Rektoratsweg 143 ;67718; Schmalenberg ; 06307 / 78899644 ; 0159 / 7565609 ; 06307 / 10857630 ; l.steinke@mail.xyz ; ja
+653;23.03.2016; Frau ; Dr. ; Marie ; Keck ; 8.8.1962 ; Starweg 14 ;98693; Ilmenau ; 03677 / 23901328 ; 0158 / 6759839 ; 03677 / 92335797 ; m.keck@mail.xyz ; ja
+654;30.01.2016; Herr ; Dr. ; Reiner ; Knight ; 21.2.1936 ; Hüfferstr. 28 ;68165; Mannheim ; 0621 / 56909501 ; 0159 / 7407563 ; 0621 / 97595677 ; r.knight@mail.xyz ; ja
+655;14.02.2016; Frau ; Prof. ; Birgit ; Mutschler ; 27.8.1921 ; Scheibenstr. 111 ;75447; Sternenfels ; 07045 / 55630212 ; 0151 / 6142117 ; 07045 / 75349888 ; b.mutschler@mail.xyz ; ja
+656;08.04.2016; Frau ; Prof. ; Sinah ; Mangold ; 19.3.1920 ; Carossastr. 47 ;93059; Regensburg ; 0941 / 82185311 ; 0174 / 2486443 ; 0941 / 65210585 ; sinah.mangold@mail.xyz ; ja
+657;08.12.2016; Frau ; Dr. ; Monica ; Ratz ; 28.5.1990 ; Bielefelder Str. 194 ;56422; Wirges ; 02602 / 95510365 ; 0167 / 7494069 ; 02602 / 49718644 ; monica.ratz@mail.xyz ; ja
+658;17.01.2016; Frau ; Dr. ; Saskia ; Wessels ; 2.12.1922 ; Ölbergstr. 74 ;89073; Ulm ; 0731 / 52347067 ; 0175 / 9730001 ; 0731 / 37817451 ; s.wessels@mail.xyz ; ja
+659;11.12.2016; Frau ; Prof. ; Christina ; Kloster ; 8.10.1986 ; Am Pulverschuppen 147 ;57635; Kircheib ; 02681 / 65538325 ; 0170 / 5749204 ; 02681 / 26369338 ; c.kloster@mail.xyz ; ja
+660;16.08.2016; Frau ; Dr. ; Anabel ; Wieser ; 10.11.1930 ; Nauheimer Str. 163 ;85570; Markt Schwaben ; 08121 / 62138602 ; 0179 / 2577319 ; 08121 / 49162716 ; anabel.wieser@mail.xyz ; ja
+661;03.06.2016; Frau ; Dr. ; Ulrike ; Hüttner ; 10.4.1968 ; Langeworth 21 ;26524; Halbemond ; 04931 / 77556646 ; 0178 / 5582894 ; 04931 / 91163674 ; u.huettner@mail.xyz ; ja
+662;03.05.2016; Frau ; Prof. ; Julia ; Nichols ; 25.5.1931 ; Kerßenbrockstr. 48 ;25792; Neuenkirchen ; 04837 / 79977121 ; 0153 / 2456511 ; 04837 / 99445928 ; julia.nichols@mail.xyz ; ja
+663;27.04.2016; Frau ; Prof. ; Lucie ; Engelhard ; 22.2.1925 ; Am Ziegelofen 161a ;41066; Mönchengladbach ; 02161 / 32526009 ; 0166 / 9799594 ; 02161 / 81523496 ; lucie.engelhard@mail.xyz ; ja
+664;11.10.2016; Frau ; Dr. ; Rosa ; Meissner ; 23.4.1998 ; Paul-Engelhard-Weg 44 ;59329; Wadersloh ; 02523 / 93367977 ; 0174 / 4324486 ; 02523 / 23161393 ; rosa.meissner@mail.xyz ; ja
+665;23.05.2016; Frau ; Dr. ; Annabell ; Bender ; 11.7.1972 ; Baumberger Str. 111 ;25376; Borsfleth ; 04824 / 76368925 ; 0175 / 4639008 ; 04824 / 49935038 ; annabell.bender@mail.xyz ; ja
+666;01.06.2016; Herr ; Dr. ; Sam ; Beyer ; 16.10.1930 ; Soetenkamp 154 ;66978; Leimen ; 06331 / 13496279 ; 0160 / 2733115 ; 06331 / 21534328 ; s.beyer@mail.xyz ; ja
+667;22.02.2016; Herr ; Dr. ; Jonah ; Santos ; 4.3.1951 ; Holunderweg 148 ;17237; Userin ; 03981 / 54847226 ; 0156 / 8610604 ; 03981 / 40647239 ; jonah.santos@mail.xyz ; ja
+668;27.05.2016; Herr ; Dr. ; Mert ; Trost ; 14.4.1957 ; Am Nubbenberg 173 ;54689; Preischeid ; 06550 / 41932404 ; 0168 / 2087518 ; 06550 / 74291374 ; mert.trost@mail.xyz ; ja
+669;03.12.2016; Herr ; Dr. ; Detlev ; Kretschmer ; 22.10.1962 ; Johann-Krane-Weg 84 ;82380; Peißenberg ; 08803 / 51416820 ; 0158 / 4471053 ; 08803 / 29219078 ; d.kretschmer@mail.xyz ; ja
+670;01.12.2016; Frau ; Dr. ; Angelika ; Wiedmann ; 23.6.1969 ; Werseblick 89 ;57413; Finnentrop ; 02721 / 16967592 ; 0177 / 7597570 ; 02721 / 53751155 ; angelika.wiedmann@mail.xyz ; ja
+671;09.12.2016; Herr ; Dr. ; Michel ; Genz ; 13.9.1925 ; Wollinstr. 56 ;89564; Nattheim ; 07321 / 74388295 ; 0153 / 3870473 ; 07321 / 5560011 ; m.genz@mail.xyz ; ja
+672;24.10.2016; Herr ; Dr. ; Herbert ; Rack ; 4.3.1939 ; Wiedehagen 104 ;93476; Blaibach ; 09941 / 44474049 ; 0150 / 2196070 ; 09941 / 99884794 ; h.rack@mail.xyz ; ja
+673;27.04.2016; Herr ; Dr. ; Timm ; Pütz ; 9.10.1972 ; Hahnenstr. 94 ;73773; Aichwald ; 0711 / 60077102 ; 0175 / 6033101 ; 0711 / 54507861 ; t.puetz@mail.xyz ; ja
+674;21.10.2016; Frau ; Dr. ; Chantalle ; Sander ; 23.3.2000 ; Steinkamp 137 ;19230; Bandenitz ; 03883 / 68370659 ; 0167 / 3736643 ; 03883 / 14178555 ; c.sander@mail.xyz ; ja
+675;31.10.2016; Frau ; Prof. ; Stephanie ; Gellert ; 26.1.1978 ; Am Grauen Stein 175 ;97762; Hammelburg ; 09732 / 21072346 ; 0159 / 9642226 ; 09732 / 7861780 ; s.gellert@mail.xyz ; ja
+676;13.10.2016; Frau ; Dr. ; Marlene ; Kloster ; 21.5.1989 ; Hofstr. 67 ;36219; Cornberg ; 05650 / 58629514 ; 0164 / 6508197 ; 05650 / 62294675 ; m.kloster@mail.xyz ; ja
+677;06.10.2016; Frau ; Prof. ; Birgit ; Hall ; 26.10.1986 ; Stolbergstr. 55 ;54608; Buchet ; 06551 / 32747328 ; 0174 / 2090804 ; 06551 / 72324232 ; b.hall@mail.xyz ; ja
+678;30.12.2016; Frau ; Dr. ; Chiara ; Zacharias ; 21.8.1968 ; Dodostr. 63 ;39359; Böddensell ; 05804 / 55111614 ; 0176 / 6004375 ; 05804 / 28697813 ; chiara.zacharias@mail.xyz ; ja
+679;08.04.2016; Herr ; Prof. ; Emil ; Geisler ; 4.1.1982 ; Rüschhausweg 133 ;79280; Au ; 0761 / 50118657 ; 0154 / 9908985 ; 0761 / 78106217 ; e.geisler@mail.xyz ; ja
+680;24.06.2016; Frau ; Dr. ; Caroline ; Pierce ; 25.8.1929 ; Holunderweg 167 ;71299; Wimsheim ; 07044 / 68332254 ; 0164 / 3908269 ; 07044 / 87081256 ; caroline.pierce@mail.xyz ; ja
+681;28.11.2016; Frau ; Dr. ; Aileen ; Anderson ; 4.12.1930 ; Münsterstr. 151 ;26556; Nenndorf ; 04975 / 54641062 ; 0177 / 3759720 ; 04975 / 9577011 ; aileen.anderson@mail.xyz ; ja
+682;19.07.2016; Frau ; Dr. ; Käthe ; Liebig ; 27.12.1940 ; Wiedehagen 29 ;94569; Stephansposching ; 09935 / 83891978 ; 0155 / 6614422 ; 09935 / 95915191 ; kaethe.liebig@mail.xyz ; ja
+683;10.03.2016; Frau ; Dr. ; Emma ; Motz ; 1.5.1960 ; Ostmarkstr. 180 ;30926; Seelze ; 05137 / 18128545 ; 0171 / 7540912 ; 05137 / 38518358 ; e.motz@mail.xyz ; ja
+684;14.02.2016; Herr ; Dr. ; Leif ; Holloway ; 6.6.1932 ; Friedrich-Ebert-Str. 16 ;63906; Erlenbach am Main ; 09372 / 40119018 ; 0176 / 9706621 ; 09372 / 81403812 ; leif.holloway@mail.xyz ; ja
+685;08.01.2016; Frau ; Dr. ; Antonia ; Sager ; 11.2.1951 ; Bielefelder Str. 100 ;99510; Apolda ; 03644 / 11698470 ; 0170 / 8627057 ; 03644 / 84892473 ; antonia.sager@mail.xyz ; ja
+686;29.05.2016; Herr ; Dr. ; Mohamed ; Demel ; 23.4.1937 ; Ostmarkstr. 32 ;10783; Berlin ; 030 / 49622288 ; 0168 / 1368377 ; 030 / 87462875 ; mohamed.demel@mail.xyz ; ja
+687;20.05.2016; Herr ; Dr. ; Bennett ; Kress ; 1.8.1947 ; Memmertweg 14 ;8349; Johanngeorgenstadt ; 03773 / 90795643 ; 0166 / 4297019 ; 03773 / 85039330 ; b.kress@mail.xyz ; ja
+688;07.01.2016; Herr ; Dr. ; Yannic ; Reinartz ; 6.12.1967 ; Dauvemühle 36 ;82549; Königsdorf ; 08179 / 36191572 ; 0167 / 4562237 ; 08179 / 9802192 ; yannic.reinartz@mail.xyz ; ja
+689;21.11.2016; Herr ; Dr. ; Bernhard ; Gaida ; 15.9.1978 ; Äußere Kanalstr. 57 ;21776; Wanna ; 04757 / 21496594 ; 0169 / 7550914 ; 04757 / 13693880 ; bernhard.gaida@mail.xyz ; ja
+690;03.07.2016; Frau ; Dr. ; Carolina ; Hagen ; 17.7.1958 ; Guntherstr. 3 ;56244; Kuhnhöfen ; 02666 / 12552336 ; 0179 / 2903399 ; 02666 / 40405340 ; c.hagen@mail.xyz ; ja
+691;28.12.2016; Herr ; Dr. ; Samuel ; Tacke ; 3.10.1941 ; Dammstr. 24 ;55278; Mommenheim ; 06138 / 94853954 ; 0179 / 8849260 ; 06138 / 64274824 ; samuel.tacke@mail.xyz ; ja
+692;29.03.2016; Frau ; Dr. ; Sofia ; Kalmbach ; 9.6.1950 ; Lassallestr. 3 ;21710; Engelschoff ; 04144 / 45497296 ; 0178 / 4848892 ; 04144 / 89714206 ; sofia.kalmbach@mail.xyz ; ja
+693;04.07.2016; Frau ; Dr. ; Amelie ; Summers ; 21.11.1970 ; Friesenring 117 ;26897; Hilkenbrook ; 05955 / 86952268 ; 0154 / 6695675 ; 05955 / 79159556 ; a.summers@mail.xyz ; ja
+694;09.03.2016; Herr ; Prof. ; Patrick ; Eckel ; 17.9.1980 ; Starweg 74 ;56843; Starkenburg ; 06541 / 43087686 ; 0175 / 4468816 ; 06541 / 93904276 ; p.eckel@mail.xyz ; ja
+695;05.01.2016; Herr ; Dr. ; Olaf ; Aumann ; 1.11.1968 ; Soetenkamp 163 ;53506; Ahrbrück ; 02643 / 786999 ; 0171 / 5397429 ; 02643 / 42972338 ; olaf.aumann@mail.xyz ; ja
+696;29.04.2016; Herr ; Dr. ; Jamie ; Bek ; 9.5.1924 ; Kochwiesenstr. 42 ;67063; Ludwigshafen am Rhein ; 0621 / 41026727 ; 0157 / 5685272 ; 0621 / 96416590 ; jamie.bek@mail.xyz ; ja
+697;20.08.2016; Herr ; Dr. ; Berndt ; Stone ; 20.3.1950 ; Westenkamp 9 ;95517; Seybothenreuth ; 09278 / 23406830 ; 0154 / 1548405 ; 09278 / 22038521 ; b.stone@mail.xyz ; ja
+698;22.05.2016; Frau ; Dr. ; Isabell ; Tobias ; 11.6.1968 ; Buldernweg 42 ;6237; Spergau ; 03462 / 60106051 ; 0174 / 5300010 ; 03462 / 18182354 ; i.tobias@mail.xyz ; ja
+699;08.07.2016; Frau ; Prof. ; Lilly ; Stiehler ; 5.5.1942 ; Gropiusstr. 54 ;59439; Holzwickede ; 02301 / 52877813 ; 0152 / 8429666 ; 02301 / 72795050 ; lilly.stiehler@mail.xyz ; ja
+700;19.10.2016; Frau ; Dr. ; Melanie ; Ulbrich ; 3.12.1985 ; Am Ziegelofen 84a ;48268; Greven ; 02571 / 88169507 ; 0158 / 7910176 ; 02571 / 90566742 ; melanie.ulbrich@mail.xyz ; ja
+701;14.07.2016; Frau ; Dr. ; Lana ; Jakobi ; 14.11.1946 ; Sanddornweg 180 ;87674; Ruderatshofen ; 08343 / 26291761 ; 0158 / 6217692 ; 08343 / 37528831 ; lana.jakobi@mail.xyz ; ja
+702;24.10.2016; Herr ; Dr. ; Oskar ; Kaps ; 7.7.1991 ; Max-Winkelmann-Str. 45a ;56858; Liesenich ; 06542 / 76280494 ; 0176 / 2070233 ; 06542 / 14687927 ; oskar.kaps@mail.xyz ; ja
+703;25.01.2016; Frau ; Dr. ; Yasmin ; Schweizer ; 16.5.1982 ; Bernhard-Poether-Str. 127 ;46242; Bottrop ; 02041 / 96354420 ; 0167 / 9038535 ; 02041 / 52839878 ; yasmin.schweizer@mail.xyz ; ja
+704;16.07.2016; Herr ; Dr. ; Uwe ; Semmler ; 6.6.1938 ; Marientalstr. 156 ;91332; Heiligenstadt ; 03606 / 29366358 ; 0150 / 9819263 ; 03606 / 68034873 ; uwe.semmler@mail.xyz ; ja
+705;18.12.2016; Herr ; Dr. ; Noel ; Matthes ; 14.8.1992 ; Am Brook 147 ;76889; Birkenhördt ; 06343 / 72721655 ; 0172 / 5635297 ; 06343 / 10800036 ; n.matthes@mail.xyz ; ja
+706;26.05.2016; Frau ; Dr. ; Finnja ; Schwanke ; 15.11.1932 ; Am Dornbusch 120 ;25724; Neufelderkoog ; 04851 / 76594102 ; 0152 / 5587341 ; 04851 / 97905748 ; f.schwanke@mail.xyz ; ja
+707;22.11.2016; Frau ; Prof. ; Kathrin ; Hinkelmann ; 9.3.1963 ; Norbertstr. 176 ;28219; Bremen ; 0421 / 51609716 ; 0168 / 2728027 ; 0421 / 32723960 ; k.hinkelmann@mail.xyz ; ja
+708;28.06.2016; Herr ; Dr. ; Jannis ; Uhl ; 14.5.1925 ; Am Pulverschuppen 154 ;86655; Harburg ; 09003 / 9597366 ; 0160 / 6709502 ; 09003 / 94410863 ; j.uhl@mail.xyz ; ja
+709;16.02.2016; Frau ; Dr. ; Daniela ; Eberhardt ; 24.2.1974 ; Bünkamp 68 ;88364; Wolfegg ; 07527 / 31885657 ; 0153 / 1696901 ; 07527 / 83233833 ; d.eberhardt@mail.xyz ; ja
+710;17.03.2016; Frau ; Dr. ; Alyssa ; Heil ; 15.12.1972 ; Zülpicher Str. 115 ;54636; Hüttingen an der Kyll ; 06561 / 61038253 ; 0176 / 6087611 ; 06561 / 44291205 ; a.heil@mail.xyz ; ja
+711;08.12.2016; Herr ; Prof. ; Mohammed ; Lux ; 23.6.1931 ; Liboristr. 184a ;52080; Aachen ; 0241 / 31132668 ; 0155 / 1858396 ; 0241 / 33869624 ; m.lux@mail.xyz ; ja
+712;30.01.2016; Frau ; Dr. ; Catharina ; Walker ; 12.7.1971 ; Buldernweg 24 ;45879; Gelsenkirchen ; 0209 / 58446775 ; 0153 / 6512113 ; 0209 / 27048813 ; c.walker@mail.xyz ; ja
+713;11.08.2016; Frau ; Dr. ; Carolina ; Kretschmar ; 1.2.1929 ; Offenbergstr. 62 ;25557; Oldenbüttel ; 04872 / 66161384 ; 0179 / 1545307 ; 04872 / 15484475 ; c.kretschmar@mail.xyz ; ja
+714;14.04.2016; Frau ; Dr. ; Aylin ; Michael ; 21.5.1943 ; Münsterstr. 74 ;69190; Walldorf ; 06227 / 28424158 ; 0168 / 2894608 ; 06227 / 82279209 ; aylin.michael@mail.xyz ; ja
+715;16.01.2016; Herr ; Prof. ; Emre ; Andres ; 25.5.1951 ; Westenkamp 87 ;55288; Udenheim ; 06732 / 53808517 ; 0153 / 4072266 ; 06732 / 22148746 ; e.andres@mail.xyz ; ja
+716;12.03.2016; Frau ; Dr. ; Emilia ; Teubner ; 1.3.1997 ; Marsweg 118 ;47166; Duisburg ; 0203 / 25387866 ; 0156 / 7283870 ; 0203 / 38428793 ; emilia.teubner@mail.xyz ; ja
+717;18.02.2016; Frau ; Dr. ; Maya ; Parker ; 27.12.1930 ; Johanniterstr. 165 ;55234; Albig ; 06731 / 26959819 ; 0153 / 7827230 ; 06731 / 35929275 ; maya.parker@mail.xyz ; ja
+718;17.02.2016; Frau ; Dr. ; Leah ; Casper ; 18.9.1933 ; Gropiusstr. 179a ;99428; Weimar ; 03643 / 97334064 ; 0165 / 1639676 ; 03643 / 28998769 ; leah.casper@mail.xyz ; ja
+719;09.02.2016; Frau ; Dr. ; Kaja ; Vasquez ; 9.8.1943 ; Starweg 52 ;4828; Bennewitz ; 03425 / 79364345 ; 0176 / 1061694 ; 03425 / 65942813 ; k.vasquez@mail.xyz ; ja
+720;15.09.2016; Frau ; Dr. ; Maria ; Briggs ; 4.7.1978 ; Hillscheider Weg 160 ;73655; Alfdorf ; 07172 / 99969284 ; 0168 / 5045728 ; 07172 / 10275842 ; maria.briggs@mail.xyz ; ja
+721;26.09.2016; Herr ; Dr. ; Rainer ; Seewald ; 1.7.1920 ; Möserweg 80 ;55413; Niederheimbach ; 06721 / 38370435 ; 0162 / 5423432 ; 06721 / 44318555 ; r.seewald@mail.xyz ; ja
+722;07.04.2016; Frau ; Dr. ; Charlotte ; Kleine ; 6.9.1957 ; Maximilianstr. 51 ;37447; Wieda ; 05586 / 57530721 ; 0157 / 2221947 ; 05586 / 41759648 ; charlotte.kleine@mail.xyz ; ja
+723;10.05.2016; Frau ; Dr. ; Hildegard ; Kunze ; 13.9.1976 ; Emdener Str. 81 ;84332; Hebertsfelden ; 08721 / 28416464 ; 0170 / 8184414 ; 08721 / 74067071 ; h.kunze@mail.xyz ; ja
+724;16.11.2016; Frau ; Dr. ; Cathrin ; Reinhold ; 18.2.1948 ; Friedrichstr. 94 ;91362; Pretzfeld ; 09194 / 77983200 ; 0174 / 1901610 ; 09194 / 57748954 ; c.reinhold@mail.xyz ; ja
+725;31.03.2016; Frau ; Dr. ; Ann ; Miles ; 15.3.1932 ; Mierendorffstr. 182a ;77972; Mahlberg ; 07825 / 51878132 ; 0154 / 5933882 ; 07825 / 26181084 ; a.miles@mail.xyz ; ja
+726;20.07.2016; Herr ; Dr. ; Lukas ; Fenner ; 13.2.1978 ; Im Draum 16 ;27386; Kirchwalsede ; 04266 / 41535862 ; 0154 / 9884764 ; 04266 / 78386757 ; lukas.fenner@mail.xyz ; ja
+727;12.10.2016; Herr ; Dr. ; Frank ; Schnitzler ; 24.12.1921 ; Idenbrockplatz 144 ;1099; Dresden ; 0351 / 80424538 ; 0150 / 9419429 ; 0351 / 99805840 ; frank.schnitzler@mail.xyz ; ja
+728;08.01.2016; Herr ; Dr. ; Detlev ; Gardner ; 15.5.1936 ; Zur Wiese 156 ;96191; Viereth-Trunstadt ; 09503 / 88916072 ; 0174 / 8102649 ; 09503 / 85933062 ; detlev.gardner@mail.xyz ; ja
+729;28.05.2016; Herr ; Dr. ; Andreas ; Odenthal ; 1.3.1966 ; Südstr. 170 ;16816; Neuruppin ; 03391 / 52402314 ; 0157 / 7150583 ; 03391 / 98873867 ; a.odenthal@mail.xyz ; ja
+730;06.01.2016; Herr ; Dr. ; Jeremy ; Brock ; 23.10.1957 ; Am Blütenhain 147 ;93333; Neustadt an der Donau ; 09445 / 31753695 ; 0178 / 7157814 ; 09445 / 17854838 ; j.brock@mail.xyz ; ja
+731;17.01.2016; Frau ; Dr. ; Karina ; Retzlaff ; 14.7.1975 ; Am Grauen Stein 138 ;78658; Zimmern ob Rottweil ; 0741 / 3805150 ; 0157 / 1947759 ; 0741 / 85545961 ; k.retzlaff@mail.xyz ; ja
+732;20.03.2016; Frau ; Dr. ; Aylin ; Fisher ; 6.6.1936 ; Lassallestr. 35 ;54317; Gutweiler ; 0651 / 3689582 ; 0167 / 2921909 ; 0651 / 30231506 ; a.fisher@mail.xyz ; ja
+733;09.07.2016; Herr ; Dr. ; Philip ; Mörs ; 1.10.1944 ; Heroldstr. 116 ;96364; Marktrodach ; 09261 / 42930461 ; 0164 / 8272707 ; 09261 / 39117063 ; philip.moers@mail.xyz ; ja
+734;30.03.2016; Frau ; Prof. ; Margarete ; McKinney ; 7.9.1927 ; Am Oedingteich 195 ;50170; Kerpen ; 02237 / 1615957 ; 0155 / 2218766 ; 02237 / 74891757 ; margarete.mckinney@mail.xyz ; ja
+735;05.03.2016; Frau ; Dr. ; Silvia ; Langer ; 4.12.1959 ; Wörthstr. 126 ;71088; Holzgerlingen ; 07031 / 83789780 ; 0163 / 7394111 ; 07031 / 3611155 ; s.langer@mail.xyz ; ja
+736;08.10.2016; Herr ; Dr. ; Hendrik ; Grün ; 26.7.1922 ; Offenbergstr. 131 ;27246; Borstel ; 04276 / 92964554 ; 0176 / 6182829 ; 04276 / 1905658 ; h.gruen@mail.xyz ; ja
+737;17.10.2016; Frau ; Dr. ; Margarethe ; Hoyer ; 21.12.1953 ; Kleiner Griechenmarkt 98 ;56244; Goddert ; 02626 / 34901782 ; 0151 / 7007921 ; 02626 / 52909598 ; m.hoyer@mail.xyz ; ja
+738;25.10.2016; Frau ; Dr. ; Barbara ; Farmer ; 20.9.1972 ; Schmittingheide 91a ;87509; Immenstadt ; 08323 / 36965112 ; 0178 / 9085261 ; 08323 / 48552381 ; b.farmer@mail.xyz ; ja
+739;23.10.2016; Herr ; Dr. ; Lasse ; Kraus ; 13.9.1955 ; Am Brook 21 ;25764; Norddeich ; 04823 / 81909892 ; 0178 / 7144844 ; 04823 / 15477302 ; lasse.kraus@mail.xyz ; ja
+740;10.10.2016; Frau ; Dr. ; Jamie ; Schick ; 14.11.1948 ; Wörthstr. 181 ;94152; Neuhaus am Inn ; 08503 / 73930377 ; 0172 / 9152416 ; 08503 / 9250333 ; j.schick@mail.xyz ; ja
+741;20.10.2016; Herr ; Prof. ; Bjarne ; Ebner ; 28.9.1955 ; Im Stemmen 105a ;27367; Hassendorf ; 04264 / 87633892 ; 0168 / 4993270 ; 04264 / 92893180 ; b.ebner@mail.xyz ; ja
+742;09.11.2016; Herr ; Dr. ; Heinz ; Elliott ; 25.5.1921 ; Neusser Str. 76 ;30855; Langenhagen ; 0511 / 21032130 ; 0153 / 3046431 ; 0511 / 58504224 ; h.elliott@mail.xyz ; ja
+743;25.04.2016; Frau ; Dr. ; Lucy ; Zach ; 6.5.1983 ; Horstmarer Landweg 200 ;48712; Gescher ; 02542 / 491213 ; 0164 / 9670966 ; 02542 / 17012109 ; lucy.zach@mail.xyz ; ja
+744;24.04.2016; Herr ; Dr. ; Matthias ; Gessler ; 28.5.1974 ; Am Römerhof 137 ;17491; Greifswald ; 03834 / 87214017 ; 0157 / 3884686 ; 03834 / 749227 ; matthias.gessler@mail.xyz ; ja
+745;08.06.2016; Frau ; Dr. ; Cornelia ; Harrington ; 24.1.1979 ; Weißenburgstr. 51 ;56317; Urbach ; 02684 / 63870667 ; 0166 / 8340335 ; 02684 / 69536574 ; c.harrington@mail.xyz ; ja
+746;18.01.2016; Herr ; Dr. ; Mathias ; Frey ; 21.9.1970 ; Geiststr. 100 ;13156; Pankow ; 030 / 51042580 ; 0168 / 4381932 ; 030 / 6940722 ; m.frey@mail.xyz ; ja
+747;17.07.2016; Frau ; Dr. ; Alicia ; Binder ; 28.8.1954 ; Methweg 52 ;96367; Tschirn ; 09268 / 62065828 ; 0157 / 9427344 ; 09268 / 90237927 ; a.binder@mail.xyz ; ja
+748;24.01.2016; Frau ; Dr. ; Judith ; Räder ; 23.7.1980 ; Dachsleite 176 ;84558; Feichten an der Alz ; 08623 / 22281833 ; 0179 / 7152072 ; 08623 / 85890930 ; judith.raeder@mail.xyz ; ja
+749;13.03.2016; Frau ; Dr. ; Franziska ; Harrington ; 19.2.1946 ; Templerweg 162 ;26127; Oldenburg ; 0441 / 88301207 ; 0178 / 4469008 ; 0441 / 76799363 ; f.harrington@mail.xyz ; ja
+750;20.05.2016; Herr ; Dr. ; Enno ; Steffen ; 25.5.1925 ; Carossastr. 1 ;23795; Schackendorf ; 04551 / 60073659 ; 0158 / 9910965 ; 04551 / 16958415 ; e.steffen@mail.xyz ; ja
+751;02.10.2016; Herr ; Prof. ; Ferdinand ; Hirt ; 14.11.1932 ; Gleueler Str. 112 ;74924; Neckarbischofsheim ; 07263 / 92748794 ; 0155 / 2752761 ; 07263 / 29401391 ; ferdinand.hirt@mail.xyz ; ja
+752;10.11.2016; Frau ; Dr. ; Linn ; Hintz ; 20.3.1976 ; Langeworth 12 ;87779; Trunkelsberg ; 08331 / 89473819 ; 0150 / 5120527 ; 08331 / 47049949 ; l.hintz@mail.xyz ; ja
+753;28.01.2016; Frau ; Dr. ; Lucia ; Mutschler ; 18.4.1957 ; Christinastr. 98 ;24793; Oldenhütten ; 04392 / 2733436 ; 0173 / 5012734 ; 04392 / 84189428 ; lucia.mutschler@mail.xyz ; ja
+754;19.12.2016; Herr ; Dr. ; Wilfried ; Klatt ; 27.1.1926 ; Friedrich-Ebert-Str. 34 ;97788; Neuendorf ; 09351 / 73196323 ; 0155 / 6555047 ; 09351 / 34817603 ; wilfried.klatt@mail.xyz ; ja
+755;10.01.2016; Frau ; Prof. ; Michelle ; Fenner ; 14.5.1974 ; Manfred-von-Richthofen-Str. 23 ;45475; Mülheim an der Ruhr ; 0208 / 49555028 ; 0168 / 7970665 ; 0208 / 65974610 ; michelle.fenner@mail.xyz ; ja
+756;01.05.2016; Frau ; Dr. ; Katrin ; Popp ; 9.8.1956 ; Dreizehnerstr. 94 ;31655; Stadthagen ; 05721 / 75171457 ; 0158 / 9352005 ; 05721 / 85327333 ; katrin.popp@mail.xyz ; ja
+757;22.05.2016; Herr ; Dr. ; Carsten ; Vogler ; 12.9.1969 ; Münsterstr. 22 ;55627; Martinstein ; 06754 / 744274 ; 0158 / 7591816 ; 06754 / 41264090 ; c.vogler@mail.xyz ; ja
+758;01.05.2016; Frau ; Dr. ; Anastasia ; Ruf ; 14.12.1932 ; Geiststr. 174 ;10317; Berlin ; 030 / 77186322 ; 0164 / 6431325 ; 030 / 12657355 ; a.ruf@mail.xyz ; ja
+759;31.08.2016; Frau ; Dr. ; Ivonne ; Felder ; 22.4.1992 ; Breul 198 ;63179; Obertshausen ; 06104 / 68035730 ; 0150 / 6502889 ; 06104 / 97906735 ; ivonne.felder@mail.xyz ; ja
+760;19.01.2016; Herr ; Dr. ; Nick ; Heidemann ; 14.6.1999 ; Am Dornbusch 193 ;37697; Lauenförde ; 05271 / 83058377 ; 0166 / 6489443 ; 05271 / 2105722 ; n.heidemann@mail.xyz ; ja
+761;10.10.2016; Frau ; Dr. ; Elisabeth ; Henschke ; 23.6.1979 ; Norbertstr. 137 ;59329; Wadersloh ; 02523 / 13841164 ; 0157 / 8493505 ; 02523 / 66638923 ; elisabeth.henschke@mail.xyz ; ja
+762;29.10.2016; Herr ; Dr. ; Yannick ; Klotz ; 23.3.1932 ; Kapellenstr. 14 ;14089; Kladow ; 030 / 76501693 ; 0151 / 3800282 ; 030 / 98023361 ; yannick.klotz@mail.xyz ; ja
+763;23.07.2016; Frau ; Dr. ; Christina ; Wiese ; 26.4.1995 ; Wildpfad 171 ;36166; Haunetal ; 06673 / 82752726 ; 0151 / 5240049 ; 06673 / 45733993 ; c.wiese@mail.xyz ; ja
+764;03.07.2016; Frau ; Dr. ; Juli ; Cortez ; 25.12.1939 ; Zur Gräfte 39 ;44869; Bochum ; 0234 / 35617013 ; 0161 / 2028447 ; 0234 / 88649843 ; j.cortez@mail.xyz ; ja
+765;20.03.2016; Herr ; Dr. ; Mohammed ; Riedl ; 23.4.1983 ; Am Getterbach 29 ;23611; Bad Schwartau ; 0451 / 79271612 ; 0162 / 3938533 ; 0451 / 18450629 ; mohammed.riedl@mail.xyz ; ja
+766;19.01.2016; Herr ; Dr. ; Mario ; Brady ; 26.10.1970 ; Starweg 196 ;45770; Marl ; 02365 / 32930137 ; 0154 / 9477873 ; 02365 / 34004958 ; mario.brady@mail.xyz ; ja
+767;23.04.2016; Frau ; Dr. ; Ida ; Klotz ; 3.4.1948 ; Wolbecker Str. 1 ;38723; Seesen ; 05381 / 24086760 ; 0156 / 3602424 ; 05381 / 18404457 ; i.klotz@mail.xyz ; ja
+768;31.05.2016; Herr ; Dr. ; Reinhard ; Schneider ; 12.5.1980 ; Hermann-Treff-Weg 75 ;29699; Bomlitz ; 05161 / 88936418 ; 0175 / 3702858 ; 05161 / 30881844 ; r.schneider@mail.xyz ; ja
+769;16.09.2016; Frau ; Prof. ; Alicia ; Krüger ; 16.5.1969 ; Rinscheweg 140 ;24643; Struvenhütten ; 04194 / 52019850 ; 0176 / 2881099 ; 04194 / 48875638 ; alicia.krueger@mail.xyz ; ja
+770;09.08.2016; Frau ; Dr. ; Laura ; Lemke ; 25.5.1980 ; Papenbusch 148 ;91088; Bubenreuth ; 09131 / 42759487 ; 0155 / 5097648 ; 09131 / 83150707 ; laura.lemke@mail.xyz ; ja
+771;04.09.2016; Frau ; Dr. ; Jenny ; Finkenzeller ; 20.3.1921 ; Hindenburgplatz 79a ;37085; Göttingen ; 0551 / 45216278 ; 0169 / 3734060 ; 0551 / 65836376 ; jenny.finkenzeller@mail.xyz ; ja
+772;09.12.2016; Herr ; Dr. ; Julian ; Hirsch ; 13.1.1960 ; Liboristr. 194 ;37434; Obernfeld ; 05528 / 53698886 ; 0175 / 7605283 ; 05528 / 37119725 ; julian.hirsch@mail.xyz ; ja
+773;19.12.2016; Herr ; Dr. ; Enrico ; Castillo ; 16.5.1977 ; Rückertstr. 52 ;23896; Ritzerau ; 04543 / 97508846 ; 0150 / 6978676 ; 04543 / 65768363 ; e.castillo@mail.xyz ; ja
+774;23.01.2016; Frau ; Dr. ; Christine ; Uhlmann ; 2.8.1987 ; Franz-Peter-Kürten-Weg 45 ;1979; Lauchhammer ; 03574 / 35541128 ; 0167 / 5619396 ; 03574 / 15659464 ; c.uhlmann@mail.xyz ; ja
+775;27.04.2016; Frau ; Dr. ; Jolina ; Sparks ; 21.6.1997 ; Zum Guten Hirten 46 ;15236; Frankfurt ; 0335 / 31717141 ; 0154 / 5963712 ; 0335 / 48778386 ; j.sparks@mail.xyz ; ja
+776;28.07.2016; Herr ; Dr. ; Stefan ; Thaler ; 23.6.2000 ; Hülsebrockstr. 100 ;92637; Theisseil ; 09602 / 3401199 ; 0173 / 4974127 ; 09602 / 79141244 ; s.thaler@mail.xyz ; ja
+777;21.08.2016; Frau ; Dr. ; Sabine ; Richards ; 8.6.1967 ; Wormser Str. 61 ;83098; Brannenburg ; 08034 / 15178486 ; 0168 / 5897410 ; 08034 / 5049659 ; sabine.richards@mail.xyz ; ja
+778;09.11.2016; Frau ; Dr. ; Anette ; Eichhorn ; 26.12.1971 ; Breul 136 ;63075; Offenbach am Main ; 069 / 39185932 ; 0160 / 3092095 ; 069 / 29294657 ; anette.eichhorn@mail.xyz ; ja
+779;24.09.2016; Herr ; Prof. ; Lucas ; Kammer ; 7.10.1937 ; Uhuweg 93 ;57629; Lochum ; 02662 / 98584943 ; 0154 / 1748379 ; 02662 / 58744245 ; l.kammer@mail.xyz ; ja
+780;27.06.2016; Frau ; Dr. ; Mona ; Keiser ; 24.3.1949 ; Rinscheweg 17 ;89437; Haunsheim ; 09073 / 94091970 ; 0168 / 3596072 ; 09073 / 51692115 ; m.keiser@mail.xyz ; ja
+781;02.05.2016; Frau ; Dr. ; Caja ; Dick ; 2.3.1932 ; Willingrott 84 ;95508; Kulmain ; 09642 / 1337234 ; 0153 / 7786873 ; 09642 / 30488594 ; c.dick@mail.xyz ; ja
+782;04.06.2016; Frau ; Dr. ; Gudrun ; Puls ; 14.4.1928 ; Grevener Str. 122 ;89428; Syrgenstein ; 09077 / 18838380 ; 0153 / 5821029 ; 09077 / 41986307 ; gudrun.puls@mail.xyz ; ja
+783;28.05.2016; Herr ; Prof. ; Dario ; Reschke ; 28.4.1982 ; Fresnostr. 42 ;92533; Wernberg-Köblitz ; 09604 / 63805953 ; 0170 / 9512970 ; 09604 / 49436237 ; dario.reschke@mail.xyz ; ja
+784;06.11.2016; Frau ; Dr. ; Kristin ; Musiol ; 24.11.2000 ; Schiffahrter Damm 84 ;74572; Blaufelden ; 07953 / 29650185 ; 0159 / 3084821 ; 07953 / 81503472 ; k.musiol@mail.xyz ; ja
+785;09.09.2016; Frau ; Dr. ; Sophia ; Fletcher ; 24.7.1933 ; Dachsleite 89 ;42283; Wuppertal ; 0202 / 11029601 ; 0154 / 1506232 ; 0202 / 30018625 ; sophia.fletcher@mail.xyz ; ja
+786;30.10.2016; Frau ; Dr. ; Nike ; Möser ; 23.8.1983 ; Pankokstr. 94 ;91620; Ohrenbach ; 09865 / 74617701 ; 0163 / 9861423 ; 09865 / 15857908 ; nike.moeser@mail.xyz ; ja
+787;30.05.2016; Herr ; Dr. ; Horst ; Ziegler ; 9.9.1994 ; Norbertstr. 101 ;91629; Weihenzell ; 09802 / 97308793 ; 0165 / 2828608 ; 09802 / 19092852 ; h.ziegler@mail.xyz ; ja
+788;25.04.2016; Frau ; Dr. ; Finja ; Person ; 15.5.1921 ; Am Römerhof 73 ;56729; Ettringen ; 02651 / 78734787 ; 0154 / 3893540 ; 02651 / 64846172 ; finja.person@mail.xyz ; ja
+789;15.11.2016; Frau ; Prof. ; Katja ; Fehrenbach ; 6.4.1976 ; Kröver Str. 58 ;54636; Scharfbillig ; 06561 / 85683451 ; 0163 / 1237441 ; 06561 / 71266459 ; katja.fehrenbach@mail.xyz ; ja
+790;07.11.2016; Frau ; Dr. ; Lia ; Henke ; 10.7.1967 ; Steinkamp 85 ;95358; Guttenberg ; 09225 / 50883770 ; 0165 / 3783475 ; 09225 / 73393626 ; l.henke@mail.xyz ; ja
+791;25.08.2016; Frau ; Dr. ; Mara ; Katrin ; 21.7.1926 ; Gasselstiege 85 ;54534; Schladt ; 06572 / 14110703 ; 0164 / 8600774 ; 06572 / 69969375 ; m.katrin@mail.xyz ; ja
+792;30.08.2016; Frau ; Dr. ; Linn ; Thiel ; 5.9.1942 ; Uhuweg 183 ;16928; Pritzwalk ; 03395 / 97961537 ; 0157 / 6648854 ; 03395 / 67869516 ; linn.thiel@mail.xyz ; ja
+793;16.11.2016; Frau ; Dr. ; Käthe ; Barrenbrügge ; 8.12.1969 ; Im Draum 56 ;66907; Rehweiler ; 06383 / 99748715 ; 0172 / 4574291 ; 06383 / 86951096 ; kaethe.barrenbruegge@mail.xyz ; ja
+794;27.03.2016; Herr ; Dr. ; Gert ; Böttner ; 9.1.1940 ; Hofstr. 82 ;21493; Elmenhorst ; 04151 / 29906434 ; 0153 / 8146299 ; 04151 / 79297563 ; gert.boettner@mail.xyz ; ja
+795;09.08.2016; Herr ; Dr. ; Moritz ; Kappel ; 6.9.1992 ; Ulmenweg 118 ;57520; Rosenheim ; 02747 / 24766387 ; 0175 / 5020002 ; 02747 / 59877171 ; m.kappel@mail.xyz ; ja
+796;22.05.2016; Herr ; Dr. ; Gerhardt ; Kühnel ; 9.8.1976 ; Berrischstr. 106 ;41179; Mönchengladbach ; 02161 / 54936298 ; 0168 / 2050055 ; 02161 / 41452736 ; gerhardt.kuehnel@mail.xyz ; ja
+797;30.08.2016; Frau ; Dr. ; Nina ; Leonard ; 17.3.1954 ; Am Berler Kamp 2 ;73430; Aalen ; 07361 / 2369137 ; 0156 / 3146356 ; 07361 / 77465051 ; n.leonard@mail.xyz ; ja
+798;02.06.2016; Frau ; Dr. ; Silke ; Frey ; 26.4.1990 ; Bünkamp 106 ;4279; Leipzig ; 0341 / 21454733 ; 0152 / 1335305 ; 0341 / 74600647 ; silke.frey@mail.xyz ; ja
+799;30.10.2016; Herr ; Dr. ; Paul ; Heger ; 14.8.1981 ; Tondernstr. 172 ;55469; Altweidelbach ; 06761 / 56305928 ; 0167 / 1570148 ; 06761 / 19836322 ; paul.heger@mail.xyz ; ja
+800;24.11.2016; Frau ; Dr. ; Heidi ; Wiedmann ; 10.6.1947 ; Wildpfad 192a ;24326; Nehmten ; 04522 / 64233325 ; 0157 / 8222512 ; 04522 / 54054964 ; heidi.wiedmann@mail.xyz ; ja
+801;09.09.2016; Herr ; Dr. ; Magnus ; Silva ; 12.1.1963 ; Deutz-Kalker Str. 10 ;59969; Hallenberg ; 02984 / 52651328 ; 0171 / 3330210 ; 02984 / 87395701 ; m.silva@mail.xyz ; ja
+802;27.04.2016; Frau ; Dr. ; Kimberley ; Juergens ; 20.6.1955 ; Tondernstr. 112 ;55568; Staudernheim ; 06751 / 51528688 ; 0164 / 7499981 ; 06751 / 16033510 ; kimberley.juergens@mail.xyz ; ja
+803;19.06.2016; Herr ; Dr. ; Marlon ; Gerken ; 9.9.1999 ; Magdalenenstr. 48 ;9217; Burgstädt ; 03724 / 11065687 ; 0171 / 4917600 ; 03724 / 58820230 ; marlon.gerken@mail.xyz ; ja
+804;05.12.2016; Frau ; Prof. ; Alissa ; Biermann ; 2.12.1997 ; Goebenstr. 6 ;93104; Sünching ; 09480 / 45224357 ; 0179 / 5284828 ; 09480 / 32655369 ; a.biermann@mail.xyz ; ja
+805;03.03.2016; Herr ; Dr. ; Lewin ; Neuberger ; 6.5.1930 ; Flaßkuhl 50 ;25776; Rehm-Flehde-Bargen ; 04882 / 47679223 ; 0165 / 8798912 ; 04882 / 28903509 ; lewin.neuberger@mail.xyz ; ja
+806;21.06.2016; Herr ; Dr. ; Kristian ; Zeh ; 14.4.1921 ; Eibenweg 173 ;9430; Venusberg ; 03725 / 64164475 ; 0169 / 6961754 ; 03725 / 24522748 ; k.zeh@mail.xyz ; ja
+807;27.10.2016; Herr ; Dr. ; Stefan ; Schwalm ; 13.8.1996 ; Tondernstr. 180 ;35578; Wetzlar ; 06441 / 86053761 ; 0161 / 4183447 ; 06441 / 51123105 ; s.schwalm@mail.xyz ; ja
+808;07.07.2016; Herr ; Dr. ; Thomas ; Kara ; 15.2.1955 ; Im Haubenfeld 194 ;42699; Solingen ; 0212 / 25557504 ; 0179 / 7306668 ; 0212 / 53030288 ; t.kara@mail.xyz ; ja
+809;04.06.2016; Herr ; Dr. ; Sascha ; Linke ; 5.11.1931 ; Hüfferstr. 6 ;10365; Berlin ; 030 / 63702557 ; 0167 / 3112288 ; 030 / 37722446 ; s.linke@mail.xyz ; ja
+810;16.03.2016; Frau ; Dr. ; Carina ; Forster ; 8.9.1936 ; Florentine-Eichler-Str. 157 ;91590; Bruckberg ; 09824 / 57468869 ; 0170 / 1615816 ; 09824 / 72963426 ; carina.forster@mail.xyz ; ja
+811;05.03.2016; Frau ; Dr. ; Nadine ; Lührs ; 17.5.1948 ; Kurze Str. 192 ;49777; Klein Berßen ; 05965 / 16465208 ; 0157 / 3576948 ; 05965 / 35827380 ; nadine.luehrs@mail.xyz ; ja
+812;29.06.2016; Herr ; Dr. ; Leo ; Abraham ; 12.5.1988 ; Im Draum 123 ;12439; Treptow-Köpenick ; 030 / 22231317 ; 0166 / 9940316 ; 030 / 76651226 ; leo.abraham@mail.xyz ; ja
+813;09.01.2016; Frau ; Prof. ; Stella ; Knight ; 28.6.1976 ; Augustastr. 31 ;25355; Barmstedt ; 04123 / 47986336 ; 0178 / 3978140 ; 04123 / 65566385 ; stella.knight@mail.xyz ; ja
+814;22.10.2016; Frau ; Dr. ; Kristin ; Lambertz ; 21.3.1995 ; Kröver Str. 72 ;88263; Horgenzell ; 07504 / 80785222 ; 0171 / 3684242 ; 07504 / 34385004 ; kristin.lambertz@mail.xyz ; ja
+815;14.11.2016; Herr ; Dr. ; Hendrik ; Swanson ; 20.9.1946 ; Christinastr. 120 ;16359; Lanke ; 03337 / 236885 ; 0169 / 5346096 ; 03337 / 22580452 ; hendrik.swanson@mail.xyz ; ja
+816;12.01.2016; Frau ; Dr. ; Kirsten ; Matthes ; 23.8.1970 ; Am Nubbenberg 31 ;55490; Woppenroth ; 06763 / 70811945 ; 0158 / 5358332 ; 06763 / 77754149 ; k.matthes@mail.xyz ; ja
+817;08.05.2016; Frau ; Prof. ; Gertrud ; Reischl ; 2.5.1995 ; Mariendorfer Str. 156 ;23911; Salem ; 04547 / 99543697 ; 0166 / 8652852 ; 04547 / 93775646 ; gertrud.reischl@mail.xyz ; ja
+818;12.05.2016; Herr ; Prof. ; Henning ; Obermüller ; 10.12.1954 ; Dahlienweg 34 ;89281; Altenstadt ; 08337 / 4114930 ; 0156 / 5509156 ; 08337 / 5649123 ; henning.obermueller@mail.xyz ; ja
+819;07.12.2016; Herr ; Dr. ; Roman ; Sass ; 2.8.1968 ; Osthuesheide 27 ;29416; Riebau ; 03901 / 68351132 ; 0152 / 3449777 ; 03901 / 48745026 ; roman.sass@mail.xyz ; ja
+820;18.12.2016; Herr ; Dr. ; Miguel ; Hillebrandt ; 20.2.1983 ; Methweg 89 ;24402; Esgrus ; 04632 / 75091540 ; 0151 / 8247582 ; 04632 / 10291633 ; miguel.hillebrandt@mail.xyz ; ja
+821;05.12.2016; Frau ; Dr. ; Teresa ; Leber ; 3.12.1948 ; Janningsweg 88 ;86756; Reimlingen ; 09081 / 27402633 ; 0156 / 9733202 ; 09081 / 80077426 ; teresa.leber@mail.xyz ; ja
+822;26.10.2016; Herr ; Dr. ; Emre ; Schreiber ; 14.6.1987 ; Steinkamp 129 ;69198; Schriesheim ; 06203 / 8038201 ; 0159 / 7418706 ; 06203 / 43124409 ; emre.schreiber@mail.xyz ; ja
+823;04.09.2016; Herr ; Dr. ; Michel ; Pauls ; 13.12.1956 ; Magdalenenstr. 16 ;67705; Trippstadt ; 06306 / 47015709 ; 0155 / 8671513 ; 06306 / 50929949 ; michel.pauls@mail.xyz ; ja
+824;15.02.2016; Frau ; Prof. ; Angela ; Coleman ; 27.9.1972 ; Offenbergstr. 110 ;52396; Heimbach ; 02446 / 41480163 ; 0179 / 8004247 ; 02446 / 61078626 ; a.coleman@mail.xyz ; ja
+825;07.07.2016; Herr ; Dr. ; Ricardo ; Neuberger ; 15.4.1947 ; Fresnostr. 11 ;25884; Sollwitt ; 04843 / 93690608 ; 0164 / 7387535 ; 04843 / 98844975 ; r.neuberger@mail.xyz ; ja
+826;30.05.2016; Herr ; Dr. ; Ali ; Edwards ; 23.1.1996 ; Werkstattstr. 74 ;24582; Schönbek ; 04322 / 74263807 ; 0166 / 7893298 ; 04322 / 35107013 ; a.edwards@mail.xyz ; ja
+827;13.03.2016; Herr ; Dr. ; Liam ; Vega ; 10.2.1970 ; Salzmannstr. 137 ;67482; Freimersheim ; 06323 / 6386741 ; 0167 / 1006871 ; 06323 / 57034130 ; l.vega@mail.xyz ; ja
+828;13.11.2016; Herr ; Dr. ; Luka ; Wieczorek ; 1.5.1980 ; Salzmannstr. 90 ;19089; Wessin ; 03863 / 79377503 ; 0156 / 9931123 ; 03863 / 9243675 ; l.wieczorek@mail.xyz ; ja
+829;28.03.2016; Herr ; Dr. ; Franz ; Russell ; 18.10.1961 ; Neusser Str. 70 ;29690; Buchholz ; 05071 / 14604156 ; 0168 / 3803505 ; 05071 / 63126851 ; franz.russell@mail.xyz ; ja
+830;11.09.2016; Frau ; Dr. ; Ida ; Layer ; 4.9.1972 ; Kempener Str. 119a ;54518; Esch ; 06571 / 66728776 ; 0176 / 6000203 ; 06571 / 17311306 ; ida.layer@mail.xyz ; ja
+831;22.11.2016; Herr ; Dr. ; Philipp ; Rath ; 20.6.1928 ; Schmittingheide 163a ;76891; Bundenthal ; 06394 / 39498328 ; 0173 / 6435162 ; 06394 / 58278136 ; philipp.rath@mail.xyz ; ja
+832;11.05.2016; Frau ; Dr. ; Ute ; Warnke ; 21.9.1958 ; Heinrichstr. 54 ;73540; Heubach ; 07173 / 70722519 ; 0153 / 2763695 ; 07173 / 34281637 ; ute.warnke@mail.xyz ; ja
+833;29.05.2016; Herr ; Dr. ; Horst ; Held ; 20.9.1930 ; Eifelstr. 29 ;29225; Celle ; 05141 / 561415 ; 0152 / 3298936 ; 05141 / 33971529 ; h.held@mail.xyz ; ja
+834;30.06.2016; Frau ; Prof. ; Rebecca ; Schäfers ; 15.11.1965 ; Buldernweg 2 ;76857; Eußerthal ; 06346 / 12886379 ; 0156 / 9078668 ; 06346 / 34164567 ; rebecca.schaefers@mail.xyz ; ja
+835;09.07.2016; Herr ; Prof. ; Henrik ; Pross ; 3.9.1951 ; Theodor-Heuss-Ring 180 ;79599; Wittlingen ; 07621 / 27346547 ; 0171 / 6815457 ; 07621 / 27300259 ; henrik.pross@mail.xyz ; ja
+836;18.07.2016; Herr ; Dr. ; Joachim ; Hille ; 13.7.1942 ; Marderweg 16a ;72663; Großbettlingen ; 07022 / 43916130 ; 0174 / 5786606 ; 07022 / 81210826 ; joachim.hille@mail.xyz ; ja
+837;03.09.2016; Frau ; Dr. ; Sigrid ; Ryan ; 26.1.1930 ; Ölbergstr. 138 ;67808; Steinbach am Donnersberg ; 06302 / 58140242 ; 0165 / 3156922 ; 06302 / 8053908 ; sigrid.ryan@mail.xyz ; ja
+838;29.06.2016; Frau ; Dr. ; Marlis ; Kaul ; 19.2.1994 ; Piusallee 171 ;95473; Haag ; 09270 / 57155338 ; 0178 / 5085786 ; 09270 / 71959927 ; m.kaul@mail.xyz ; ja
+839;24.12.2016; Herr ; Dr. ; Günther ; Gerner ; 1.4.1962 ; Landoisstr. 64 ;6543; Stangerode ; 03473 / 3667900 ; 0159 / 9750563 ; 03473 / 11706802 ; g.gerner@mail.xyz ; ja
+840;12.02.2016; Frau ; Dr. ; Leonie ; Hertel ; 13.11.1977 ; Im Draum 151 ;7745; Jena ; 03641 / 2451107 ; 0171 / 7518954 ; 03641 / 89470292 ; l.hertel@mail.xyz ; ja
+841;04.11.2016; Frau ; Dr. ; Ivonne ; Love ; 16.11.1972 ; Oscar-Wilde-Str. 85 ;76437; Rastatt ; 07222 / 35536232 ; 0172 / 9173778 ; 07222 / 5320944 ; i.love@mail.xyz ; ja
+842;13.11.2016; Frau ; Dr. ; Carolin ; Demmler ; 21.4.1949 ; Templerweg 172 ;66981; Münchweiler an der Rodalb ; 06395 / 57298510 ; 0168 / 1170494 ; 06395 / 21011054 ; carolin.demmler@mail.xyz ; ja
+843;13.10.2016; Frau ; Dr. ; Emilia ; Cohen ; 7.8.1924 ; Ripenhorst 88a ;27243; Beckeln ; 04434 / 45947438 ; 0170 / 6195646 ; 04434 / 70906332 ; emilia.cohen@mail.xyz ; ja
+844;19.08.2016; Frau ; Dr. ; Klara ; Moody ; 5.2.1933 ; Handorfer Str. 33 ;73249; Wernau ; 07153 / 55309539 ; 0173 / 9931830 ; 07153 / 55106812 ; k.moody@mail.xyz ; ja
+845;28.09.2016; Herr ; Dr. ; Günther ; Kreutz ; 28.4.1959 ; Starweg 123 ;55606; Hochstetten-Dhaun ; 06752 / 37114265 ; 0152 / 4486014 ; 06752 / 2797743 ; guenther.kreutz@mail.xyz ; ja
+846;28.03.2016; Herr ; Dr. ; Fabian ; Layer ; 15.6.1971 ; Nieland 84 ;80336; München ; 089 / 75662708 ; 0160 / 6176848 ; 089 / 89682685 ; fabian.layer@mail.xyz ; ja
+847;23.05.2016; Herr ; Dr. ; Mads ; Kaul ; 14.7.1940 ; Agrippastr. 104 ;87647; Unterthingau ; 08377 / 29626876 ; 0159 / 3988955 ; 08377 / 24546680 ; m.kaul@mail.xyz ; ja
+848;22.08.2016; Frau ; Dr. ; Sylvia ; Oberländer ; 9.4.1998 ; Ostmarkstr. 150 ;57578; Elkenroth ; 02747 / 18287329 ; 0166 / 4577668 ; 02747 / 7714766 ; s.oberlaender@mail.xyz ; ja
+849;03.04.2016; Herr ; Prof. ; Frederic ; Schumann ; 27.3.1923 ; Rückertstr. 97 ;19069; Zickhusen ; 03867 / 28598694 ; 0171 / 2649589 ; 03867 / 46901238 ; frederic.schumann@mail.xyz ; ja
+850;06.03.2016; Herr ; Dr. ; Franz ; Franke ; 13.6.1946 ; Am Wigbold 114 ;24876; Hollingstedt ; 04627 / 40025814 ; 0166 / 1745707 ; 04627 / 10222000 ; franz.franke@mail.xyz ; ja
+851;10.06.2016; Frau ; Dr. ; Lea ; Stenzel ; 19.6.1934 ; Ripenhorst 34a ;56346; Sankt Goarshausen ; 06771 / 467342 ; 0169 / 8730043 ; 06771 / 10362865 ; l.stenzel@mail.xyz ; ja
+852;07.06.2016; Frau ; Dr. ; Vivien ; Dehne ; 8.5.1991 ; Am Oedingteich 84 ;82069; Schäftlarn ; 08178 / 77875798 ; 0177 / 3780495 ; 08178 / 22367950 ; vivien.dehne@mail.xyz ; ja
+853;03.11.2016; Frau ; Dr. ; Lea ; Jörg ; 9.7.1992 ; Am Berler Kamp 55 ;56348; Dörscheid ; 06771 / 12702033 ; 0151 / 3131236 ; 06771 / 95989419 ; lea.joerg@mail.xyz ; ja
+854;15.03.2016; Herr ; Dr. ; Leif ; Schaffer ; 25.12.1980 ; Geiststr. 54a ;24794; Bünsdorf ; 04356 / 57047003 ; 0163 / 2781803 ; 04356 / 36031206 ; leif.schaffer@mail.xyz ; ja
+855;01.06.2016; Herr ; Dr. ; Lion ; Tran ; 18.1.1957 ; Manfred-von-Richthofen-Str. 132 ;54619; Roscheid ; 06550 / 14359102 ; 0176 / 2147173 ; 06550 / 26894946 ; l.tran@mail.xyz ; ja
+856;09.02.2016; Herr ; Dr. ; Henri ; Schädler ; 8.3.1959 ; Bielefelder Str. 47 ;14473; Potsdam ; 0331 / 97636972 ; 0155 / 6455101 ; 0331 / 22395887 ; henri.schaedler@mail.xyz ; ja
+857;24.12.2016; Frau ; Dr. ; Kaja ; Hart ; 19.10.1938 ; Am Blütenhain 2 ;97285; Tauberrettersheim ; 09338 / 74149781 ; 0150 / 1239745 ; 09338 / 29641768 ; kaja.hart@mail.xyz ; ja
+858;22.12.2016; Herr ; Dr. ; Joshua ; Wehrle ; 25.3.1993 ; Neusser Str. 33 ;72336; Balingen ; 07433 / 13019609 ; 0173 / 8586637 ; 07433 / 83296358 ; joshua.wehrle@mail.xyz ; ja
+859;02.08.2016; Herr ; Dr. ; Rainer ; Kühnel ; 28.2.1929 ; Fresnostr. 92 ;66851; Mittelbrunn ; 06371 / 362247 ; 0168 / 3233992 ; 06371 / 93648101 ; rainer.kuehnel@mail.xyz ; ja
+860;10.01.2016; Herr ; Prof. ; Joerg ; Figueroa ; 3.12.1948 ; Handorfer Str. 133 ;25881; Tümlauer Koog ; 04862 / 67106801 ; 0172 / 7075294 ; 04862 / 95434423 ; joerg.figueroa@mail.xyz ; ja
+861;27.04.2016; Herr ; Dr. ; Bennett ; Leibold ; 20.7.1938 ; Arnheimweg 138 ;38889; Wienrode ; 03944 / 34374820 ; 0167 / 3948673 ; 03944 / 70200451 ; bennett.leibold@mail.xyz ; ja
+862;16.10.2016; Herr ; Dr. ; Ulrich ; Bucher ; 18.5.1971 ; Scheibenstr. 26 ;25746; Lohe-Rickelshof ; 0481 / 82087519 ; 0170 / 9899914 ; 0481 / 1485756 ; ulrich.bucher@mail.xyz ; ja
+863;13.02.2016; Frau ; Dr. ; Stella ; Provinzial ; 2.11.1960 ; Hofstr. 185 ;22959; Linau ; 04154 / 3915182 ; 0164 / 2183347 ; 04154 / 47720774 ; stella.provinzial@mail.xyz ; ja
+864;22.02.2016; Frau ; Dr. ; Natalie ; Seibold ; 19.12.1957 ; Nieland 182 ;39606; Königsmark ; 03937 / 89678407 ; 0171 / 3221959 ; 03937 / 50818770 ; n.seibold@mail.xyz ; ja
+865;16.01.2016; Herr ; Dr. ; Muhammed ; Motz ; 7.3.1993 ; Alte Apotheke 138 ;91230; Happurg ; 09151 / 22347056 ; 0151 / 4795071 ; 09151 / 3934525 ; muhammed.motz@mail.xyz ; ja
+866;11.07.2016; Frau ; Prof. ; Carolin ; Alvarez ; 26.8.1950 ; Möserweg 129 ;67591; Mölsheim ; 06243 / 93880070 ; 0178 / 8687420 ; 06243 / 61380471 ; carolin.alvarez@mail.xyz ; ja
+867;20.06.2016; Herr ; Prof. ; Frederic ; Stumpf ; 16.1.1994 ; Kochwiesenstr. 133 ;57632; Walterschen ; 02685 / 50909349 ; 0161 / 5126128 ; 02685 / 44252921 ; f.stumpf@mail.xyz ; ja
+868;19.11.2016; Frau ; Prof. ; Xenia ; Kapp ; 10.12.1935 ; Heinrichstr. 30 ;31840; Hessisch Oldendorf ; 05152 / 60728689 ; 0164 / 1976230 ; 05152 / 66578735 ; x.kapp@mail.xyz ; ja
+869;14.06.2016; Frau ; Dr. ; Svenja ; Steffens ; 8.3.1946 ; Rückertstr. 70 ;54655; Etteldorf ; 06563 / 5432703 ; 0168 / 8610049 ; 06563 / 13129760 ; s.steffens@mail.xyz ; ja
+870;30.06.2016; Herr ; Dr. ; Sebastian ; Mäder ; 11.9.1942 ; Mecklenbecker Str. 129 ;90419; Nürnberg ; 0911 / 37247203 ; 0152 / 1673377 ; 0911 / 26767605 ; s.maeder@mail.xyz ; ja
+871;13.05.2016; Herr ; Prof. ; Theo ; Roberts ; 28.11.1981 ; Starweg 79 ;56566; Neuwied ; 02631 / 76544391 ; 0177 / 1524155 ; 02631 / 68506145 ; theo.roberts@mail.xyz ; ja
+872;27.03.2016; Frau ; Prof. ; Isabelle ; Seiler ; 27.1.1935 ; Am Filk 172 ;17036; Neubrandenburg ; 0395 / 65725101 ; 0178 / 4806481 ; 0395 / 33709876 ; i.seiler@mail.xyz ; ja
+873;06.06.2016; Frau ; Dr. ; Ayleen ; Pawlowski ; 14.5.1993 ; Erpeler Str. 85 ;67549; Worms ; 06241 / 76243946 ; 0157 / 9287416 ; 06241 / 61989572 ; ayleen.pawlowski@mail.xyz ; ja
+874;28.09.2016; Frau ; Dr. ; Stella ; Haller ; 19.12.1950 ; Offerkämpe 41 ;74538; Rosengarten ; 0791 / 56347842 ; 0167 / 6729088 ; 0791 / 24011267 ; stella.haller@mail.xyz ; ja
+875;10.01.2016; Herr ; Dr. ; Kian ; Baumeister ; 24.11.1956 ; Mondstr. 46 ;68723; Plankstadt ; 06202 / 15009911 ; 0164 / 8960723 ; 06202 / 26483206 ; kian.baumeister@mail.xyz ; ja
+876;30.05.2016; Frau ; Dr. ; Liv ; Bald ; 21.12.1935 ; Kröver Str. 134 ;69123; Heidelberg ; 06221 / 20596048 ; 0179 / 8216211 ; 06221 / 52730136 ; l.bald@mail.xyz ; ja
+877;05.03.2016; Frau ; Dr. ; Linn ; Fricke ; 27.7.2000 ; Kappenberger Damm 145 ;24647; Ehndorf ; 04321 / 41232140 ; 0159 / 2545772 ; 04321 / 55204594 ; l.fricke@mail.xyz ; ja
+878;23.05.2016; Frau ; Dr. ; Svea ; Sommerfeld ; 13.12.1964 ; Försterstr. 101 ;23738; Kabelhorst ; 04363 / 49481388 ; 0163 / 1097545 ; 04363 / 41088711 ; s.sommerfeld@mail.xyz ; ja
+879;24.10.2016; Frau ; Dr. ; Melissa ; Fast ; 22.3.1969 ; Weißenburgstr. 59 ;88457; Kirchdorf an der Iller ; 07354 / 86257443 ; 0162 / 5107848 ; 07354 / 507351 ; m.fast@mail.xyz ; ja
+880;13.02.2016; Herr ; Dr. ; Georg ; Dannenberg ; 16.12.1921 ; Zülpicher Str. 88 ;55270; Sörgenloch ; 06136 / 93629174 ; 0177 / 8237512 ; 06136 / 92687504 ; g.dannenberg@mail.xyz ; ja
+881;03.07.2016; Herr ; Dr. ; Axel ; Mühlbaür ; 9.12.1937 ; Böttcherstr. 108 ;96123; Pödeldorf ; 09505 / 99723857 ; 0157 / 8560248 ; 09505 / 45858670 ; a.muehlbauer@mail.xyz ; ja
+882;03.06.2016; Frau ; Dr. ; Bärbel ; Strahl ; 18.8.1946 ; Hülsebrockstr. 153 ;54636; Hüttingen an der Kyll ; 06561 / 41773589 ; 0171 / 1707195 ; 06561 / 63843332 ; baerbel.strahl@mail.xyz ; ja
+883;09.02.2016; Herr ; Dr. ; Mohamed ; Hale ; 6.11.1992 ; Gleueler Str. 66 ;64754; Hesseneck ; 06276 / 19150163 ; 0174 / 4444190 ; 06276 / 99853823 ; mohamed.hale@mail.xyz ; ja
+884;08.02.2016; Herr ; Prof. ; Axel ; Reichert ; 9.9.1999 ; Straßburger Weg 107 ;52396; Heimbach ; 02446 / 56045064 ; 0166 / 8767870 ; 02446 / 69478047 ; a.reichert@mail.xyz ; ja
+885;12.11.2016; Herr ; Dr. ; Yannis ; Schwartz ; 12.3.1933 ; Wiedehagen 10 ;91487; Vestenbergsgreuth ; 09552 / 84689790 ; 0164 / 6017986 ; 09552 / 5485380 ; yannis.schwartz@mail.xyz ; ja
+886;15.09.2016; Frau ; Dr. ; Nora ; Gassmann ; 7.7.1935 ; Kirchstr. 50 ;25782; Hövede ; 04838 / 36217648 ; 0150 / 5867538 ; 04838 / 98542005 ; n.gassmann@mail.xyz ; ja
+887;22.06.2016; Herr ; Prof. ; Moritz ; Bartl ; 18.10.1967 ; Friesenring 180 ;23823; Seedorf ; 04555 / 13444000 ; 0162 / 4918276 ; 04555 / 85420508 ; m.bartl@mail.xyz ; ja
+888;26.02.2016; Herr ; Dr. ; Bernhardt ; Steinberg ; 21.8.1996 ; Franz-Peter-Kürten-Weg 121 ;66869; Kusel ; 06381 / 13437574 ; 0154 / 3100592 ; 06381 / 4576894 ; bernhardt.steinberg@mail.xyz ; ja
+889;19.05.2016; Frau ; Prof. ; Beate ; Heinz ; 14.10.1980 ; Marsweg 94a ;55444; Schweppenhausen ; 06724 / 34766629 ; 0150 / 6494263 ; 06724 / 15483663 ; beate.heinz@mail.xyz ; ja
+890;09.09.2016; Frau ; Dr. ; Linda ; Schaarschmidt ; 10.3.1997 ; Enschedeweg 12 ;13403; Reinickendorf ; 030 / 18458309 ; 0160 / 2982563 ; 030 / 65494535 ; l.schaarschmidt@mail.xyz ; ja
+891;22.03.2016; Frau ; Dr. ; Doris ; Weise ; 19.4.1968 ; Altenhofer Weg 118a ;67281; Bissersheim ; 06359 / 77085863 ; 0153 / 7024042 ; 06359 / 72355551 ; d.weise@mail.xyz ; ja
+892;03.11.2016; Frau ; Dr. ; Juliana ; Fett ; 28.4.1974 ; Steinfurter Str. 37 ;50829; Köln ; 0221 / 95706321 ; 0153 / 5673568 ; 0221 / 85072712 ; j.fett@mail.xyz ; ja
+893;08.09.2016; Frau ; Dr. ; Mathilda ; Foster ; 9.8.1926 ; Rüschhausweg 136 ;55481; Hecken ; 06763 / 8218199 ; 0162 / 1570497 ; 06763 / 43839967 ; mathilda.foster@mail.xyz ; ja
+894;29.01.2016; Herr ; Prof. ; Mohamed ; Layer ; 10.2.1988 ; Hindenburgplatz 16 ;6618; Casekirchen ; 03445 / 44494859 ; 0167 / 7503116 ; 03445 / 27607433 ; m.layer@mail.xyz ; ja
+895;01.08.2016; Frau ; Dr. ; Leonie ; Schaarschmidt ; 18.1.1960 ; Steinkamp 182 ;90478; Nürnberg ; 0911 / 19184741 ; 0169 / 5765666 ; 0911 / 37929821 ; leonie.schaarschmidt@mail.xyz ; ja
+896;28.11.2016; Herr ; Dr. ; Thomas ; König ; 18.12.1943 ; Mecklenbecker Str. 134 ;34454; Bühle ; 05696 / 69709964 ; 0177 / 2605133 ; 05696 / 40528020 ; t.koenig@mail.xyz ; ja
+897;18.07.2016; Herr ; Dr. ; Kai ; Putz ; 11.3.1937 ; Eibenweg 167 ;55599; Siefersheim ; 06703 / 79211845 ; 0176 / 3499697 ; 06703 / 83355500 ; kai.putz@mail.xyz ; ja
+898;21.05.2016; Herr ; Prof. ; Keno ; Baltes ; 8.12.1995 ; Johann-Krane-Weg 105 ;63405; Hanau ; 06181 / 408969 ; 0172 / 2309071 ; 06181 / 17571630 ; keno.baltes@mail.xyz ; ja
+899;26.07.2016; Frau ; Dr. ; Kira ; Bachmeier ; 9.11.1947 ; An den Mühlen 143 ;3222; Ragow ; 03542 / 75547948 ; 0169 / 9418546 ; 03542 / 5916578 ; k.bachmeier@mail.xyz ; ja
+900;10.08.2016; Frau ; Dr. ; Charlotte ; Traub ; 4.2.1994 ; Am Filk 133 ;67724; Gonbach ; 06302 / 22679272 ; 0177 / 3814304 ; 06302 / 3659850 ; c.traub@mail.xyz ; ja
+901;18.06.2016; Herr ; Dr. ; Richard ; Hess ; 12.7.1925 ; Rückertstr. 100 ;10963; Berlin ; 030 / 46729690 ; 0164 / 6326270 ; 030 / 21097586 ; r.hess@mail.xyz ; ja
+902;25.11.2016; Herr ; Dr. ; Stefan ; Jones ; 1.3.1992 ; Görlitzer Str. 70 ;96346; Wallenfels ; 09262 / 42339436 ; 0157 / 3904468 ; 09262 / 65057945 ; s.jones@mail.xyz ; ja
+903;22.07.2016; Herr ; Dr. ; Eric ; Gehrmann ; 1.5.1927 ; Am Berler Kamp 19 ;66131; Saarbrücken ; 0681 / 83532666 ; 0152 / 7969988 ; 0681 / 2908417 ; e.gehrmann@mail.xyz ; ja
+904;25.12.2016; Frau ; Dr. ; Anabel ; Daniels ; 23.12.1921 ; Beuelsweg 48 ;27259; Wehrbleck ; 04273 / 53875106 ; 0175 / 8326662 ; 04273 / 84041950 ; anabel.daniels@mail.xyz ; ja
+905;08.05.2016; Herr ; Dr. ; Rainer ; Berner ; 6.5.1972 ; Olpener Str. 178 ;24994; Medelby ; 04605 / 16873011 ; 0156 / 4026321 ; 04605 / 78727512 ; r.berner@mail.xyz ; ja
+906;20.08.2016; Herr ; Dr. ; Walter ; Glover ; 17.1.1965 ; Magdalenenstr. 160 ;56204; Hillscheid ; 02624 / 62163013 ; 0160 / 7726024 ; 02624 / 50242405 ; walter.glover@mail.xyz ; ja
+907;18.04.2016; Herr ; Dr. ; Anthony ; Leonhardt ; 5.5.1920 ; Johanniterstr. 85 ;25355; Barmstedt ; 04123 / 33360507 ; 0174 / 7732620 ; 04123 / 41849499 ; a.leonhardt@mail.xyz ; ja
+908;05.08.2016; Herr ; Dr. ; Keno ; Wienand ; 5.10.1951 ; Friedrich-Ebert-Str. 193 ;72658; Bempflingen ; 07123 / 40643793 ; 0163 / 1184048 ; 07123 / 19148231 ; k.wienand@mail.xyz ; ja
+909;04.02.2016; Herr ; Dr. ; Ferdinand ; Michels ; 4.10.1980 ; Kerßenbrockstr. 169 ;79359; Riegel am Kaiserstuhl ; 07642 / 77897524 ; 0153 / 3073289 ; 07642 / 50480945 ; f.michels@mail.xyz ; ja
+910;02.06.2016; Herr ; Dr. ; Phil ; Watts ; 11.1.1938 ; Wormser Str. 33 ;24878; Lottorf ; 04621 / 1050757 ; 0153 / 6381458 ; 04621 / 10459714 ; p.watts@mail.xyz ; ja
+911;16.04.2016; Frau ; Dr. ; Anke ; Lippert ; 5.4.1990 ; Am Blütenhain 57 ;97517; Rannungen ; 09738 / 2268575 ; 0165 / 2914039 ; 09738 / 76828018 ; a.lippert@mail.xyz ; ja
+912;15.07.2016; Herr ; Dr. ; Carsten ; Lambrecht ; 10.3.1937 ; Kochwiesenstr. 71 ;9430; Drebach ; 03725 / 14750977 ; 0151 / 6454952 ; 03725 / 66005710 ; c.lambrecht@mail.xyz ; ja
+913;07.09.2016; Herr ; Dr. ; Anthony ; Mitchell ; 14.8.1969 ; Am Filk 99 ;54636; Heilenbach ; 06561 / 45832354 ; 0156 / 9644704 ; 06561 / 55371248 ; a.mitchell@mail.xyz ; ja
+914;17.07.2016; Frau ; Dr. ; Cornelia ; Wehr ; 25.3.1943 ; Grevener Str. 83 ;66919; Herschberg ; 06375 / 17462915 ; 0172 / 1000130 ; 06375 / 6514956 ; cornelia.wehr@mail.xyz ; ja
+915;20.12.2016; Herr ; Prof. ; Sascha ; Volkmann ; 12.9.1926 ; Alte Apotheke 134 ;91634; Wilburgstetten ; 09853 / 63502048 ; 0172 / 5685122 ; 09853 / 44795401 ; s.volkmann@mail.xyz ; ja
+916;26.03.2016; Herr ; Dr. ; Mohammed ; Reiss ; 22.12.1929 ; Meesenstiege 26 ;54570; Rockeskyll ; 06591 / 63997408 ; 0174 / 5306249 ; 06591 / 44454461 ; m.reiss@mail.xyz ; ja
+917;17.05.2016; Herr ; Dr. ; Damian ; Baltes ; 8.11.1929 ; Olpener Str. 155 ;85416; Langenbach ; 08761 / 23245658 ; 0164 / 3690037 ; 08761 / 19610504 ; d.baltes@mail.xyz ; ja
+918;21.04.2016; Herr ; Dr. ; Liam ; Runge ; 13.11.1961 ; Landoisstr. 151 ;75394; Oberreichenbach ; 07051 / 38625420 ; 0159 / 8683035 ; 07051 / 39453067 ; l.runge@mail.xyz ; ja
+919;09.04.2016; Frau ; Dr. ; Franziska ; Moss ; 17.12.1928 ; Nieland 49 ;25489; Haselau ; 04129 / 95620153 ; 0152 / 8952158 ; 04129 / 31802596 ; f.moss@mail.xyz ; ja
+920;07.08.2016; Frau ; Dr. ; Natalie ; Brinkmann ; 10.2.1958 ; Am Nubbenberg 103 ;50968; Köln ; 0221 / 18395282 ; 0172 / 2476014 ; 0221 / 79590017 ; n.brinkmann@mail.xyz ; ja
+921;05.04.2016; Frau ; Dr. ; Pauline ; Denzer ; 2.12.1951 ; Kappenberger Damm 187 ;70806; Kornwestheim ; 07154 / 75416215 ; 0179 / 1826358 ; 07154 / 57428361 ; pauline.denzer@mail.xyz ; ja
+922;09.01.2016; Herr ; Dr. ; Till ; Heidenreich ; 2.9.1988 ; Am Dornbusch 118 ;87647; Unterthingau ; 08377 / 69406921 ; 0164 / 9462815 ; 08377 / 4578126 ; t.heidenreich@mail.xyz ; ja
+923;01.01.2016; Herr ; Dr. ; Curt ; Olson ; 16.1.1973 ; Augustastr. 2 ;74392; Freudental ; 07143 / 47167983 ; 0173 / 8307355 ; 07143 / 3625318 ; curt.olson@mail.xyz ; ja
+924;04.11.2016; Herr ; Dr. ; Jonas ; Schuh ; 28.2.1939 ; Langeworth 83 ;55457; Horrweiler ; 06701 / 98102414 ; 0169 / 4020962 ; 06701 / 26321528 ; j.schuh@mail.xyz ; ja
+925;10.05.2016; Frau ; Prof. ; Katarina ; Seyfert ; 15.2.1997 ; Uhuweg 74 ;49479; Ibbenbüren ; 05451 / 34131163 ; 0168 / 4400222 ; 05451 / 57821446 ; katarina.seyfert@mail.xyz ; ja
+926;27.12.2016; Herr ; Dr. ; Levin ; Fisher ; 18.6.1937 ; Marktstr. 107a ;23911; Mustin ; 04541 / 59158810 ; 0170 / 4111828 ; 04541 / 6209584 ; levin.fisher@mail.xyz ; ja
+927;14.04.2016; Herr ; Dr. ; Jörn ; Pierce ; 11.8.1951 ; Wormser Str. 186 ;16348; Schorfheide ; 03335 / 33290772 ; 0161 / 9414872 ; 03335 / 81310340 ; joern.pierce@mail.xyz ; ja
+928;23.05.2016; Herr ; Dr. ; Gert ; Haake ; 25.5.1991 ; Bünkamp 183 ;19288; Ludwigslust ; 03874 / 43050815 ; 0179 / 7873262 ; 03874 / 55898697 ; g.haake@mail.xyz ; ja
+929;04.11.2016; Frau ; Dr. ; Emma ; Stiehler ; 23.6.1963 ; Rinscheweg 11 ;88450; Berkheim ; 08395 / 68016263 ; 0178 / 7893208 ; 08395 / 65974676 ; emma.stiehler@mail.xyz ; ja
+930;26.06.2016; Frau ; Dr. ; Teresa ; Sigmund ; 7.3.1956 ; Max-Winkelmann-Str. 199 ;97340; Marktbreit ; 09332 / 6528865 ; 0154 / 3944396 ; 09332 / 94625438 ; t.sigmund@mail.xyz ; ja
+931;09.11.2016; Herr ; Prof. ; Jonas ; Rodriquez ; 5.3.1953 ; Münsterstr. 175 ;56745; Weibern ; 02655 / 14639718 ; 0152 / 5587630 ; 02655 / 60615864 ; jonas.rodriquez@mail.xyz ; ja
+932;04.10.2016; Herr ; Dr. ; Michael ; Dieckmann ; 6.4.1952 ; Wiedehagen 139 ;21442; Toppenstedt ; 04172 / 50442194 ; 0155 / 2399258 ; 04172 / 89785565 ; m.dieckmann@mail.xyz ; ja
+933;09.03.2016; Herr ; Dr. ; Roman ; Schmitt ; 21.7.1921 ; Rektoratsweg 179 ;25373; Ellerhoop ; 04120 / 41839991 ; 0164 / 3114287 ; 04120 / 44245145 ; roman.schmitt@mail.xyz ; ja
+934;20.01.2016; Herr ; Dr. ; Carsten ; Kremer ; 5.7.1950 ; Erikahof 118 ;31633; Leese ; 05025 / 9260566 ; 0162 / 1568139 ; 05025 / 29312389 ; c.kremer@mail.xyz ; ja
+935;13.04.2016; Frau ; Prof. ; Antje ; Burmeister ; 19.12.1983 ; Friedrichstr. 169 ;25866; Mildstedt ; 04841 / 93609031 ; 0151 / 4552399 ; 04841 / 88623174 ; a.burmeister@mail.xyz ; ja
+936;07.09.2016; Frau ; Dr. ; Erna ; Reim ; 21.9.1951 ; Piusallee 109 ;26607; Aurich ; 04941 / 31816172 ; 0161 / 8642720 ; 04941 / 76183424 ; e.reim@mail.xyz ; ja
+937;19.08.2016; Frau ; Dr. ; Xenia ; Westphal ; 16.9.1950 ; Dingbängerweg 132 ;82281; Egenhofen ; 08145 / 39341834 ; 0174 / 8712799 ; 08145 / 66390334 ; x.westphal@mail.xyz ; ja
+938;07.02.2016; Frau ; Dr. ; Alena ; Bernhard ; 15.11.1926 ; Kirchstr. 40 ;33335; Gütersloh ; 05241 / 46261396 ; 0170 / 2527038 ; 05241 / 94224227 ; alena.bernhard@mail.xyz ; ja
+939;10.09.2016; Frau ; Dr. ; Martha ; Kainz ; 4.6.1926 ; Scheibenstr. 58 ;25597; Kronsmoor ; 04828 / 64964684 ; 0161 / 9585704 ; 04828 / 31978201 ; m.kainz@mail.xyz ; ja
+940;01.08.2016; Frau ; Dr. ; Elizabeth ; Muller ; 12.1.1934 ; Angelmodder Weg 23 ;9217; Burgstädt ; 03724 / 51557099 ; 0151 / 8157713 ; 03724 / 49833519 ; elizabeth.muller@mail.xyz ; ja
+941;25.09.2016; Frau ; Dr. ; Emely ; Semmler ; 3.6.1973 ; Am Grauen Stein 189 ;74229; Oedheim ; 07136 / 27674221 ; 0160 / 4312064 ; 07136 / 81908483 ; e.semmler@mail.xyz ; ja
+942;27.12.2016; Frau ; Prof. ; Elena ; Senioren ; 19.5.1965 ; Christinastr. 80 ;24107; Ottendorf ; 04340 / 75652674 ; 0168 / 5819736 ; 04340 / 28161186 ; e.senioren@mail.xyz ; ja
+943;07.05.2016; Frau ; Dr. ; Samira ; Dennis ; 1.4.1920 ; Südstr. 97 ;48249; Dülmen ; 02594 / 25062211 ; 0161 / 3835128 ; 02594 / 66642735 ; samira.dennis@mail.xyz ; ja
+944;12.06.2016; Herr ; Prof. ; Ali ; Stern ; 11.9.1983 ; Oberschlesier Str. 154 ;24327; Blekendorf ; 04381 / 44632667 ; 0173 / 5627125 ; 04381 / 13576420 ; a.stern@mail.xyz ; ja
+945;31.03.2016; Herr ; Dr. ; Henri ; Senger ; 17.5.1921 ; Widdeshover Weg 193 ;17348; Groß Daberkow ; 03963 / 39434677 ; 0155 / 1856057 ; 03963 / 22917550 ; henri.senger@mail.xyz ; ja
+946;30.07.2016; Herr ; Prof. ; Georg ; Schober ; 12.8.1999 ; Speestr. - 55 ;27729; Hambergen ; 04793 / 86520104 ; 0156 / 4595648 ; 04793 / 12716422 ; georg.schober@mail.xyz ; ja
+947;08.01.2016; Herr ; Dr. ; Juri ; Lutter ; 21.12.1991 ; Eifelstr. 88 ;89444; Villenbach ; 08296 / 91975856 ; 0162 / 6904407 ; 08296 / 35376086 ; j.lutter@mail.xyz ; ja
+948;04.02.2016; Frau ; Dr. ; Marike ; Carsten ; 13.12.1921 ; Mindener Str. 35 ;53539; Welcherath ; 02692 / 82758321 ; 0152 / 7355217 ; 02692 / 9817424 ; m.carsten@mail.xyz ; ja
+949;19.02.2016; Frau ; Dr. ; Chantall ; Panzer ; 6.7.1939 ; Frauenstr. 181 ;54597; Merlscheid ; 06550 / 96659710 ; 0157 / 7021186 ; 06550 / 53556111 ; chantall.panzer@mail.xyz ; ja
+950;11.06.2016; Herr ; Dr. ; Arne ; Löwe ; 9.8.1931 ; Steinfurter Str. 169 ;80638; München ; 089 / 13502623 ; 0171 / 2390714 ; 089 / 17573713 ; a.loewe@mail.xyz ; ja
+951;06.09.2016; Herr ; Dr. ; Torben ; Schüttler ; 3.3.1928 ; Dammstr. 191a ;27568; Bremerhaven ; 0471 / 45163026 ; 0176 / 7714131 ; 0471 / 17656046 ; t.schuettler@mail.xyz ; ja
+952;19.09.2016; Frau ; Dr. ; Layla ; Sohn ; 27.9.1982 ; Am Pulverschuppen 74 ;56564; Neuwied ; 02631 / 95285418 ; 0172 / 2690776 ; 02631 / 44128805 ; layla.sohn@mail.xyz ; ja
+953;13.03.2016; Herr ; Dr. ; Ricardo ; Stefan ; 6.8.1930 ; Eifelstr. 114 ;35644; Hohenahr ; 06446 / 91130796 ; 0154 / 2022267 ; 06446 / 49797517 ; r.stefan@mail.xyz ; ja
+954;28.09.2016; Herr ; Dr. ; Ferdinand ; Euler ; 15.10.1978 ; Von-Holte-Str. 101 ;33034; Brakel ; 05272 / 34388510 ; 0168 / 1100821 ; 05272 / 62329280 ; ferdinand.euler@mail.xyz ; ja
+955;31.08.2016; Herr ; Dr. ; Manuel ; Clemens ; 2.6.1981 ; Marsweg 51 ;96151; Breitbrunn ; 09536 / 26988920 ; 0169 / 7544853 ; 09536 / 60702725 ; m.clemens@mail.xyz ; ja
+956;14.01.2016; Frau ; Dr. ; Samira ; Lindsey ; 13.10.1934 ; Am Wigbold 92a ;87758; Kronburg ; 08394 / 19842074 ; 0168 / 1244980 ; 08394 / 39648450 ; s.lindsey@mail.xyz ; ja
+957;23.04.2016; Herr ; Dr. ; David ; Maldonado ; 11.2.1962 ; Bohlweg 161 ;30916; Isernhagen ; 0511 / 62408721 ; 0164 / 7389404 ; 0511 / 77334960 ; david.maldonado@mail.xyz ; ja
+958;10.11.2016; Frau ; Prof. ; Brigitte ; Jacobs ; 24.8.1978 ; Neißestr. 58 ;89075; Ulm ; 0731 / 71257798 ; 0157 / 5605111 ; 0731 / 29114966 ; b.jacobs@mail.xyz ; ja
+959;11.07.2016; Frau ; Dr. ; Rita ; Scheer ; 6.11.1972 ; Merheimer Str. 155 ;29649; Wietzendorf ; 05196 / 82251164 ; 0165 / 1513082 ; 05196 / 20734650 ; rita.scheer@mail.xyz ; ja
+960;04.12.2016; Herr ; Dr. ; Matti ; Kaufhold ; 14.5.1940 ; Dahlweg 176 ;27232; Sulingen ; 04271 / 58509244 ; 0163 / 8527235 ; 04271 / 26841155 ; m.kaufhold@mail.xyz ; ja
+961;10.02.2016; Herr ; Prof. ; Tore ; Zacher ; 20.7.1925 ; Wolbecker Str. 79 ;55469; Ohlweiler ; 06761 / 2716779 ; 0160 / 1056761 ; 06761 / 47276782 ; t.zacher@mail.xyz ; ja
+962;08.08.2016; Frau ; Dr. ; Carina ; Seifert ; 4.6.1999 ; Mersmannsstiege 67 ;34434; Borgentreich ; 05643 / 72960166 ; 0171 / 7362593 ; 05643 / 22789561 ; carina.seifert@mail.xyz ; ja
+963;20.01.2016; Frau ; Dr. ; Linda ; Hey ; 16.2.1996 ; Kösliner Str. 54 ;8064; Zwickau ; 0375 / 65357468 ; 0160 / 9269951 ; 0375 / 69034824 ; linda.hey@mail.xyz ; ja
+964;26.06.2016; Herr ; Prof. ; Heinrich ; Mäder ; 7.5.1943 ; Am Blütenhain 22 ;19073; Schossin ; 03869 / 40078789 ; 0154 / 2847300 ; 03869 / 19495557 ; heinrich.maeder@mail.xyz ; ja
+965;16.07.2016; Frau ; Prof. ; Lorena ; Steele ; 13.7.1984 ; Florentine-Eichler-Str. 37 ;85665; Moosach ; 08091 / 29302398 ; 0170 / 5648161 ; 08091 / 89646764 ; lorena.steele@mail.xyz ; ja
+966;13.08.2016; Frau ; Dr. ; Manuela ; Schröter ; 8.8.1942 ; Im Haubenfeld 22 ;97271; Kleinrinderfeld ; 09366 / 81926649 ; 0166 / 2769846 ; 09366 / 64650271 ; m.schroeter@mail.xyz ; ja
+967;08.06.2016; Frau ; Dr. ; Joana ; Schwenk ; 23.5.1971 ; Kanalstr. 134 ;91486; Uehlfeld ; 09163 / 46688475 ; 0171 / 7381572 ; 09163 / 91657562 ; joana.schwenk@mail.xyz ; ja
+968;22.09.2016; Frau ; Dr. ; Mareike ; Riley ; 9.2.1929 ; Handorfer Str. 145 ;92699; Bechtsrieth ; 0961 / 42678881 ; 0175 / 8566471 ; 0961 / 89835971 ; mareike.riley@mail.xyz ; ja
+969;02.09.2016; Frau ; Dr. ; Jacqueline ; Heinrich ; 19.3.1934 ; Lassallestr. 126 ;4910; Elsterwerda ; 03533 / 6698896 ; 0178 / 9661795 ; 03533 / 4697863 ; j.heinrich@mail.xyz ; ja
+970;14.09.2016; Frau ; Dr. ; Juliana ; Gehrke ; 9.8.1949 ; Hogenbergstr. 91 ;93149; Nittenau ; 09436 / 97986548 ; 0162 / 8966174 ; 09436 / 63826249 ; j.gehrke@mail.xyz ; ja
+971;22.12.2016; Frau ; Dr. ; Selin ; Singleton ; 25.5.1972 ; Jägerstr. A 166 ;94551; Lalling ; 09904 / 37156877 ; 0156 / 6648196 ; 09904 / 58516866 ; s.singleton@mail.xyz ; ja
+972;09.05.2016; Frau ; Dr. ; Vivienne ; Nash ; 25.6.1935 ; Pankokstr. 156 ;55494; Wahlbach ; 06761 / 3711867 ; 0159 / 4042753 ; 06761 / 36214602 ; v.nash@mail.xyz ; ja
+973;17.11.2016; Frau ; Dr. ; Magdalena ; Mosch ; 7.12.1979 ; Herdingstr. 52 ;88316; Isny ; 07562 / 9450509 ; 0166 / 2723343 ; 07562 / 1096938 ; magdalena.mosch@mail.xyz ; ja
+974;28.10.2016; Herr ; Prof. ; Detlef ; Sachse ; 24.10.1989 ; Friesenring 66 ;19077; Uelitz ; 03868 / 8341923 ; 0165 / 4296017 ; 03868 / 9950188 ; d.sachse@mail.xyz ; ja
+975;01.03.2016; Herr ; Dr. ; Peter ; Kolb ; 20.10.1979 ; Lassallestr. 129 ;76831; Eschbach ; 06341 / 25933198 ; 0159 / 2268685 ; 06341 / 21872844 ; p.kolb@mail.xyz ; ja
+976;04.04.2016; Frau ; Dr. ; Jenny ; Sabine ; 10.6.1974 ; Dingbängerweg 127 ;21521; Aumühle ; 04104 / 56666998 ; 0175 / 7545035 ; 04104 / 30545664 ; jenny.sabine@mail.xyz ; ja
+977;08.11.2016; Herr ; Dr. ; Peter ; Kehr ; 8.4.1948 ; Angelmodder Weg 192 ;59969; Hallenberg ; 02984 / 70693375 ; 0173 / 7590304 ; 02984 / 963095 ; p.kehr@mail.xyz ; ja
+978;05.06.2016; Frau ; Dr. ; Larissa ; Schmied ; 14.3.1924 ; Rüschhausweg 80 ;76332; Bad Herrenalb ; 07083 / 30727873 ; 0152 / 7986814 ; 07083 / 82158964 ; larissa.schmied@mail.xyz ; ja
+979;01.12.2016; Herr ; Dr. ; Berndt ; Lampe ; 10.10.1933 ; Piusstr. 121a ;35685; Dillenburg ; 02771 / 17468199 ; 0158 / 5036456 ; 02771 / 94985089 ; berndt.lampe@mail.xyz ; ja
+980;03.01.2016; Frau ; Dr. ; Hannah ; George ; 23.5.1996 ; Raesfeldstr. 18 ;19071; Brüsewitz ; 08567 / 93424634 ; 0158 / 8973747 ; 08567 / 56337623 ; h.george@mail.xyz ; ja
+981;17.08.2016; Herr ; Dr. ; Konstantin ; Wecker ; 15.7.1954 ; Ossenkampstiege 129 ;13353; Wedding ; 030 / 66710376 ; 0157 / 2664317 ; 030 / 33532981 ; konstantin.wecker@mail.xyz ; ja
+982;21.05.2016; Herr ; Dr. ; Artur ; Hutter ; 23.7.1922 ; Steinfurter Str. 128 ;56290; Buch ; 06762 / 97604146 ; 0155 / 6000071 ; 06762 / 66618737 ; a.hutter@mail.xyz ; ja
+983;20.07.2016; Herr ; Prof. ; Gerhardt ; Norman ; 25.2.1990 ; Kappenberger Damm 131 ;33449; Langenberg ; 05248 / 27399188 ; 0153 / 9028777 ; 05248 / 76341611 ; g.norman@mail.xyz ; ja
+984;13.06.2016; Frau ; Prof. ; Sophie ; Schäfers ; 15.4.1921 ; Templerweg 51 ;72644; Oberboihingen ; 07022 / 77729961 ; 0175 / 8795650 ; 07022 / 32665409 ; sophie.schaefers@mail.xyz ; ja
+985;09.04.2016; Herr ; Dr. ; Mathias ; Herr ; 5.3.1997 ; Josef-Suwelack-Weg 124 ;23815; Geschendorf ; 04553 / 92141349 ; 0157 / 2680981 ; 04553 / 59323589 ; m.herr@mail.xyz ; ja
+986;02.05.2016; Frau ; Dr. ; Tanja ; Schulte ; 19.8.1973 ; Mierendorffstr. 53 ;41063; Mönchengladbach ; 02161 / 95100193 ; 0169 / 8717635 ; 02161 / 34142689 ; tanja.schulte@mail.xyz ; ja
+987;27.11.2016; Herr ; Dr. ; Leonardo ; Yilmaz ; 3.7.1979 ; Sporckweg 123 ;19071; Brüsewitz ; 08567 / 57628868 ; 0177 / 3880557 ; 08567 / 94792913 ; l.yilmaz@mail.xyz ; ja
+988;04.12.2016; Frau ; Dr. ; Stephanie ; Fröhlich ; 14.3.1987 ; Steinkamp 125 ;23909; Giesensdorf ; 04541 / 1096762 ; 0160 / 6432038 ; 04541 / 51714205 ; stephanie.froehlich@mail.xyz ; ja
+989;24.12.2016; Frau ; Dr. ; Giulia ; Schenk ; 1.4.1966 ; Paul-Engelhard-Weg 164 ;24257; Köhn ; 04344 / 56283325 ; 0152 / 3897563 ; 04344 / 26064747 ; g.schenk@mail.xyz ; ja
+990;04.03.2016; Frau ; Dr. ; Helga ; Morgenstern ; 15.2.1994 ; Stolbergstr. 120 ;85095; Denkendorf ; 08466 / 59756825 ; 0153 / 2929911 ; 08466 / 84343848 ; h.morgenstern@mail.xyz ; ja
+991;30.03.2016; Herr ; Dr. ; Willi ; Schenk ; 27.1.1923 ; Dodostr. 138 ;94154; Neukirchen vorm Wald ; 08504 / 95120285 ; 0151 / 2679649 ; 08504 / 95800419 ; w.schenk@mail.xyz ; ja
+992;17.08.2016; Frau ; Dr. ; Annalena ; Hettich ; 27.3.1980 ; Friedrichstr. 181 ;54533; Hasborn ; 06574 / 74764018 ; 0159 / 5727390 ; 06574 / 49988062 ; annalena.hettich@mail.xyz ; ja
+993;05.03.2016; Herr ; Dr. ; Reinhard ; Specht ; 19.11.1922 ; Lassallestr. 31a ;54646; Wettlingen ; 06561 / 84892297 ; 0153 / 6675295 ; 06561 / 10866484 ; r.specht@mail.xyz ; ja
+994;22.03.2016; Herr ; Prof. ; Lion ; Andres ; 19.3.1998 ; Bielefelder Str. 179 ;46537; Dinslaken ; 02064 / 46872757 ; 0171 / 6432739 ; 02064 / 74674053 ; lion.andres@mail.xyz ; ja
+995;07.07.2016; Frau ; Dr. ; Regina ; Stefan ; 8.1.1952 ; Idenbrockplatz 194 ;32609; Hüllhorst ; 05744 / 71581644 ; 0166 / 2049042 ; 05744 / 25290592 ; r.stefan@mail.xyz ; ja
+996;29.06.2016; Herr ; Dr. ; Sven ; Breuer ; 21.6.1998 ; Buldernweg 28 ;84574; Taufkirchen ; 08638 / 19412806 ; 0163 / 5109166 ; 08638 / 85017257 ; sven.breuer@mail.xyz ; ja
+997;27.08.2016; Frau ; Dr. ; Hannah ; Georgi ; 21.4.1999 ; Friedrich-Ebert-Str. 32 ;63579; Freigericht ; 06055 / 56800240 ; 0162 / 4078349 ; 06055 / 45507804 ; hannah.georgi@mail.xyz ; ja
+998;26.06.2016; Frau ; Prof. ; Ursula ; Rodriquez ; 23.1.1984 ; Grevener Str. 147 ;83458; Schneizlreuth ; 08651 / 38459820 ; 0151 / 3896383 ; 08651 / 551194 ; ursula.rodriquez@mail.xyz ; ja
+999;05.02.2016; Frau ; Dr. ; Maja ; Junge ; 22.4.1945 ; Carossastr. 183 ;89353; Glött ; 09075 / 53590127 ; 0160 / 6193721 ; 09075 / 88568496 ; m.junge@mail.xyz ; ja
+1000;19.03.2016; Frau ; Dr. ; Lisa ; Eckstein ; 3.7.1983 ; Rektoratsweg 95 ;14055; Charlottenburg ; 030 / 16233586 ; 0158 / 3124063 ; 030 / 59436248 ; lisa.eckstein@mail.xyz ; ja
