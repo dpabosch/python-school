@@ -51,23 +51,26 @@ def read_and_insert():
     filename = "../../../challenge/Testdaten_1.csv"
     csvReader = csv.DictReader(open(filename, newline=''), skipinitialspace=True, delimiter=';', quotechar='|')
     for row in csvReader:
+        row = {x.strip(): y for x, y in row.items()}
+        row = dict(zip(row.keys(), [v.strip() if isinstance(v,str) else v for v in row.values()]))
+        print(row)
         person = Person()
-        person.vorname = row["Vorname  "].strip()
-        person.nachname = row["Nachname  "].strip()
-        person.geburtsdatum = datetime.datetime.strptime(row["Geburtsdatum  "].strip(), "%d.%m.%Y").date()
-        person.id = row["Nr. "].strip()
-        person.email = row["E-Mail "].strip()
-        person.telefon = row["Telefon  "].strip()
-        person.newsletter = str2bool(row["Newsletter"].strip())
+        person.vorname = row["Vorname"]
+        person.nachname = row["Nachname"]
+        person.geburtsdatum = datetime.datetime.strptime(row["Geburtsdatum"].strip(), "%d.%m.%Y").date()
+        person.id = row["Nr."]
+        person.email = row["E-Mail"]
+        person.telefon = row["Telefon"]
+        person.newsletter = str2bool(row["Newsletter"])
 
-        strasse = row["Straße  "].strip().split(" ")[0]
-        str_number = row["Straße  "].strip().split(" ")[len(row["Straße  "].strip().split(" ")) - 1]
+        strasse = row["Straße"].split(" ")[0]
+        str_number = row["Straße"].split(" ")[len(row["Straße"].split(" ")) - 1]
 
         address = Address()
         address.street_name = strasse
         address.street_number = str_number
-        address.post_code = row["PLZ  "].strip()
-        address.city = row["Stadt  "].strip()
+        address.post_code = row["PLZ"].strip()
+        address.city = row["Stadt"].strip()
         address.id = person.id
         address.person = person
 
