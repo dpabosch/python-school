@@ -13,7 +13,7 @@ FIELD_LENGTH = 250
 
 
 def str2bool(v):
-    return v.lower() in ("Ja", "ja")
+    return v.lower() in ("ja")
 
 
 Base = declarative_base()
