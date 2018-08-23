@@ -8,7 +8,7 @@ website = 'https://de.wikipedia.org/wiki/Liste_von_H%C3%BChnerrassen'
 
 huehner = hp.get_huhn_mit_min_legeleistung(hp.parse_merkmale_from(hp.parse_huhn_table_from(website)),0)
 
-columns = " STRING,".join((convert_merkmal_to_column(merkmal) for merkmal in huehner[0].merkmale.keys()))
+columns = " varchar(255),".join((convert_merkmal_to_column(merkmal) for merkmal in huehner[0].merkmale.keys()))
 
 create_huhn_table_str = """CREATE TABLE rasse (
                  id INTEGER PRIMARY KEY AUTOINCREMENT,{})""".format(columns)
