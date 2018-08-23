@@ -21,7 +21,6 @@ def write_csv(filename, listOfEntrys, delimiter=';'):
     for row in listOfEntrys:
         writer.writerow(row)
 
-
 if __name__ == '__main__':
     list_of_dicts_from_file = read_csv('../probieren.csv')
     write_csv('output_function.csv', list_of_dicts_from_file, delimiter=';')
