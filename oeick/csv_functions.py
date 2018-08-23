@@ -2,18 +2,18 @@
 
 import csv
 
-ENCODING = 'utf-8'
+DEFAULT_ENCODING = 'utf-8'
 
 
-def read_csv_file(filename, delimiter=';'):
-    reader = csv.DictReader(open(filename, 'r', encoding=ENCODING),
+def read_csv_file(filename, delimiter=';', encoding=DEFAULT_ENCODING):
+    reader = csv.DictReader(open(filename, 'r', encoding=encoding),
                             delimiter=delimiter)
     return [{f: r[f] for f in r} for r in reader]
 
 
 def write_csv_file(filename, list_of_dicts, delimiter=';'):
     field_names = list_of_dicts[0].keys()
-    writer = csv.DictWriter(open(filename, 'w', newline='', encoding=ENCODING),
+    writer = csv.DictWriter(open(filename, 'w', newline='', encoding=DEFAULT_ENCODING),
                             field_names,
                             delimiter=delimiter)
     writer.writeheader()

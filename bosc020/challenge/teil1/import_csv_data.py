@@ -7,13 +7,15 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
 from sqlalchemy.orm import sessionmaker
 
+from pprint import pprint
+
 SQLITE_CONNECTION_STRING = 'sqlite:///adress_person.db'
 
 FIELD_LENGTH = 250
 
 
 def str2bool(v):
-    return v.lower() in ("ja")
+    return v.lower() in ("ja", "yes", "jaaaaaaa")
 
 
 Base = declarative_base()
@@ -28,6 +30,9 @@ class Person(Base):
     telefon = Column(String(FIELD_LENGTH), nullable=True)
     email = Column(String(FIELD_LENGTH), nullable=True)
     newsletter = Column(Boolean(), nullable=True)
+
+    def __repr__(self) -> str:
+        return self.vorname + " - " +self.nachname
 
 
 class Address(Base):
@@ -47,7 +52,7 @@ Base.metadata.create_all(engine)
 
 
 def read_and_insert():
-    global person, address, address
+    global person, address
     filename = "../../../challenge/Testdaten_1.csv"
     csvReader = csv.DictReader(open(filename, newline=''), skipinitialspace=True, delimiter=';', quotechar='|')
     for row in csvReader:
@@ -85,17 +90,21 @@ def read_and_insert():
         session.add(address)
         session.commit()
 
-read_and_insert()
+#read_and_insert()
 
 DBSession = sessionmaker(bind=engine)
 session = DBSession()
-print(session.query(Person).all())
+#print(len(session.query(Person).all()))
 
-person = session.query(Person).first()
-print(person.vorname)
+#person = session.query(Person).first()
+#print(person.vorname)
 
-session.query(Address).filter(Address.person == person).all()
+#session.query(Address).filter(Address.person == person).all()
 
-session.query(Address).filter(Address.person == person).one()
-address = session.query(Address).filter(Address.person == person).one()
-print(address.post_code)
+#session.query(Address).filter(Address.person == person).one()
+#address = session.query(Address).filter(Address.person == person).one()
+
+
+pprint(session.query(Person).filter(Person.vorname == "Pauline").all())
+
+#print(address.post_code)
