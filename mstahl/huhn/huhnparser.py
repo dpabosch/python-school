@@ -51,7 +51,11 @@ def __parse_kurzname(name_raw):
 def __set_grossrasse(header, huhn, row_content):
     for i in range(len(header)):
         value = row_content[i].text.strip()
-        huhn.merkmale[header[i]] = '' if value in ['-','?','–'] else value
+        column = str(header[i])
+        if (column.startswith("Urzwerg")):
+            huhn.merkmale["urzwerg"] = '' if value in ['-', '?', '–'] else value
+        else:
+            huhn.merkmale[column] = '' if value in ['-', '?', '–'] else value
     huhn.merkmale["kurzname"]=__parse_kurzname(huhn.merkmale["Name"])
 
 
@@ -60,7 +64,11 @@ def __set_zwergrasse(header, huhn, row_content):
     huhn.merkmale["legeleistung"]=''
     huhn.merkmale["kurzname"] = __parse_kurzname(huhn.merkmale[header[0]])
     for i in range(1, len(header)):
-        huhn.merkmale[header[i]] = ''
+        column = header[i]
+        if (column.startswith("Urzwerg")):
+            huhn.merkmale["urzwerg"] = ''
+        else:
+            huhn.merkmale[column] = ''
 
 def get_huhn_mit_max_legeleistung(huehner):
     max_huehner = []
@@ -86,9 +94,12 @@ def get_huhn_mit_min_legeleistung(huehner,min_legeleistung):
         legeleistung_raw = huhn.merkmale["Legeleistungpro Jahr"]
         if legeleistung_raw:
             legeleistung = int(__legeleistung_parser.search(legeleistung_raw).group())
-            if legeleistung > min_legeleistung:
+            if legeleistung >= min_legeleistung:
                 huhn.merkmale["legeleistung"] = legeleistung
-                max_huehner.append(huhn)
+        else:
+            huhn.merkmale["legeleistung"] = ''
+        max_huehner.append(huhn)
+
     return max_huehner
 
 def get_huehner_graph(huehner):
