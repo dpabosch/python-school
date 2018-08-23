@@ -18,7 +18,6 @@ def plot_rassen(maximum):
     counter = maximum
     letzte_legeleistung = 0
 
-
     huehner.sort(key=lambda huhn: legeleistung_to_int(huhn[1]), reverse=True)
     for huhn in huehner:
         legeleistung = legeleistung_to_int(huhn[1])
@@ -28,6 +27,10 @@ def plot_rassen(maximum):
         xs.append(huhn[0])
         ys.append(legeleistung)
         letzte_legeleistung = legeleistung
+
+    plt.title("Leistungsstarke Hühnerrasssen")
+    plt.xlabel("Hühnerrasse")
+    plt.ylabel("Legeleistung Eier pro Jahr")
     plt.plot(xs, ys)
     plt.show()
 
@@ -45,6 +48,10 @@ def plot_legeleistung():
     legeleistung_vergleich_y = [x[1] for x in counts]
 
     plt.plot(legeleistung_vergleich_x, legeleistung_vergleich_y)
+    plt.title("Legeleistung und Hühnerrassen")
+    plt.xlabel("Legeleistung Eier pro Jahr")
+    plt.ylabel("Anzahl Hühnerrassen")
+    #plt.hist(legeleistung_vergleich_y, bins= legeleistung_vergleich_x)
     plt.show()
 
     c.close()
