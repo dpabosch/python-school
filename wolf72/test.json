@@ -1,0 +1,13 @@
+{
+  "description": {
+    "swagger": "/shop/swagger",
+    "swagger-ui": "/shop/docs"
+  },
+  "links": {
+    "products_url": "/shop/products/",
+    "vendors_url": "/shop/vendors/",
+    "categories_url": "/shop/categories/",
+    "customers_url": "/shop/customers/",
+    "orders_url": "/shop/orders/"
+  }
+}

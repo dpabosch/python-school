@@ -26,9 +26,6 @@ def read_csv(filename, encoding='UTF-8', delimiter=';'):
 
 headerList,contentList=read_csv('../challenge/Testdaten_1.csv', 'Windows-1252')
 
-for content in headerList:
-    print(content)
-
 con = cx_Oracle.connect('APPSOLAR_SCHEMA/DEVSOLAR@localhost/SOLDEV')
 #con = cx_Oracle.connect('APPSOLAR_DMD/CKUUSJYH@GTLDPATEST0002.dpa.bagint.com:1400/SOLTEST2')
 
